@@ -1,0 +1,75 @@
+{
+  "document_id": "fil_infos_fil_info_237",
+  "fichier": "sources_documentaires/fil-infos/fil-info-237.pdf",
+  "nom_fichier": "fil-info-237.pdf",
+  "metadata": {
+    "titre": "fil info 237",
+    "titre_court": "fil info 237",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "237"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 04 avril 2022 au 10 avril 2022 N° 237 LCB-FT. Derrière cet acronyme, une obligation devenue pratique professionnelle quotidienne : le notariat remplit désormais un rôle important dans la Lutte Contre le Blanchiment de capitaux et le Financement du Terrorisme. Nous sommes en effet devenus les premiers contributeurs du secteur non-ﬁnancier auprès du service de renseignement gouvernemental Tracﬁn.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-04-04",
+    "2022-04-10",
+    "2022-04-19",
+    "2022-05-13",
+    "2022-06-05"
+  ]
+}

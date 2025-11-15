@@ -1,0 +1,53 @@
+{
+  "document_id": "assurances_contrat_cyber_renouvellement_au_01_07_2025",
+  "fichier": "sources_documentaires/Assurances/CONTRAT CYBER RENOUVELLEMENT AU 01.07.2025.pdf",
+  "nom_fichier": "CONTRAT CYBER RENOUVELLEMENT AU 01.07.2025.pdf",
+  "metadata": {
+    "titre": "CONTRAT CYBER RENOUVELLEMENT AU 01.07.2025",
+    "titre_court": "CONTRAT CYBER RENOUVELLEMENT AU 01.07.2025",
+    "date_publication": "2025-07-01",
+    "date_effet": "2025-07-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "assurance",
+    "label": "Assurance",
+    "domaines_juridiques": [
+      "assurance professionnelle",
+      "prévoyance"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "Assurances"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les garanties cyber couvertes par ce contrat ?",
+    "Quel est le montant de la franchise en cas de cyberattaque ?",
+    "Comment déclarer un sinistre cyber ?",
+    "Quelles sont les exclusions du contrat cyber ?",
+    "Quelle est la procédure en cas de violation de données ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Contrat d'assurance cyber-risques pour les offices notariaux, renouvelé au 1er juillet 2025. Ce contrat couvre les risques liés aux cyberattaques, violations de données, pertes d'exploitation informatique et responsabilité civile numérique. Il définit les garanties, franchises, exclusions et procédures de déclaration de sinistre spécifiques à la profession notariale.",
+  "mots_cles": [
+    "cybersécurité",
+    "assurance professionnelle",
+    "cyber-risques",
+    "protection données",
+    "responsabilité civile"
+  ]
+}

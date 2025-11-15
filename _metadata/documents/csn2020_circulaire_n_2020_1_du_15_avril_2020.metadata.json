@@ -1,0 +1,82 @@
+{
+  "document_id": "csn2020_circulaire_n_2020_1_du_15_avril_2020",
+  "fichier": "sources_documentaires/CSN2020/Circulaire N 2020-1 du 15 avril 2020.pdf",
+  "nom_fichier": "Circulaire N 2020-1 du 15 avril 2020.pdf",
+  "metadata": {
+    "titre": "Circulaire N 2020 1 du 15 avril 2020",
+    "titre_court": "Circulaire N 2020 1 du 15 avril 2020",
+    "date_publication": "2020-01-01",
+    "date_effet": "2020-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2020,
+    "categorie_dossier": "CSN2020"
+  },
+  "reference": {
+    "type": "circulaire",
+    "numero": "2020-1"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "Quelles garanties sont couvertes ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 1"
+    ],
+    "complete": []
+  },
+  "resume": "1/2 Circulaire N° 2020 - 1 Paris, le 15 avril 2020 Le Président du CSN aux notaires employeurs , pour attribution. L'acte est parfait lorsque le notai re instrumentaire y appos e sa signature électronique sécurisée. Comme de droit, c’est bien le notaire qui s’assure de l’état -civil et de l’identité du comparant.",
+  "mots_cles": [
+    "formation professionnelle",
+    "instructions professionnelles",
+    "réglementation notariale"
+  ],
+  "dates_mentionnees": [
+    "2009-07-07",
+    "2017-09-28",
+    "2020-04-03",
+    "2020-04-15"
+  ]
+}

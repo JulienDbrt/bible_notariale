@@ -1,0 +1,73 @@
+{
+  "document_id": "fil_infos_fil_info_225",
+  "fichier": "sources_documentaires/fil-infos/fil-info-225.pdf",
+  "nom_fichier": "fil-info-225.pdf",
+  "metadata": {
+    "titre": "fil info 225",
+    "titre_court": "fil info 225",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "225"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 10 janvier 2022 au 16 janvier 2022 N° 225 Les notaires2normandie vous embarquent sur la Planète Droit Du 28 janvier au 6 février La sphère juridique en général et le notariat en particulier n’échappent pas à l’usage d’un vocabulaire spéciﬁque, souvent peu compréhensible pour nos clients. Grosse, minute, bien propre, usufruit… notre profession possède son propre langage, ses termes, son jargon. Notre Chambre a fait le pari de rendre ces notions plus accessibles en embarquant le public sur la Planète Droit, du vendredi 28 janvier au dimanche 6 février de 18h à minuit.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-01-10",
+    "2022-01-16",
+    "2022-02-03",
+    "2022-02-07",
+    "2022-02-08"
+  ]
+}

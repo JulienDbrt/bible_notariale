@@ -1,0 +1,135 @@
+{
+  "document_id": "csn2019_accord_egalite_professionnelle_entre_les_femmes_et_les_hommes_20190418",
+  "fichier": "sources_documentaires/CSN2019/Accord égalité professionnelle entre les femmes et les hommes 20190418.pdf",
+  "nom_fichier": "Accord égalité professionnelle entre les femmes et les hommes 20190418.pdf",
+  "metadata": {
+    "titre": "Accord égalité professionnelle entre les femmes et les hommes 20190418",
+    "titre_court": "Accord égalité professionnelle entre les femmes et",
+    "date_publication": "2019-04-18",
+    "date_effet": "2019-04-18",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "accord_branche",
+    "label": "Accord de branche",
+    "domaines_juridiques": [
+      "négociation collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2019,
+    "categorie_dossier": "CSN2019"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 9 fois dans le document"
+    },
+    {
+      "terme": "égalité professionnelle",
+      "synonymes": [
+        "égalité femmes-hommes"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 9 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 8 fois dans le document"
+    },
+    {
+      "terme": "harcèlement",
+      "synonymes": [
+        "harcèlement moral",
+        "harcèlement sexuel"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 8 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "formation professionnelle",
+      "synonymes": [
+        "formation continue",
+        "développement compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "congés payés",
+      "synonymes": [
+        "congés annuels",
+        "droits à congés"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quelles sont les modalités de prise de congés ?",
+    "Quelles sont les nouvelles dispositions négociées ?",
+    "Quelle est la durée de validité de cet accord ?",
+    "Comment sont calculés les droits à congés ?",
+    "Qui sont les parties signataires de cet accord ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 15",
+      "Article 15.1",
+      "Article 1",
+      "Article 31",
+      "Loi 2018-771",
+      "Article 2"
+    ],
+    "complete": []
+  },
+  "resume": ", dont le siège est à PANTIN (93), 14, rue Scandicci, représentée par Mme Lise VERDIER, Le Syndicat national des cadres et techniciens du notariat , dont le siège est à PARIS 8e (75), 59/63, rue du Rocher, représenté par M. Pierre EHRHARDT, ledit syndicat affilié à la C.F.E. - C.G.C ., La Fédération « commerce, services et force de vente » C.F.T.C.",
+  "mots_cles": [
+    "congés payés",
+    "droit social",
+    "formation professionnelle",
+    "négociation collective",
+    "prévention harcèlement",
+    "rémunération",
+    "égalité professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2001-06-08",
+    "2015-02-19",
+    "2018-06-14",
+    "2018-09-05",
+    "2019-04-18"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "document_id": "fil_infos_fil_info_2898",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2898.pdf",
+  "nom_fichier": "fil-info-2898.pdf",
+  "metadata": {
+    "titre": "fil info 2898",
+    "titre_court": "fil info 2898",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-02-15",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2898"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 220",
+      "Article 1594",
+      "Article 46"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 24 mars 2025 au 30 mars 2025 N° 2898 Immobilier : l’élan attendu des incitations PTZ et des dons familiaux exonérés de droits. Cette réforme dynamise non seulement l’accès à la propriété pour les primo-accédants, mais elle soutient également les familles modestes et les investisseurs responsables qui optent pour des projets à forte valeur ajoutée sociale et environnementale. Ces dispositifs devraient contribuer à compenser l’éventuel frein induit par la hausse des droits de mutat ion à titre onéreux votée dans nos trois départements à compter du 1er mai prochain.",
+  "mots_cles": [
+    "actualité juridique",
+    "assurance professionnelle",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2025-02-15",
+    "2025-03-15",
+    "2025-03-24",
+    "2025-03-27",
+    "2025-03-30"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "document_id": "fil_infos_fil_info_2857",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2857.pdf",
+  "nom_fichier": "fil-info-2857.pdf",
+  "metadata": {
+    "titre": "fil info 2857",
+    "titre_court": "fil info 2857",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2857"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 14.2",
+      "Article 257",
+      "Article 14",
+      "Décret 2024-87"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 08 avril 2024 au 14 avril 2024 N° 2857 Soyons des passeurs d'histoires A l’occasion du 80e anniversaire du Débarquement, la Chambre lance un appel à témoignag es sur la vie dans les ofﬁces pendant la Seconde Guerre mondiale. Les témoins de cette époque se font rares, mais cette période sombre a laissé des traces si profondes dans les mémoires de nos prédécesseurs qu’ils ont très souvent eu à cœur de nous les raconter , de génération en génération. A notre tour, de transmettre ces récits authentiques, aﬁn de faire rayonner l’attachement indéfectible des notaires dans la protection des droits et des intérêts des Français et contribuer à préserver la mémoire de cette période pour les générations futures.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-02-07",
+    "2024-03-14",
+    "2024-03-15",
+    "2024-04-08",
+    "2024-04-14"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "document_id": "fil_infos_fil_info_267",
+  "fichier": "sources_documentaires/fil-infos/fil-info-267.pdf",
+  "nom_fichier": "fil-info-267.pdf",
+  "metadata": {
+    "titre": "fil info 267",
+    "titre_court": "fil info 267",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "267"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 21 novembre 2022 au 27 novembre 2022 N° 267 À PARTIR DU 1er DÉCEMBRE: DÉCLAREZ VOTRE DOSSIER DE RC EN LIGNE Notre compagnie se voit dotée d'un nouvel outil numérique. Il s'agit de la plateforme désignée sous l'acronyme « decan » (déclaration d'assurance notariale) qui sera en service à partir du 1er décembre. Cette plateforme assure l'intégrité, la ﬁabilité, l'exhaustivité et la conﬁdentialité des informations échangées.",
+  "mots_cles": [
+    "actualité juridique",
+    "assurance professionnelle",
+    "cybersécurité",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-06-04",
+    "2022-11-15",
+    "2022-11-21",
+    "2022-11-27",
+    "2022-12-31"
+  ]
+}

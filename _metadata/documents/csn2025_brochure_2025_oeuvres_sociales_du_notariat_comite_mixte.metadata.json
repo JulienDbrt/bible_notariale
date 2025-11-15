@@ -1,0 +1,80 @@
+{
+  "document_id": "csn2025_brochure_2025_oeuvres_sociales_du_notariat_comite_mixte",
+  "fichier": "sources_documentaires/CSN2025/brochure_2025_-_oeuvres_sociales_du_notariat_-_comite_mixte.pdf",
+  "nom_fichier": "brochure_2025_-_oeuvres_sociales_du_notariat_-_comite_mixte.pdf",
+  "metadata": {
+    "titre": "brochure 2025 oeuvres sociales du notariat comite mixte",
+    "titre_court": "brochure 2025 oeuvres sociales du notariat comite ",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "œuvres sociales",
+      "comité mixte"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "CSN2025"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 3 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quelles sont les modalités de prise de congés ?",
+    "Comment sont calculés les droits à congés ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Conditions 3 ans d’ancienneté ininterrompue dans le notariat soit du 1erjanvier 2022 au 31 décembre 2024. Pour les attestations d’hébergement des ascendants, seuls les revenus du demandeur sont pris en compte. Pour les autres attestations d’hébergement, les revenus de l’hébergeant sont demandés.",
+  "mots_cles": [
+    "congés payés",
+    "instructions professionnelles",
+    "réglementation notariale",
+    "rémunération"
+  ],
+  "dates_mentionnees": [
+    "2024-12-31",
+    "2025-01-02",
+    "2025-05-31",
+    "2025-09-02",
+    "2025-10-31"
+  ]
+}

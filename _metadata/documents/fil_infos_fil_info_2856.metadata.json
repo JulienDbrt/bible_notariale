@@ -1,0 +1,96 @@
+{
+  "document_id": "fil_infos_fil_info_2856",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2856.pdf",
+  "nom_fichier": "fil-info-2856.pdf",
+  "metadata": {
+    "titre": "fil info 2856",
+    "titre_court": "fil info 2856",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2856"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "licenciement",
+      "synonymes": [
+        "rupture contrat",
+        "procédure disciplinaire"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 5 fois dans le document"
+    },
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 12.2"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 01 avril 2024 au 07 avril 2024 N° 2856 Emotion et ﬁscalité ne font pas bon ménage Certains confrères calvadosiens se sont émus du courrier du Directeur départemental des ﬁnances publiques leur rappelant les obligations en matière de délai légal pour déposer les déclarations de succession. Les confrères manchois et ornais ne seront sûrement pas en reste. Il est à parier que leur propre DDFIP ne devrait pas les oublier.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "procédure disciplinaire",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "1993-01-15",
+    "2024-01-31",
+    "2024-03-05",
+    "2024-03-21",
+    "2024-04-01"
+  ]
+}

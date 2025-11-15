@@ -1,0 +1,63 @@
+{
+  "document_id": "fil_infos_fil_info_2836",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2836.pdf",
+  "nom_fichier": "fil-info-2836.pdf",
+  "metadata": {
+    "titre": "fil info 2836",
+    "titre_court": "fil info 2836",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2836"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 06 novembre 2023 au 12 novembre 2023 N° 2836 Migration des adresses de messagerie Et si nous adoptions une identité numérique régionale. Réputation et sécurité : tels sont les enjeux de l’ambitieuse migration de nos adresses de messag erie qui a débuté ce 1er octobre pour s’achever ﬁn mars. Au-delà du nécessaire aspect sécuritaire de cette migration, il s’agit d’asseoir une identité forte pour notre profession.",
+  "mots_cles": [
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-08-31",
+    "2023-11-06",
+    "2023-11-12",
+    "2023-12-31"
+  ]
+}

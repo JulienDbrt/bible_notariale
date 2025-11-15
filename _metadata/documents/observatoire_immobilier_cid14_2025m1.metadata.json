@@ -1,0 +1,49 @@
+{
+  "document_id": "observatoire_immobilier_cid14_2025m1",
+  "fichier": "sources_documentaires/observatoire_immobilier/CID14_2025M1.pdf",
+  "nom_fichier": "CID14_2025M1.pdf",
+  "metadata": {
+    "titre": "CID14 2025M1",
+    "titre_court": "CID14 2025M1",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "immobilier",
+    "label": "Immobilier",
+    "domaines_juridiques": [
+      "transactions immobilières",
+      "observatoire"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "observatoire_immobilier"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Comment interpréter ces données pour mon secteur ?",
+    "Quels indicateurs sont suivis ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Mar ché immobilier des appart ements anciens Appart ements anciens Studios 2 pièces 3 pièces 4 pièces 5 pièces et plus Ensemble T ype de z one géogr aphique : D = Département, S = S ecteur , C = Commune, Q = Quartier P art et nb. v entes Prix/m² médian Prix médian Surf. médiane CAL V ADO S (D-14) 17 ,5% 41,0% 27 , 7% 10,2% 3,6% 3 958 3 640 € 3 550 € 2 830 € 2 540 € 2 500 € 3 190 € -0,8% 85 000 € 130 000 € 170 200 € 197 200 € 251 900 € 140 000 € 24 m² 39 m² 62 m² 79 m² 97 m² 45 m² P art et nb.",
+  "mots_cles": [
+    "observatoire",
+    "transactions immobilières"
+  ]
+}

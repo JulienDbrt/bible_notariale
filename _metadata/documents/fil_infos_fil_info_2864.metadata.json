@@ -1,0 +1,64 @@
+{
+  "document_id": "fil_infos_fil_info_2864",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2864.pdf",
+  "nom_fichier": "fil-info-2864.pdf",
+  "metadata": {
+    "titre": "fil info 2864",
+    "titre_court": "fil info 2864",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2864"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 03 juin 2024 au 09 juin 2024 N° 2864 Une semaine historique pour notre région. La 37ème édition du Marathon de la Liberté, Normandy Running Festival, s’est déroulée du 31 mai au 2 juin 2024 à Caen, dans le cadre des festivités du 80ème anniversaire du Débarquement. Le notariat normand y a été dignement représenté.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-06-02",
+    "2024-06-03",
+    "2024-06-09",
+    "2024-06-25",
+    "2025-05-31"
+  ]
+}

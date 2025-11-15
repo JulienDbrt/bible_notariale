@@ -1,0 +1,80 @@
+{
+  "document_id": "fiche_doctrine_smo_vd",
+  "fichier": "sources_documentaires/fiche_doctrine_smo_vd.pdf",
+  "nom_fichier": "fiche_doctrine_smo_vd.pdf",
+  "metadata": {
+    "titre": "fiche doctrine smo vd",
+    "titre_court": "fiche doctrine smo vd",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "RGPD",
+      "synonymes": [
+        "protection des données",
+        "données personnelles"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les recommandations principales de ce guide ?",
+    "Comment appliquer ces bonnes pratiques au quotidien ?",
+    "Comment financer ces formations ?",
+    "Quels sont les points de vigilance à retenir ?",
+    "Quelles formations sont concernées par ce document ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Décret 2020-873",
+      "Article 10",
+      "Article 203",
+      "Article 2"
+    ],
+    "complete": []
+  },
+  "resume": "Les SMO ne sont donc pas des sociétés possédant un oﬃ ce principal et des ﬁ liales ou des bureaux annexes. Ci-dessous tableau récapitulatif des principales diﬀ érences entre le bureau annexe d’un oﬃ ce et l’oﬃ ce détenu par une société multi-oﬃ ces. ATTENTION au cas particulier du notaire salarié : l’article 2 alinéa 1 du décret n° 93-82 du 15 janvier 1993 : « Le notaire salarié ne peut exercer ses fonctions qu’au sein d’un seul oﬃ ce.",
+  "mots_cles": [
+    "bonnes pratiques",
+    "documentation métier",
+    "formation professionnelle",
+    "protection des données"
+  ],
+  "dates_mentionnees": [
+    "1971-11-26",
+    "1993-01-15",
+    "2024-08-14"
+  ]
+}

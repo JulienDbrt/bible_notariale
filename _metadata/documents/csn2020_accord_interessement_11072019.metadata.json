@@ -1,0 +1,113 @@
+{
+  "document_id": "csn2020_accord_interessement_11072019",
+  "fichier": "sources_documentaires/CSN2020/Accord intéressement 11072019.pdf",
+  "nom_fichier": "Accord intéressement 11072019.pdf",
+  "metadata": {
+    "titre": "Accord intéressement 11072019",
+    "titre_court": "Accord intéressement 11072019",
+    "date_publication": "2020-01-01",
+    "date_effet": "2020-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "accord_branche",
+    "label": "Accord de branche",
+    "domaines_juridiques": [
+      "négociation collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2020,
+    "categorie_dossier": "CSN2020"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "intéressement",
+      "synonymes": [
+        "participation aux bénéfices"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 36 fois dans le document"
+    },
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quelles sont les nouvelles dispositions négociées ?",
+    "Quelle est la durée de validité de cet accord ?",
+    "Comment sont calculés les droits à congés ?",
+    "Qui sont les parties signataires de cet accord ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 3",
+      "Article 1",
+      "Loi 2015-990",
+      "Article 4",
+      "Article 2"
+    ],
+    "complete": []
+  },
+  "resume": ", dont le siège est à PANTIN (93), 14, rue Scandicci, représentée par M. Jean-Pierre BERGER, Le Syndicat national des cadres et techniciens du notariat , dont le siège est à PARIS 8e, 59/63, rue du Rocher, représenté par Mme Christiane ROCHE, ledit syndicat affilié à la C.F.E. - C.G.C., La Fédération « commerce, services et force de vente » affiliée à la C.F.T.C.",
+  "mots_cles": [
+    "congés payés",
+    "droit social",
+    "formation professionnelle",
+    "négociation collective",
+    "participation aux bénéfices",
+    "rémunération"
+  ],
+  "dates_mentionnees": [
+    "2015-08-06",
+    "2019-07-11",
+    "2020-01-23"
+  ]
+}

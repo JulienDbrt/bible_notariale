@@ -1,0 +1,71 @@
+{
+  "document_id": "guide_de_la_negociation_immobiliere_notariale",
+  "fichier": "sources_documentaires/Guide de la Négociation Immobilière Notariale.pdf",
+  "nom_fichier": "Guide de la Négociation Immobilière Notariale.pdf",
+  "metadata": {
+    "titre": "Guide de la Négociation Immobilière Notariale",
+    "titre_court": "Guide de la Négociation Immobilière Notariale",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 6 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les recommandations principales de ce guide ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment appliquer ces bonnes pratiques au quotidien ?",
+    "Comment financer ces formations ?",
+    "Quels sont les points de vigilance à retenir ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Loi 2015-990"
+    ],
+    "complete": []
+  },
+  "resume": "GUIDE DE LA NÉGOCIATION IMMOBILIÈRE NOTARIALE POURQUOI / COMMENT 2 NÉGOCIATION IMMOBILIÈRE NOTARIALELA NÉGOCIATION IMMOBILIÈRE NOTARIALE La négociation immobilière notariale se trouve en secteur libéralisé. Dès lors que le notaire la pratique, il doit se conformer aux règles du droit de la concur- rence, autant qu’aux règles déontologiques inhérentes à la profession notariale. « La négociation de biens à vendre ou à louer constitue une des activités traditionnelles du notaire… Elle doit être pratiquée en vue de la réalisation d’un contrat et constitue pour le notaire une activité accessoire… » (article 1er de l’arrêté du 27 mai 1982).",
+  "mots_cles": [
+    "bonnes pratiques",
+    "documentation métier",
+    "formation professionnelle",
+    "transactions immobilières"
+  ],
+  "dates_mentionnees": [
+    "1982-05-27",
+    "1997-06-24",
+    "2015-08-06"
+  ]
+}

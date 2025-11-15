@@ -1,0 +1,78 @@
+{
+  "document_id": "csn2024_20240131_csn_anc_modalites_pratiques_declarations_remunerations_notaires_associes",
+  "fichier": "sources_documentaires/CSN2024/20240131 CSN-ANC_modalités pratiques déclarations rémunérations notaires associés.pdf",
+  "nom_fichier": "20240131 CSN-ANC_modalités pratiques déclarations rémunérations notaires associés.pdf",
+  "metadata": {
+    "titre": "CSN ANC modalités pratiques déclarations rémunérations notaires associés",
+    "titre_court": "CSN ANC modalités pratiques déclarations rémunérat",
+    "date_publication": "2024-01-31",
+    "date_effet": "2024-01-31",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "rémunération notaires",
+      "fiscalité BNC",
+      "déclarations"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2024,
+    "categorie_dossier": "CSN2024"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 11 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 97"
+    ],
+    "complete": []
+  },
+  "resume": "Depuis le 1er janvier 2023, la rémunération professionnelle des notaires, quel que soit leur mode d’exercice, est donc déclarée et taxée en BNC. Depuis les arrêts du Conseil d’Etat de 2017, le CSN, dans le Guide des structures, s’est toujours rangé derrière la jurisprudence, et écrit que la rémunération du notaire associé, quelle que soit la forme sociale de la société soumise à l’IS, est « qualifiée BNC ». Restait un doute sur les modalités pratiques de cette déclaration.",
+  "mots_cles": [
+    "instructions professionnelles",
+    "réglementation notariale",
+    "rémunération"
+  ],
+  "dates_mentionnees": [
+    "2022-12-15",
+    "2023-02-08",
+    "2024-01-31"
+  ]
+}

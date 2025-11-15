@@ -1,0 +1,94 @@
+{
+  "document_id": "note_de_me_bonte_ventes_immo",
+  "fichier": "sources_documentaires/NOTE DE ME BONTE (ventes immo).pdf",
+  "nom_fichier": "NOTE DE ME BONTE (ventes immo).pdf",
+  "metadata": {
+    "titre": "NOTE DE ME BONTE (ventes immo)",
+    "titre_court": "NOTE DE ME BONTE (ventes immo)",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "acte authentique",
+      "synonymes": [
+        "acte notarié",
+        "instrumentum"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les recommandations principales de ce guide ?",
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Comment appliquer ces bonnes pratiques au quotidien ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quels sont les montants de franchise ?",
+    "Quels sont les points de vigilance à retenir ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 432",
+      "Article 13",
+      "Article 1596"
+    ],
+    "complete": []
+  },
+  "resume": "S I R E T n ° 7 9 2 6 9 8 2 4 3 0 0 0 47 – T V A I N T R A F R 6 1 7 9 2 6 9 8 2 4 3 – R è g l e m e n t p a r c h è q u e a c c e p t é THINK GREEN Chambre interdépartementale des notaires 6 Pl. Louis Guillouard, 14000 Caen Rennes, l e 31 juillet 2025 Affaire : Chambre des notaires de CAEN N/Réf. Le notaire doit, en toute s circonstance s, conserver son obje ctivité.",
+  "mots_cles": [
+    "bonnes pratiques",
+    "documentation métier",
+    "transactions immobilières"
+  ],
+  "dates_mentionnees": [
+    "1945-12-19",
+    "1966-05-03",
+    "1966-11-29",
+    "2001-01-03",
+    "2006-02-09"
+  ]
+}

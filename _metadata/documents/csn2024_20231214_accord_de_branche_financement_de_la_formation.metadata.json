@@ -1,0 +1,105 @@
+{
+  "document_id": "csn2024_20231214_accord_de_branche_financement_de_la_formation",
+  "fichier": "sources_documentaires/CSN2024/20231214 - Accord de branche Financement de la formation.pdf",
+  "nom_fichier": "20231214 - Accord de branche Financement de la formation.pdf",
+  "metadata": {
+    "titre": "Accord de branche Financement de la formation",
+    "titre_court": "Accord de branche Financement de la formation",
+    "date_publication": "2023-12-14",
+    "date_effet": "2023-12-14",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "accord_branche",
+    "label": "Accord de branche",
+    "domaines_juridiques": [
+      "négociation collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2024,
+    "categorie_dossier": "CSN2024"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "OPCO",
+      "synonymes": [
+        "opérateur de compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "formation professionnelle",
+      "synonymes": [
+        "formation continue",
+        "développement compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles dispositions négociées ?",
+    "Quelle est la durée de validité de cet accord ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Qui sont les parties signataires de cet accord ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 1",
+      "Article 2",
+      "Article 3",
+      "Article 29.5"
+    ],
+    "complete": []
+  },
+  "resume": "Stéphane SPANNEUT , ledit syndicat affilié à la C.F.E. - C.G.C ., La Fédération « commerce, services et force de vente » C.F.T.C. , dont le siège est à PARIS 19ème, 34 quai de la Loire, représentée par Mme Géraldine TEBALDINI , L’Union nationale des syndicats autonomes U.N.S.A ., dont le siège est à BAGNOLET (93), 21 rue Jules Ferry, représentée par M.",
+  "mots_cles": [
+    "droit social",
+    "formation professionnelle",
+    "négociation collective"
+  ],
+  "dates_mentionnees": [
+    "2023-12-14",
+    "2024-06-30",
+    "2024-12-31"
+  ]
+}

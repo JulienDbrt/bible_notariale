@@ -1,0 +1,64 @@
+{
+  "document_id": "fil_infos_fil_info_2899",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2899.pdf",
+  "nom_fichier": "fil-info-2899.pdf",
+  "metadata": {
+    "titre": "fil info 2899",
+    "titre_court": "fil info 2899",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2899"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 31 mars 2025 au 06 avril 2025 N° 2899 Légalisation et apostille à l’ère notariale À compter du 1er mai 2025 pour l’apostille, et du 1er septembre 2025 pour la légalisation, le notariat devient l’acteur pivot d’une mission jusqu’ici assurée par l’administration judiciaire et diplomatique. Cette évolution, fruit de l’ordonnance n°2020-192 du 4 mars 2020, du décret du 17 septembre 2021 et de l’arrêté du 23 décembre 2024, marque l’élargissement de notre périmètre au service direct de l’intérêt général et de la sécurité juridique internationale. En devenant l’autorité compétente pour délivrer apostilles et légalisations, par l’intermédiaire de 15 Conseils régionaux ou Chambres interdépartementales, le notariat renforce son rôle de garant de l’authenticité et de la ﬁabilité des actes appelés à circuler au-delà de nos frontières.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2020-03-04",
+    "2021-09-17",
+    "2024-12-23",
+    "2025-03-31",
+    "2025-04-06"
+  ]
+}

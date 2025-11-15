@@ -1,0 +1,90 @@
+{
+  "document_id": "csn2023_20221215_accord_de_branche_harcelement_au_travail",
+  "fichier": "sources_documentaires/CSN2023/20221215 - Accord de branche Harcèlement au travail.pdf",
+  "nom_fichier": "20221215 - Accord de branche Harcèlement au travail.pdf",
+  "metadata": {
+    "titre": "Accord de branche Harcèlement au travail",
+    "titre_court": "Accord de branche Harcèlement au travail",
+    "date_publication": "2022-12-15",
+    "date_effet": "2022-12-15",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "accord_branche",
+    "label": "Accord de branche",
+    "domaines_juridiques": [
+      "négociation collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2023,
+    "categorie_dossier": "CSN2023"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "harcèlement",
+      "synonymes": [
+        "harcèlement moral",
+        "harcèlement sexuel"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 24 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "égalité professionnelle",
+      "synonymes": [
+        "égalité femmes-hommes"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Comment signaler un cas de harcèlement ?",
+    "Quelles sont les nouvelles dispositions négociées ?",
+    "Quelle est la durée de validité de cet accord ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Qui sont les parties signataires de cet accord ?",
+    "Quelles sont les mesures de prévention du harcèlement ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 3",
+      "Article 5",
+      "Article 1",
+      "Article 4",
+      "Article 2"
+    ],
+    "complete": []
+  },
+  "resume": "Lucien CARON, ledit syndicat affilié à la C.F.E. - C.G.C ., La Fédération « commerce, services et force de vente » C.F.T.C. Jean -Jacques BAUDUIN , ladite fédération affiliée à la c.g.t.",
+  "mots_cles": [
+    "droit social",
+    "formation professionnelle",
+    "harcèlement au travail",
+    "négociation collective",
+    "prévention harcèlement"
+  ],
+  "dates_mentionnees": [
+    "2022-12-15"
+  ]
+}

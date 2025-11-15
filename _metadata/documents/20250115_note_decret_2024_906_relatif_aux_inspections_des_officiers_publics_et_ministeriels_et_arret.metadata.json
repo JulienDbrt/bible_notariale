@@ -1,0 +1,102 @@
+{
+  "document_id": "20250115_note_decret_2024_906_relatif_aux_inspections_des_officiers_publics_et_ministeriels_et_arret",
+  "fichier": "sources_documentaires/20250115 Note Décret 2024-906 relatif aux inspections des officiers publics et ministériels et arrêté.pdf",
+  "nom_fichier": "20250115 Note Décret 2024-906 relatif aux inspections des officiers publics et ministériels et arrêté.pdf",
+  "metadata": {
+    "titre": "Note Décret 2024 906 relatif aux inspections des officiers publics et ministériels et arrêté",
+    "titre_court": "Note Décret 2024 906 relatif aux inspections des o",
+    "date_publication": "2025-01-15",
+    "date_effet": "2025-01-15",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "decret_ordonnance",
+    "label": "Décret / Ordonnance",
+    "domaines_juridiques": [
+      "textes réglementaires",
+      "législation"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 8 fois dans le document"
+    },
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quels articles du code sont concernés ?",
+    "Comment financer ces formations ?",
+    "Quelle est la date d'entrée en vigueur ?",
+    "Quels sont les montants de franchise ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles modifications réglementaires sont introduites ?",
+    "Quelles garanties sont couvertes ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Décret 2024-906",
+      "Article 1",
+      "Article 6",
+      "Article 3",
+      "Article 14"
+    ],
+    "complete": []
+  },
+  "resume": "Il abroge le décret 74 -737 du 12 août 1974 relatif aux inspections des études de notaires et concerne les professions de notaires, commissaire s de justice et greffiers des tribunaux de commerce. Les arrêtés des 7 mai et 28 juin 2010 contenant le référentiel des vérifications à effectuer sont abrogés. Elle est divisée en huit paragraphes I.",
+  "mots_cles": [
+    "formation professionnelle",
+    "législation",
+    "textes réglementaires"
+  ],
+  "dates_mentionnees": [
+    "1974-08-12",
+    "2010-06-28",
+    "2024-10-10",
+    "2024-10-11",
+    "2024-10-12"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "total": 245,
+  "with_issues": 0,
+  "with_warnings": 0,
+  "issues": {},
+  "warnings": {},
+  "type_stats": {
+    "fil_info": {
+      "count": 153,
+      "issues": 0,
+      "warnings": 0
+    },
+    "guide_pratique": {
+      "count": 28,
+      "issues": 0,
+      "warnings": 0
+    },
+    "accord_branche": {
+      "count": 9,
+      "issues": 0,
+      "warnings": 0
+    },
+    "avenant_ccn": {
+      "count": 22,
+      "issues": 0,
+      "warnings": 0
+    },
+    "assurance": {
+      "count": 2,
+      "issues": 0,
+      "warnings": 0
+    },
+    "circulaire_csn": {
+      "count": 20,
+      "issues": 0,
+      "warnings": 0
+    },
+    "decret_ordonnance": {
+      "count": 6,
+      "issues": 0,
+      "warnings": 0
+    },
+    "conformite": {
+      "count": 2,
+      "issues": 0,
+      "warnings": 0
+    },
+    "immobilier": {
+      "count": 3,
+      "issues": 0,
+      "warnings": 0
+    }
+  },
+  "documents_with_issues": [],
+  "documents_with_warnings": []
+}

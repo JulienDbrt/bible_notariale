@@ -1,0 +1,110 @@
+{
+  "document_id": "convention_collective_avenant_n52",
+  "fichier": "sources_documentaires/Convention Collective/avenant_n52.pdf",
+  "nom_fichier": "avenant_n52.pdf",
+  "metadata": {
+    "titre": "avenant n52",
+    "titre_court": "avenant n52",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "Convention Collective"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 6 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 5 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "congés payés",
+      "synonymes": [
+        "congés annuels",
+        "droits à congés"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "À partir de quand cet avenant s'applique-t-il ?",
+    "Quels articles de la convention collective sont modifiés ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "Quelles sont les modalités de prise de congés ?",
+    "Comment sont calculés les droits à congés ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 1",
+      "Article 19.1"
+    ],
+    "complete": []
+  },
+  "resume": "Lucien CARON, ledit syndicat affilié à la C.F.E. - C.G.C ., La Fédération « commerce, services et force de vente » C.F.T.C. , dont le siège est à PARIS 19ème, 34 quai de la Loire, représentée par Mme Géraldine TEBALDINI , La Fédération générale des clercs et employés de notaire , dont le siège est à PARIS 8ème, 31 rue du Rocher, représentée par M.",
+  "mots_cles": [
+    "congés payés",
+    "convention collective",
+    "droit social",
+    "formation professionnelle",
+    "rémunération"
+  ],
+  "dates_mentionnees": [
+    "2001-06-08",
+    "2021-12-16",
+    "2023-07-13"
+  ]
+}

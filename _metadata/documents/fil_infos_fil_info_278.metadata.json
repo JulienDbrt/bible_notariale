@@ -1,0 +1,85 @@
+{
+  "document_id": "fil_infos_fil_info_278",
+  "fichier": "sources_documentaires/fil-infos/fil-info-278.pdf",
+  "nom_fichier": "fil-info-278.pdf",
+  "metadata": {
+    "titre": "fil info 278",
+    "titre_court": "fil info 278",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "278"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "licenciement",
+      "synonymes": [
+        "rupture contrat",
+        "procédure disciplinaire"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 2",
+      "Article 4.1"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 13 février 2023 au 19 février 2023 N° 278 Mini-série sur quelques règles déontologiques Episode #1 Bien souvent, la lecture matinale du J.O, imposée par ma fonction, ne manque pas de me surprendre. J’y apprends ainsi régulièrement la nomination au sein de notre compagnie, de nouveaux confrères dont la Chambre n’a jamais entendu parler , puisqu’aucun des titulaires en place n’a jugé utile de l’en aviser. Et soudain, après plusieurs mois de silence, dans l’heure qui suit la diffusion du Légifrance, le miracle se produit.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "procédure disciplinaire",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-01-24",
+    "2022-04-13",
+    "2023-02-13",
+    "2023-02-19",
+    "2023-04-11"
+  ]
+}

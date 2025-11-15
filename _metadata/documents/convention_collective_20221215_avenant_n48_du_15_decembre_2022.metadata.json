@@ -1,0 +1,98 @@
+{
+  "document_id": "convention_collective_20221215_avenant_n48_du_15_decembre_2022",
+  "fichier": "sources_documentaires/Convention Collective/20221215_-_avenant_n48_du_15_decembre_2022.pdf",
+  "nom_fichier": "20221215_-_avenant_n48_du_15_decembre_2022.pdf",
+  "metadata": {
+    "titre": "avenant n48 du 15 decembre 2022",
+    "titre_court": "avenant n48 du 15 decembre 2022",
+    "date_publication": "2022-12-15",
+    "date_effet": "2022-12-15",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2022,
+    "categorie_dossier": "Convention Collective"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 5 fois dans le document"
+    },
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "formation professionnelle",
+      "synonymes": [
+        "formation continue",
+        "développement compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À partir de quand cet avenant s'applique-t-il ?",
+    "Quels articles de la convention collective sont modifiés ?",
+    "Comment financer ces formations ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "Quelles formations sont concernées par ce document ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 1",
+      "Article 30",
+      "Article 30.2",
+      "Article 2"
+    ],
+    "complete": []
+  },
+  "resume": "Lucien CARON, ledit syndicat affilié à la C.F.E. - C.G.C ., La Fédération générale des clercs et employés de notaire , dont le siège est à PARIS 8ème, 31 rue du Rocher, représentée par M. Jean -Jacques BAUDUIN ladite fédération affiliée à la c.g.t.",
+  "mots_cles": [
+    "convention collective",
+    "droit social",
+    "formation professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2001-06-08",
+    "2021-10-06",
+    "2021-12-16",
+    "2022-12-15"
+  ]
+}

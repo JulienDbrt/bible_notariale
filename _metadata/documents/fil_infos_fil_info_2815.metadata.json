@@ -1,0 +1,72 @@
+{
+  "document_id": "fil_infos_fil_info_2815",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2815.pdf",
+  "nom_fichier": "fil-info-2815.pdf",
+  "metadata": {
+    "titre": "fil info 2815",
+    "titre_court": "fil info 2815",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2815"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 17 avril 2023 au 23 avril 2023 N° 2815 \"Dernières volontés\" : Un escape game pour faire connaître le notariat L’attractivité du notariat est au cœur des préoccupations de la Chambre, malgré le ralentissement ponctuel de l’activité dans les ofﬁces. Le renouvellement générationnel lié au Papy boom est enclenché, et la profession doit poursuivre sa communication sur le long terme, pour rendre le notariat visible et attractif. Dans la continuité de l’esprit décalé qui l’anime, la Chambre a souhaité initier une communication différenciante dans le but d'impacter et de faire le buzz.",
+  "mots_cles": [
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-04-17",
+    "2023-04-23",
+    "2023-09-26"
+  ]
+}

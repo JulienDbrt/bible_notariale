@@ -1,0 +1,65 @@
+{
+  "document_id": "fil_infos_fil_info_245",
+  "fichier": "sources_documentaires/fil-infos/fil-info-245.pdf",
+  "nom_fichier": "fil-info-245.pdf",
+  "metadata": {
+    "titre": "fil info 245",
+    "titre_court": "fil info 245",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "245"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 06 juin 2022 au 12 juin 2022 N° 245 Faire toujours mieux. Nous le savons bien, notre organisation professionnelle et l’efﬁcacité de nos instances sont une force et participent à l’ADN du Notariat. C’est pourquoi, assumer aujourd’hui la vice-présidence Formation & Communication de notre Chambre interdépartementale est, pour moi, un honneur et un privilège.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-03-31",
+    "2022-06-03",
+    "2022-06-06",
+    "2022-06-12",
+    "2022-06-27"
+  ]
+}

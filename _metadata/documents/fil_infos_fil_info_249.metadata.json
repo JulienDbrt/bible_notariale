@@ -1,0 +1,92 @@
+{
+  "document_id": "fil_infos_fil_info_249",
+  "fichier": "sources_documentaires/fil-infos/fil-info-249.pdf",
+  "nom_fichier": "fil-info-249.pdf",
+  "metadata": {
+    "titre": "fil info 249",
+    "titre_court": "fil info 249",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "249"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles garanties sont couvertes ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 04 juillet 2022 au 10 juillet 2022 N° 249 La rigueur disciplinaire : un bienfait pour le notariat Que valent des obligations sans contrôle strict de leur respect et sans sanction de leur bafouement. C’est à cette question qu’a répondu la loi du 22 décembre 2021 pour la conﬁance dans l’institution judiciaire, suivie de l’ordonnance du 13 avril 2022 et du décret du 17 juin 2022 qui ont réformé la responsabilité des notaires. Il faut retenir un des caractères essentiels de la réforme : le renforcement du pouvoir infra-disciplinaire des chambres interdépartementales de notaires faisant ofﬁce de Conseil régional.",
+  "mots_cles": [
+    "actualité juridique",
+    "assurance professionnelle",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2021-12-22",
+    "2022-04-13",
+    "2022-04-30",
+    "2022-06-17",
+    "2022-07-04"
+  ]
+}

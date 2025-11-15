@@ -1,0 +1,116 @@
+{
+  "document_id": "fil_infos_fil_info_259",
+  "fichier": "sources_documentaires/fil-infos/fil-info-259.pdf",
+  "nom_fichier": "fil-info-259.pdf",
+  "metadata": {
+    "titre": "fil info 259",
+    "titre_court": "fil info 259",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "259"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "acte authentique",
+      "synonymes": [
+        "acte notarié",
+        "instrumentum"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "RGPD",
+      "synonymes": [
+        "protection des données",
+        "données personnelles"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 268",
+      "Article 20",
+      "Décret 2005-973",
+      "Décret 2020-1422"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 19 septembre 2022 au 25 septembre 2022 N° 259 JOUEZ LA SÉCURITÉ. Gagner du temps, optimiser les déplacements, faciliter les séances de signature,… : l’Acte Authentique Electronique à distance (AAED) a révolutionné notre quotidien, une véritable avancée technologique au service de l’authenticité mais soyons vigilant(e)s à suivre les bonnes pratiques. Gardez bien à l’esprit que l’usage de solutions de visioconférence grand public (type TEAMS ou autres…), ne garantit pas la conﬁdentialité des échanges.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "1971-11-26",
+    "2020-11-20",
+    "2022-09-19",
+    "2022-09-22",
+    "2022-09-25"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "document_id": "fil_infos_fil_info_2866",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2866.pdf",
+  "nom_fichier": "fil-info-2866.pdf",
+  "metadata": {
+    "titre": "fil info 2866",
+    "titre_court": "fil info 2866",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2866"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 17 juin 2024 au 23 juin 2024 N° 2866 Saisissons l’opportunité de nous réinventer Comme tous les acteurs de l’immobilier , nous traversons une période de turbulence, en partie pondérée par la diversité de nos secteurs d’activité. Je vous propose de saisir l’opportunité forcée qui nous est donnée, pour repenser notre relation client et (re)conquérir les clientèles parfois délaissées pendant l’euphorie post-covid. La Chambre a l’ambition d’aider chaque ofﬁce qui le souhaite à initier une démarche pro-active auprès de ses clients, dans le but de faire progresser le potentiel de chacun des secteurs d’activité de l’ofﬁce et éviter une trop grande dépendance à l’immobilier.",
+  "mots_cles": [
+    "actualité juridique",
+    "assurance professionnelle",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-03-31",
+    "2024-06-17",
+    "2024-06-23",
+    "2024-11-25"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "document_id": "fil_infos_fil_info_279",
+  "fichier": "sources_documentaires/fil-infos/fil-info-279.pdf",
+  "nom_fichier": "fil-info-279.pdf",
+  "metadata": {
+    "titre": "fil info 279",
+    "titre_court": "fil info 279",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "279"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 16.1"
+    ],
+    "complete": []
+  },
+  "resume": "Nous disposons actuellement d’un article dans notre règlement national et de quelques notes sur le site du CSN qui permettent à la Chambre de demander aux notaires de modiﬁer leur dénomination, mais les critères sont assez ﬂous. Gouverner c’est prévoir et sur le sujet des dénominations, mieux vaut anticiper les effets du projet du Règlement Professionnel du Notariat (RPN), en cours d’examen par la Direction des affaires civiles et du sceau et en attente de validation par l'Autorité de la Concurrence. Loin d’assouplir les règles de dénomination de nos ofﬁces, il nous donne en revanche plus de précisions quant aux interdictions.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-06-04",
+    "2023-02-27",
+    "2023-03-05",
+    "2023-03-24",
+    "2023-03-26"
+  ]
+}

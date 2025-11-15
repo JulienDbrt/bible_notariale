@@ -1,0 +1,74 @@
+{
+  "document_id": "csn2022_calculs_financiers_brochure_explicative_de_l_outil",
+  "fichier": "sources_documentaires/CSN2022/Calculs financiers brochure explicative de l_outil.pdf",
+  "nom_fichier": "Calculs financiers brochure explicative de l_outil.pdf",
+  "metadata": {
+    "titre": "Calculs financiers brochure explicative de l outil",
+    "titre_court": "Calculs financiers brochure explicative de l outil",
+    "date_publication": "2022-01-01",
+    "date_effet": "2022-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "calculs financiers"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2022,
+    "categorie_dossier": "CSN2022"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Cet outil est utilisable sur ordinateur, tablette et smartphone et est compatible sur les navigateurs Mozilla Firefox 67 et plus , Google Chrome 75 et plus , Microsoft Edge 74 et plus et Safari 12 et plus. Attention , l’application n’est pas compatible avec le navigateur Internet Explorer 9, 10 ou 11. Après avoir trouvé l’application dans les services du Portail Réal, il suffit de cliquer sur le titre pour que l’application s’ ouvre dans un nouvel onglet.",
+  "mots_cles": [
+    "assurance professionnelle",
+    "formation professionnelle",
+    "instructions professionnelles",
+    "réglementation notariale",
+    "transactions immobilières"
+  ]
+}

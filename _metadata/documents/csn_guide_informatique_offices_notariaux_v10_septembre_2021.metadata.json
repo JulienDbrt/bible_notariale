@@ -1,0 +1,80 @@
+{
+  "document_id": "csn_guide_informatique_offices_notariaux_v10_septembre_2021",
+  "fichier": "sources_documentaires/csn-guide-informatique-offices-notariaux-v10-septembre-2021.pdf",
+  "nom_fichier": "csn-guide-informatique-offices-notariaux-v10-septembre-2021.pdf",
+  "metadata": {
+    "titre": "csn guide informatique offices notariaux v10 septembre 2021",
+    "titre_court": "csn guide informatique offices notariaux v10 septe",
+    "date_publication": "2021-01-01",
+    "date_effet": "2021-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2021,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "cybersécurité",
+      "synonymes": [
+        "sécurité informatique",
+        "cyber-risques"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quelles sont les recommandations principales de ce guide ?",
+    "Comment appliquer ces bonnes pratiques au quotidien ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quels sont les points de vigilance à retenir ?",
+    "Quelles formations sont concernées par ce document ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Le but est que nous puissions tous nous sentir plus à l’aise face à la digitalisation croissante de notre environnement de travail, à la complexification des solutions technologiques qui nous sont proposées, et aux discours parfois abscons voire ésotériques de nos fournisseurs. J’ai voulu une démarche didactique, même si certaines explications pourront paraître évidentes à certains. Ce document, qui se veut un « référentiel » à une date donnée, aborde plusieurs thèmes du quotidien numérique des offices afin d’aider à leur compréhension.",
+  "mots_cles": [
+    "bonnes pratiques",
+    "documentation métier",
+    "formation professionnelle"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "qr_notaires_dataset",
+  "fichier": "sources_documentaires/QR notaires_dataset.xlsx",
+  "nom_fichier": "QR notaires_dataset.xlsx",
+  "metadata": {
+    "titre": "QR notaires dataset",
+    "titre_court": "QR notaires dataset",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Comment trouver une réponse dans le dataset QR ?",
+    "Quels domaines juridiques sont couverts ?",
+    "Comment contribuer au dataset de questions ?",
+    "Le dataset est-il mis à jour régulièrement ?",
+    "Puis-je utiliser ce dataset pour former mes collaborateurs ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Base de données questions-réponses pour les notaires. Ce dataset compile les questions fréquemment posées par les professionnels du notariat et leurs réponses détaillées, couvrant divers domaines : droit immobilier, droit de la famille, fiscalité, procédures notariales et conformité réglementaire.",
+  "mots_cles": [
+    "questions-réponses",
+    "FAQ notariale",
+    "base de connaissances",
+    "formation",
+    "documentation"
+  ]
+}

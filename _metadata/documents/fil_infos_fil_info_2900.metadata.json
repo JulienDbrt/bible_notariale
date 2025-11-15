@@ -1,0 +1,76 @@
+{
+  "document_id": "fil_infos_fil_info_2900",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2900.pdf",
+  "nom_fichier": "fil-info-2900.pdf",
+  "metadata": {
+    "titre": "fil info 2900",
+    "titre_court": "fil info 2900",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2900"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 774"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 07 avril 2025 au 13 avril 2025 N° 2900 Le PCA : un guide d’urgence pour une réponse immédiate Lorsqu’un sinistre survient, la sidération est souvent le premier réﬂexe. Dans un monde où les risques de diverses natures sont omniprésents, garantir la continuité de l’activité de votre ofﬁce est plus qu'une simple précaution : c'est un impératif stratégique. Que ce soit à la suite d’une catas trophe naturelle, d’une cyberattaque, d’une pandémie, ou d’un autre événement majeur , les crises récentes ont mis en lumière la différence entre les organisations qui avaient anticipé et celles qui ont été prises de court.",
+  "mots_cles": [
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-05-31",
+    "2025-04-07",
+    "2025-04-13",
+    "2025-04-15"
+  ]
+}

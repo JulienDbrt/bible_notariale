@@ -1,0 +1,106 @@
+{
+  "document_id": "csn2025_circulaire_n_2025_1",
+  "fichier": "sources_documentaires/CSN2025/Circulaire n°2025-1.pdf",
+  "nom_fichier": "Circulaire n°2025-1.pdf",
+  "metadata": {
+    "titre": "Circulaire n°2025 1",
+    "titre_court": "Circulaire n°2025 1",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "CSN2025"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 3 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants mentionnés dans ce document ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Enapplication decetavenant, lavaleurdupointdesalaire,majorée de0,60%,estfixéeàI5,78€pour 35heures,au1ermars2025. Cetavenantn°60du20février2025doitêtreportéàlaconnaissance detouslesmembres dupersonnel desoffices,chaqueemployeur conservant lapreuvedecettediffusion partoutmoyen. CetexteestenlignesurleportailREAL.",
+  "mots_cles": [
+    "formation professionnelle",
+    "instructions professionnelles",
+    "réglementation notariale",
+    "rémunération"
+  ],
+  "donnees_chiffrees": {
+    "montants_euros": [
+      "78"
+    ]
+  }
+}

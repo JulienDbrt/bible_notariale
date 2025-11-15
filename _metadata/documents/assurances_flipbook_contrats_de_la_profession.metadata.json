@@ -1,0 +1,72 @@
+{
+  "document_id": "assurances_flipbook_contrats_de_la_profession",
+  "fichier": "sources_documentaires/Assurances/FLIPBOOK - Contrats de la Profession.pdf",
+  "nom_fichier": "FLIPBOOK - Contrats de la Profession.pdf",
+  "metadata": {
+    "titre": "FLIPBOOK Contrats de la Profession",
+    "titre_court": "FLIPBOOK Contrats de la Profession",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "assurance",
+    "label": "Assurance",
+    "domaines_juridiques": [
+      "assurance professionnelle",
+      "prévoyance"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "Assurances"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment déclarer un sinistre ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quels sont les montants de franchise ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles garanties sont couvertes par ce contrat ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "LE MANUEL DIGITAL TOUS NOS CONTRATS RÉUNIS EN UN DOCUMENT SOMMAIRE 01. 05.Contrats collectifs à adhésion obligatoire Contrats dont bénéficient toutes les études de l’instance adhérente Responsabilité Civile Professionnelle Pertes de Produits 08. 11.Cyber Auto-mission 13.",
+  "mots_cles": [
+    "assurance professionnelle",
+    "cybersécurité",
+    "formation professionnelle",
+    "prévoyance"
+  ]
+}

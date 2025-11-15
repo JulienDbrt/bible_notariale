@@ -1,0 +1,80 @@
+{
+  "document_id": "d_56_220_version_consolidee_20230101",
+  "fichier": "sources_documentaires/d_56-220_version_consolidee_20230101.pdf",
+  "nom_fichier": "d_56-220_version_consolidee_20230101.pdf",
+  "metadata": {
+    "titre": "d 56 220 version consolidee 20230101",
+    "titre_court": "d 56 220 version consolidee 20230101",
+    "date_publication": "2023-01-01",
+    "date_effet": "2023-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "decret_ordonnance",
+    "label": "Décret / Ordonnance",
+    "domaines_juridiques": [
+      "textes réglementaires",
+      "législation"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2023,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quels articles du code sont concernés ?",
+    "Quelle est la date d'entrée en vigueur ?",
+    "Quels sont les montants de franchise ?",
+    "Quelles modifications réglementaires sont introduites ?",
+    "Quelles garanties sont couvertes ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 22",
+      "Article 2",
+      "Article 12"
+    ],
+    "complete": []
+  },
+  "resume": "34 JORF 25 août 1974 Les dispositions de l'article 12 du décret du 20 mai 1955 et des articles 16 A ( alinéa 1er) et 20 du décret du 19 décembre 1945 susvisé sont affichées dans toutes les études suivant un modèle approuvé par le garde des sceaux, ministre de la Justice. Article 2 Modifié par Décret 71 -1114 1971 -12-30 art. 2 JORF du 1er janvier 1972 Une copie de la lettre recommandée visée à l'article 12 du décret du 20 mai 1955 doit être simultanément adressée dans les mêmes formes au président du conseil d'administration de la caisse régionale.",
+  "mots_cles": [
+    "assurance professionnelle",
+    "législation",
+    "textes réglementaires"
+  ],
+  "dates_mentionnees": [
+    "1945-12-19",
+    "1955-05-20",
+    "1956-02-29",
+    "1973-01-12",
+    "1974-08-25"
+  ]
+}

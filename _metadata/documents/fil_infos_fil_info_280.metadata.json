@@ -1,0 +1,83 @@
+{
+  "document_id": "fil_infos_fil_info_280",
+  "fichier": "sources_documentaires/fil-infos/fil-info-280.pdf",
+  "nom_fichier": "fil-info-280.pdf",
+  "metadata": {
+    "titre": "fil info 280",
+    "titre_court": "fil info 280",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "280"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 06 mars 2023 au 12 mars 2023 N° 280 La Chambre s'engage dans la défense de la CRPCEN Le Sénat étudie depuis le 2 mars le projet de réforme des retraites. Pour le moment, seuls deux articles ont été adoptés : Le premier sur la suppression de cinq régimes spéciaux (RATP, Industries électriques et gazières, Banque de France, Conseil économique, social et environnemental et CRPCEN) et le deuxième, retoqué à l’Assemblée nationale, créant un index senior. Par ailleurs, l'amendement 2057 déposé par M.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-12-31",
+    "2023-02-10",
+    "2023-03-06",
+    "2023-03-12",
+    "2023-03-20"
+  ]
+}

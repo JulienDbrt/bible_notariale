@@ -1,0 +1,87 @@
+{
+  "document_id": "fil_infos_fil_info_2893",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2893.pdf",
+  "nom_fichier": "fil-info-2893.pdf",
+  "metadata": {
+    "titre": "fil info 2893",
+    "titre_court": "fil info 2893",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-02-13",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2893"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quels sont les montants de franchise ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 10",
+      "Décret 2025-131",
+      "Article 43"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 17 février 2025 au 23 février 2025 N° 2893 Les inspections 2025 sont lancées La réforme introduit un changement majeur : la fréquence des inspections, autrefois annuelle, devient périodique. Désormais, chaque ofﬁce fera l’objet d’un contrôle au moins tous les deux ans. Plus de la moitié des confrères de notre compagnie, agréés par le Procureur général, prendront part aux 120 inspections diligentées en 2025 à l'échelle de notre Cour d’appel.",
+  "mots_cles": [
+    "actualité juridique",
+    "assurance professionnelle",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2025-02-13",
+    "2025-02-15",
+    "2025-02-17",
+    "2025-02-23",
+    "2025-02-28"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "document_id": "d_71_942_v_conso_20240301",
+  "fichier": "sources_documentaires/d_71-942_v_conso_20240301.pdf",
+  "nom_fichier": "d_71-942_v_conso_20240301.pdf",
+  "metadata": {
+    "titre": "d 71 942 v conso 20240301",
+    "titre_court": "d 71 942 v conso 20240301",
+    "date_publication": "2024-03-01",
+    "date_effet": "2024-03-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "decret_ordonnance",
+    "label": "Décret / Ordonnance",
+    "domaines_juridiques": [
+      "textes réglementaires",
+      "législation"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2024,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 12 fois dans le document"
+    },
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quels articles du code sont concernés ?",
+    "Comment financer ces formations ?",
+    "Quelle est la date d'entrée en vigueur ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles modifications réglementaires sont introduites ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 1",
+      "Article 2",
+      "Article 37",
+      "Article 67"
+    ],
+    "complete": []
+  },
+  "resume": "Titre Ier : Des créations, transferts et suppressions d'offices de notaire. Article 2 Abrogé par Décret 2016 -661 2016 -05-20 art. 2 JORF 2 0 mai 2016 Article 2 -1 Abrogé par Décret 2016 -661 2016 -05-20 art.",
+  "mots_cles": [
+    "formation professionnelle",
+    "législation",
+    "textes réglementaires",
+    "transactions immobilières"
+  ],
+  "dates_mentionnees": [
+    "1945-11-02",
+    "1945-12-19",
+    "1966-11-29",
+    "1967-10-02",
+    "1971-11-26"
+  ]
+}

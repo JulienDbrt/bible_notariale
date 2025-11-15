@@ -1,0 +1,64 @@
+{
+  "document_id": "csn2025_manuel_d_utilisation_salarie",
+  "fichier": "sources_documentaires/CSN2025/Manuel d_utilisation - Salarié.pdf",
+  "nom_fichier": "Manuel d_utilisation - Salarié.pdf",
+  "metadata": {
+    "titre": "Manuel d utilisation Salarié",
+    "titre_court": "Manuel d utilisation Salarié",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "outils"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "CSN2025"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Comment financer ces formations ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Allez sur le site https://agcm.comitemixte.fr 2. Cliquez sur le lien « Vous n’avez pas de compte. Entrez les informations demandées pour la création de votre compte.",
+  "mots_cles": [
+    "formation professionnelle",
+    "instructions professionnelles",
+    "réglementation notariale"
+  ],
+  "dates_mentionnees": [
+    "2024-01-22"
+  ]
+}

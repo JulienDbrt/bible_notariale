@@ -1,0 +1,53 @@
+{
+  "document_id": "carrieres_des_notaires_et_modalites_declaratives",
+  "fichier": "sources_documentaires/Carrières des notaires et modalités déclaratives.odt",
+  "nom_fichier": "Carrières des notaires et modalités déclaratives.odt",
+  "metadata": {
+    "titre": "Carrières des notaires et modalités déclaratives",
+    "titre_court": "Carrières des notaires et modalités déclaratives",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les étapes de la carrière d'un notaire ?",
+    "Quelles déclarations fiscales un notaire doit-il effectuer ?",
+    "Comment évoluer dans sa carrière de notaire ?",
+    "Quelles sont les obligations déclaratives annuelles ?",
+    "Quels formulaires utiliser pour les déclarations ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Guide complet sur les carrières des notaires et les modalités déclaratives associées. Ce document détaille les différents parcours professionnels possibles dans le notariat, les obligations déclaratives fiscales et sociales, ainsi que les procédures administratives liées aux évolutions de carrière des notaires.",
+  "mots_cles": [
+    "carrière notaire",
+    "déclarations",
+    "parcours professionnel",
+    "obligations fiscales",
+    "administration"
+  ]
+}

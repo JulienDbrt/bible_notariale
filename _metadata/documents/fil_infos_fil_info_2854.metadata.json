@@ -1,0 +1,72 @@
+{
+  "document_id": "fil_infos_fil_info_2854",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2854.pdf",
+  "nom_fichier": "fil-info-2854.pdf",
+  "metadata": {
+    "titre": "fil info 2854",
+    "titre_court": "fil info 2854",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2854"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 18 mars 2024 au 24 mars 2024 N° 2854 Venez à la rencontre de nos confrères togolais C'est avec un immense plaisir que je vous renouvelle mon invitation à participer à la soirée du jumelage en l’honneur de nos confrères togolais. Cette soirée marque le début d'une nouvelle ère d'échange qui s’écrit désormais à l’échelon régional et offre l’opportunité à chacun(e) des confrères de la Cour de participer , même pour la première fois, à un évènement organisé dans le cadre du jumelage. De la même façon, la plupart des 18 confrères que nous recevons, participeront eux aussi pour la première fois à notre rencontre.",
+  "mots_cles": [
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-03-18",
+    "2024-03-24",
+    "2024-03-25",
+    "2025-03-31"
+  ]
+}

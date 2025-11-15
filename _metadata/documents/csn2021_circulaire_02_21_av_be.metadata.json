@@ -1,0 +1,84 @@
+{
+  "document_id": "csn2021_circulaire_02_21_av_be",
+  "fichier": "sources_documentaires/CSN2021/CIRCULAIRE - 02-21 (AV - BE).pdf",
+  "nom_fichier": "CIRCULAIRE - 02-21 (AV - BE).pdf",
+  "metadata": {
+    "titre": "CIRCULAIRE 02 21 (AV BE)",
+    "titre_court": "CIRCULAIRE 02 21 (AV BE)",
+    "date_publication": "2021-01-01",
+    "date_effet": "2021-03-15",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2021,
+    "categorie_dossier": "CSN2021"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Quels sont les montants de franchise ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "Quelles garanties sont couvertes ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Ces dossiers sont à communiquer dès maintenant aux collaborateurs qui vous en feront la demande. 3ème étape (Instances) Allocation Vacances 2021 Entre le 15 mars 2021 et le 16 avril 2021 RENVOI par les Instances des dossiers Allocations Vacances 2021 au Conseil Supérieur du Notariat siégeant en Comité Mixte. Veuillez croire, Mesdames et Messieurs les Prés idents et Secrétaires, à l’assurance de nos sentiments dévoués.",
+  "mots_cles": [
+    "assurance professionnelle",
+    "instructions professionnelles",
+    "réglementation notariale"
+  ],
+  "dates_mentionnees": [
+    "2021-03-15",
+    "2021-04-16",
+    "2021-05-17",
+    "2021-05-28"
+  ]
+}

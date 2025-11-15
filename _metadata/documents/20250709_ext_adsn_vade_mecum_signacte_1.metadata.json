@@ -1,0 +1,85 @@
+{
+  "document_id": "20250709_ext_adsn_vade_mecum_signacte_1",
+  "fichier": "sources_documentaires/20250709_ext_adsn_vade-mecum_signacte_1.pdf",
+  "nom_fichier": "20250709_ext_adsn_vade-mecum_signacte_1.pdf",
+  "metadata": {
+    "titre": "ext adsn vade mecum signacte 1",
+    "titre_court": "ext adsn vade mecum signacte 1",
+    "date_publication": "2025-07-09",
+    "date_effet": "2025-07-09",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 7 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les recommandations principales de ce guide ?",
+    "Comment appliquer ces bonnes pratiques au quotidien ?",
+    "Comment financer ces formations ?",
+    "Quels sont les points de vigilance à retenir ?",
+    "Quelles formations sont concernées par ce document ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 20",
+      "Décret 2020-1422"
+    ],
+    "complete": []
+  },
+  "resume": "en moins de 3 minutesTout savoir Tout savoir 2/4 en moins en moins Tout savoir Tout savoir de 3 minutesde 3 minutesDécouvrez les bonnes pratiques à suivre pour que la séance de signature d’une procuration authentique avec un client à distance soit réalisée dans un temps optimisé. La procédure de comparution à distance se déroule hors de votre logiciel de rédaction d’actes, le service est accessible depuis le portail MICEN LES INCONTOURNABLES À PRÉVOIR EN AMONT Le notaire doit avoir... • Disposer d’un ordinateur, ou une tablette, connecté à internet, avec une caméra, un microphone et un navigateur pour assister à la visioconférence avec vous.",
+  "mots_cles": [
+    "bonnes pratiques",
+    "documentation métier",
+    "formation professionnelle"
+  ],
+  "dates_mentionnees": [
+    "1971-11-26",
+    "2020-11-20"
+  ]
+}

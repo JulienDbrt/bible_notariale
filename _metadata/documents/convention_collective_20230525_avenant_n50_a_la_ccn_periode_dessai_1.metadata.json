@@ -1,0 +1,85 @@
+{
+  "document_id": "convention_collective_20230525_avenant_n50_a_la_ccn_periode_dessai_1",
+  "fichier": "sources_documentaires/Convention Collective/20230525_-_avenant_n50_a_la_ccn_-_periode_dessai-1.pdf",
+  "nom_fichier": "20230525_-_avenant_n50_a_la_ccn_-_periode_dessai-1.pdf",
+  "metadata": {
+    "titre": "avenant n50 a la ccn periode dessai 1",
+    "titre_court": "avenant n50 a la ccn periode dessai 1",
+    "date_publication": "2023-05-25",
+    "date_effet": "2023-05-25",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2023,
+    "categorie_dossier": "Convention Collective"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 6 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 5 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À partir de quand cet avenant s'applique-t-il ?",
+    "Quels articles de la convention collective sont modifiés ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "Quels sont les délais à respecter ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 1",
+      "Article 6"
+    ],
+    "complete": []
+  },
+  "resume": "Lucien CARON, ledit syndicat affilié à la C.F.E. - C.G.C ., La Fédération « commerce, services et force de vente » C.F.T.C. , dont le siège est à PARIS 19ème, 34 quai de la Loire, représentée par Mme Sandra WISNIEWSKI, La Fédération nationale des personnels des sociétés d’étude s C.G.T., dont le siège est à MONTREUIL (93), 263 rue de Paris, représentée par M.",
+  "mots_cles": [
+    "convention collective",
+    "droit social"
+  ],
+  "dates_mentionnees": [
+    "2001-06-08",
+    "2023-03-09",
+    "2023-05-25"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "document_id": "fil_infos_fil_info_270",
+  "fichier": "sources_documentaires/fil-infos/fil-info-270.pdf",
+  "nom_fichier": "fil-info-270.pdf",
+  "metadata": {
+    "titre": "fil info 270",
+    "titre_court": "fil info 270",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "270"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 3 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les modalités de prise de congés ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quels sont les montants de franchise ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Comment sont calculés les droits à congés ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Décret 2022-1289",
+      "Article 27"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 12 décembre 2022 au 18 décembre 2022 N° 270 LA MÉDIATION, L'ALLIÉE DU NOTAIRE. La Chambre et la Direction de la Média tion et de l’Arbitrage du CSN organisent à Caen une journée de formation nationale à la prescription de la médiation le 8 juin 2023. Le but de cette formation est de situer la médiation dans la justice et la société civile, de comprendre le déroulement d’une médiation, de connaître le rôle des médiateurs et des centres de médiation du notariat et de savoir proposer une médiation à ses clients.",
+  "mots_cles": [
+    "actualité juridique",
+    "assurance professionnelle",
+    "congés payés",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "1945-12-19",
+    "2022-12-12",
+    "2022-12-18",
+    "2023-04-02",
+    "2023-06-08"
+  ]
+}

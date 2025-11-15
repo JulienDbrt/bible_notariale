@@ -1,0 +1,62 @@
+{
+  "document_id": "fil_infos_fil_info_2862",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2862.pdf",
+  "nom_fichier": "fil-info-2862.pdf",
+  "metadata": {
+    "titre": "fil info 2862",
+    "titre_court": "fil info 2862",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2862"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles garanties sont couvertes ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 20 mai 2024 au 26 mai 2024 N° 2862 Exemplarité et unité pour le notariat de notre compagnie. Mes Chers confrères, Je mesure l’immense honneur que vous me faites en me conﬁant la présidence de notre chambre interd épartementale, reprenant ainsi le ﬂambeau de Catherine DECAEN à qui je rends un hommage appuyé pour l’action accomplie au service de notre profession. Le mandat que j’entame sera placé sous le signe de l’unité et de l’exemplarité.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-05-20",
+    "2024-05-26",
+    "2024-06-01",
+    "2024-09-27"
+  ]
+}

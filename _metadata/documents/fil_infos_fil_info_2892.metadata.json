@@ -1,0 +1,75 @@
+{
+  "document_id": "fil_infos_fil_info_2892",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2892.pdf",
+  "nom_fichier": "fil-info-2892.pdf",
+  "metadata": {
+    "titre": "fil info 2892",
+    "titre_court": "fil info 2892",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2892"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 476",
+      "Article 414"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 10 février 2025 au 16 février 2025 N° 2892 SAIN D'ESPRIT. Dans ma pratique de médecin gériatre, inscrite sur la liste du Procureur de la République du Tribunal judiciaire de Lisieux, je suis sollicitée par des familles, sur conseil de leur notaire, de plus en plus fréquemment. Les situations liées à la dépendance et au grand âge amènent souvent ces personnes à devoir prendre des décisions pour leur parent, sans avoir anticipé ces périodes de vie, et parfois de façon urgente.",
+  "mots_cles": [
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-12-19",
+    "2025-02-06",
+    "2025-02-10",
+    "2025-02-16"
+  ]
+}

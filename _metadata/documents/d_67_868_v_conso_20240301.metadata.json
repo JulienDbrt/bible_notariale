@@ -1,0 +1,90 @@
+{
+  "document_id": "d_67_868_v_conso_20240301",
+  "fichier": "sources_documentaires/d_67-868_v_conso_20240301.pdf",
+  "nom_fichier": "d_67-868_v_conso_20240301.pdf",
+  "metadata": {
+    "titre": "d 67 868 v conso 20240301",
+    "titre_court": "d 67 868 v conso 20240301",
+    "date_publication": "2024-03-01",
+    "date_effet": "2024-03-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "decret_ordonnance",
+    "label": "Décret / Ordonnance",
+    "domaines_juridiques": [
+      "textes réglementaires",
+      "législation"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2024,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 3 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "formation professionnelle",
+      "synonymes": [
+        "formation continue",
+        "développement compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quels articles du code sont concernés ?",
+    "Comment financer ces formations ?",
+    "Quelle est la date d'entrée en vigueur ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles modifications réglementaires sont introduites ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 1",
+      "Article 12",
+      "Article 83",
+      "Article 2"
+    ],
+    "complete": []
+  },
+  "resume": "Version consolidée au 1er mars 2024 1 Décret n° 67 -868 du 2 octobre 1967 Pris pour l'application à la profession de notaire de la loi n° 66 -879 du 29 novembre 1966 relative aux sociétés civiles professionnelles Article 1 Modifié par Décret 87 -172 1987 -03-13 art. Article 1 -1 Création Décret n°2022 -1743 du 29 décembre 2022 - art. 7 Les dispositions des articles 3, 4, 6, 92 et 93 ne sont pas applicables à la constitution d'une société civile professionnelle, par dissolution d'une autre société, régie par l'article 83 -1.",
+  "mots_cles": [
+    "formation professionnelle",
+    "législation",
+    "textes réglementaires"
+  ],
+  "dates_mentionnees": [
+    "1966-11-29",
+    "1967-10-02",
+    "1971-11-26",
+    "1973-07-05",
+    "1987-03-17"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "document_id": "fil_infos_fil_info_2894",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2894.pdf",
+  "nom_fichier": "fil-info-2894.pdf",
+  "metadata": {
+    "titre": "fil info 2894",
+    "titre_court": "fil info 2894",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-02-24",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2894"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 14.1"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 24 février 2025 au 02 mars 2025 N° 2894 Liberté d’installation des notaires En 2015, le législateur a fait le choix d’instaurer une liberté d’installation régulée par les pouvoirs publics, aﬁn de favoriser l’accès des diplômés aux ofﬁces, tout en garantissant le maillage territorial. Sur notre territoire, 69 nouveaux ofﬁces ont vu le jour depuis 2015 – dont 42 dans le Calvados, 20 dans la Manche et 7 dans l’Orne. Après 10 ans de libre installation des notaires et alors que les nominations de la 4ème vague viennent de s’achever , plus d’un tiers des ofﬁces de notre cour d’appel sont des ofﬁces créés.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "rémunération",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2025-02-24",
+    "2025-03-02"
+  ]
+}

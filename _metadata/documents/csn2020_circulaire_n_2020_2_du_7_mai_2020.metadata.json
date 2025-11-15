@@ -1,0 +1,110 @@
+{
+  "document_id": "csn2020_circulaire_n_2020_2_du_7_mai_2020",
+  "fichier": "sources_documentaires/CSN2020/Circulaire N° 2020-2 du 7 mai 2020.pdf",
+  "nom_fichier": "Circulaire N° 2020-2 du 7 mai 2020.pdf",
+  "metadata": {
+    "titre": "Circulaire N° 2020 2 du 7 mai 2020",
+    "titre_court": "Circulaire N° 2020 2 du 7 mai 2020",
+    "date_publication": "2020-01-01",
+    "date_effet": "2020-05-07",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2020,
+    "categorie_dossier": "CSN2020"
+  },
+  "reference": {
+    "type": "circulaire",
+    "numero": "2020-2"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "acte authentique",
+      "synonymes": [
+        "acte notarié",
+        "instrumentum"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "RGPD",
+      "synonymes": [
+        "protection des données",
+        "données personnelles"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 4.2",
+      "Article 16",
+      "Article 8",
+      "Article 3.1"
+    ],
+    "complete": []
+  },
+  "resume": "- Mesdames et Messieurs les Présidents de Conseil régional Pour attribution. - Mesdames et Messieurs les Membres du C.S.N. Adhésion par les notaires à un groupement ou à un réseau de recommandations d’affaires.",
+  "mots_cles": [
+    "formation professionnelle",
+    "instructions professionnelles",
+    "réglementation notariale"
+  ],
+  "dates_mentionnees": [
+    "2020-05-07"
+  ]
+}

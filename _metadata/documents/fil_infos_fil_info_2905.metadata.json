@@ -1,0 +1,80 @@
+{
+  "document_id": "fil_infos_fil_info_2905",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2905.pdf",
+  "nom_fichier": "fil-info-2905.pdf",
+  "metadata": {
+    "titre": "fil info 2905",
+    "titre_court": "fil info 2905",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-05-19",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2905"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles garanties sont couvertes ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 19 mai 2025 au 25 mai 2025 N° 2905 Une profession en mouvement : Cap sur les nouveaux outils et pratiques Chères collaboratrices, chers collaborateurs, Hier, les 419 notaires de notre Cour étaie nt réunis à Deauville pour notre Assemblée générale annuelle. Ce temps fort de la vie institutionnelle a permis de dresser un cap clair pour notre profession. Plusieurs annonces vous concernent directement, car elles impacteront concrètement vos pratiques quotidiennes.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2025-05-19",
+    "2025-05-25",
+    "2025-10-28",
+    "2025-12-03"
+  ]
+}

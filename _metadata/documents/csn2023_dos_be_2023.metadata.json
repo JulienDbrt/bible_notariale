@@ -1,0 +1,73 @@
+{
+  "document_id": "csn2023_dos_be_2023",
+  "fichier": "sources_documentaires/CSN2023/DOS BE - 2023.pdf",
+  "nom_fichier": "DOS BE - 2023.pdf",
+  "metadata": {
+    "titre": "DOS BE 2023",
+    "titre_court": "DOS BE 2023",
+    "date_publication": "2023-01-01",
+    "date_effet": "2023-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2023,
+    "categorie_dossier": "CSN2023"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quelles sont les modalités de prise de congés ?",
+    "Comment sont calculés les droits à congés ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Les dossiers envoyés directement par le salarié au Conseil Supérieur du Notariat siégeant en Comite Mixte NE SERONT PAS EXAMINES. Etape 2 Finalisation du dossier Vous devrez impérativement transmettre un certificat de scolarité 2023 - 2024 pour chaque enfant entre septembre et décembre 2023 pour règlement par virement bancaire. Etape 3 Règlement par virement Bancaire  Le règlement de la Bourse d’Etudes associée à l’Aide Sportive ou Culturelle vous sera versé entre septembre 202 3 et décembre 202 3.",
+  "mots_cles": [
+    "congés payés",
+    "instructions professionnelles",
+    "réglementation notariale",
+    "rémunération"
+  ]
+}

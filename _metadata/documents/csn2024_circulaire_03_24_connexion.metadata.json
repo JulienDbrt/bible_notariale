@@ -1,0 +1,81 @@
+{
+  "document_id": "csn2024_circulaire_03_24_connexion",
+  "fichier": "sources_documentaires/CSN2024/CIRCULAIRE 03-24 - Connexion.pdf",
+  "nom_fichier": "CIRCULAIRE 03-24 - Connexion.pdf",
+  "metadata": {
+    "titre": "CIRCULAIRE 03 24 Connexion",
+    "titre_court": "CIRCULAIRE 03 24 Connexion",
+    "date_publication": "2024-01-01",
+    "date_effet": "2024-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2024,
+    "categorie_dossier": "CSN2024"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Quels sont les montants de franchise ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "Quelles garanties sont couvertes ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "60 Boulevard de La Tour -Maubourg – 75007 Paris Tél. : 01 43 87 20 71 – Email : agcm.comite.comite@notaires.fr Mesdames et Messieurs les Présidents et Secrétaires des Conseils Régionaux des Chambres Interdépartementales des Chambres Départementales siégeant en Comité Mixte Paris, le 17 janvier 202 4 Nos Réf. Pour cela, nous avons besoin du nom - prénom et du mail de la personne de votre chambre pour activer à votre compte .et créer votre mot de passe qui servira à votre connexion.",
+  "mots_cles": [
+    "assurance professionnelle",
+    "instructions professionnelles",
+    "réglementation notariale"
+  ],
+  "dates_mentionnees": [
+    "2023-01-22"
+  ]
+}

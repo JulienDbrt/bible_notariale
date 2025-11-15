@@ -1,0 +1,89 @@
+{
+  "document_id": "fil_infos_fil_info_2846",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2846.pdf",
+  "nom_fichier": "fil-info-2846.pdf",
+  "metadata": {
+    "titre": "fil info 2846",
+    "titre_court": "fil info 2846",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2846"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "acte authentique",
+      "synonymes": [
+        "acte notarié",
+        "instrumentum"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants mentionnés dans ce document ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 22 janvier 2024 au 28 janvier 2024 N° 2846 L’AL : Un laboratoire d’idées pour tous les notaires. Saviez-vous que tous les notaires sont membres de l’AL. Véritable forum, elle permet à chacun(e) d’exprimer ses idées lors de sa session annuelle, gratuite et ouverte à tous les notaires de France.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-02-14",
+    "2024-01-22",
+    "2024-01-28",
+    "2024-02-15",
+    "2024-02-28"
+  ],
+  "donnees_chiffrees": {
+    "montants_euros": [
+      "170",
+      "680",
+      "583"
+    ]
+  }
+}

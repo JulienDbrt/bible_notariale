@@ -1,0 +1,71 @@
+{
+  "document_id": "fil_infos_fil_info_257",
+  "fichier": "sources_documentaires/fil-infos/fil-info-257.pdf",
+  "nom_fichier": "fil-info-257.pdf",
+  "metadata": {
+    "titre": "fil info 257",
+    "titre_court": "fil info 257",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "257"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 05 septembre 2022 au 1 1 septembre 2022 N° 257 C'EST LA RENTRÉE. Nous ne cessons jamais d’apprendre, de nous perfectionner , de nous mettre à jour… Malgré nos connaissances et notre expérience, nous sommes, d’une certaine manière, d’éternels étudiants. C’est pourquoi il est temps de remettre nos cartables sur le dos et d’aller en cours.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-06-30",
+    "2022-07-18",
+    "2022-09-01",
+    "2022-09-05",
+    "2022-09-17"
+  ]
+}

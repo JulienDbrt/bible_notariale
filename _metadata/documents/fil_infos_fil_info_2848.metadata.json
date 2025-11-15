@@ -1,0 +1,106 @@
+{
+  "document_id": "fil_infos_fil_info_2848",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2848.pdf",
+  "nom_fichier": "fil-info-2848.pdf",
+  "metadata": {
+    "titre": "fil info 2848",
+    "titre_court": "fil info 2848",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2848"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "formation professionnelle",
+      "synonymes": [
+        "formation continue",
+        "développement compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 30.4",
+      "Article 14.4",
+      "Article 74"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 05 février 2024 au 1 1 février 2024 N° 2848 Et si vous preniez part à la défense du droit continental. J'invite chacun(e) d'entre vous à prendre conscience de l'opportunité qui nous est donnée, via ce jumelage, d'apporter notre contribution au rayonnement et à la consolidation du modèle juridique qui est le nôtre, hors de nos frontières. Nous vous espérons toujours plus nombreux à partager les moments inoubliables que nous permet ce jumelage, ici ou au Togo, et que tant d'autres compagnies nous envient.",
+  "mots_cles": [
+    "actualité juridique",
+    "cybersécurité",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-02-01",
+    "2024-02-05",
+    "2024-04-12",
+    "2024-05-31",
+    "2024-06-02"
+  ]
+}

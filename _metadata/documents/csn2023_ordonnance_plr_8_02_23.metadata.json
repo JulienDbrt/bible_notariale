@@ -1,0 +1,104 @@
+{
+  "document_id": "csn2023_ordonnance_plr_8_02_23",
+  "fichier": "sources_documentaires/CSN2023/Ordonnance PLR 8.02.23.pdf",
+  "nom_fichier": "Ordonnance PLR 8.02.23.pdf",
+  "metadata": {
+    "titre": "Ordonnance PLR 8.02.23",
+    "titre_court": "Ordonnance PLR 8.02.23",
+    "date_publication": "2023-01-01",
+    "date_effet": "2023-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "decret_ordonnance",
+    "label": "Décret / Ordonnance",
+    "domaines_juridiques": [
+      "textes réglementaires",
+      "législation"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2023,
+    "categorie_dossier": "CSN2023"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 3 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quels sont les montants de franchise ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "Quelles garanties sont couvertes ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 10",
+      "Article 131",
+      "Article 7",
+      "Article 38",
+      "Article 78"
+    ],
+    "complete": []
+  },
+  "resume": "Ces professions sont soumises à un statut législatif ou réglementaire ou leur titre est protégé. Elles sont tenues, quel que soit le mode d’exercice de leur profession et conformément aux textes qui régissent son accès et son exercice, au respect de principes éthiques ou d’une déontologie professionnelle susceptibles d’être sanctionnés par l’autorité compétente en matière disciplinaire. La seule réalisation d’actes de gestion ne confère pas la qualité de professionnel exerçant.",
+  "mots_cles": [
+    "assurance professionnelle",
+    "instructions professionnelles",
+    "réglementation notariale"
+  ],
+  "dates_mentionnees": [
+    "1817-09-10",
+    "1945-09-19",
+    "1945-11-02",
+    "1946-05-07",
+    "1947-09-10"
+  ]
+}

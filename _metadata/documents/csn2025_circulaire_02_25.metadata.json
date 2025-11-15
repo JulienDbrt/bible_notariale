@@ -1,0 +1,50 @@
+{
+  "document_id": "csn2025_circulaire_02_25",
+  "fichier": "sources_documentaires/CSN2025/CIRCULAIRE - 02-25.pdf",
+  "nom_fichier": "CIRCULAIRE - 02-25.pdf",
+  "metadata": {
+    "titre": "CIRCULAIRE 02 25",
+    "titre_court": "CIRCULAIRE 02 25",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "CSN2025"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Circulaire 02 du CSN contenant des instructions officielles pour la profession notariale. Ce document définit les modalités d'application des dispositions réglementaires et les recommandations pratiques à mettre en œuvre par les offices notariaux.",
+  "mots_cles": [
+    "instructions professionnelles",
+    "réglementation notariale",
+    "conformité",
+    "circulaire CSN"
+  ]
+}

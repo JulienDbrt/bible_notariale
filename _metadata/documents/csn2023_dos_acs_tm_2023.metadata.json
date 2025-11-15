@@ -1,0 +1,63 @@
+{
+  "document_id": "csn2023_dos_acs_tm_2023",
+  "fichier": "sources_documentaires/CSN2023/DOS ACS (TM) - 2023.pdf",
+  "nom_fichier": "DOS ACS (TM) - 2023.pdf",
+  "metadata": {
+    "titre": "DOS ACS (TM) 2023",
+    "titre_court": "DOS ACS (TM) 2023",
+    "date_publication": "2023-01-01",
+    "date_effet": "2023-10-16",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2023,
+    "categorie_dossier": "CSN2023"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Quelles sont les modalités de prise de congés ?",
+    "Comment sont calculés les droits à congés ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": " Le salarié ou retraité qui est couvert personnellement par une autre mutuelle santé, peut obtenir le remboursement d’une fraction de sa cotisation.  Lorsque deux conjoints ou partenaires civils de solidarité adhèrent nominativement à une autre mutuelle que l’APGIS et la MCEN, seul celui qui est actif, retraité ou pensionné du Notariat est pris en compte.  Le salarié ou retraité qui est couvert par la complémentaire santé du conjoint ou concubin MAIS avec une cotisation supplémentaire apparaissant d’une manière détaillée pour chacun , peut obtenir le remboursement d’une fraction de sa cotisation.",
+  "mots_cles": [
+    "congés payés",
+    "instructions professionnelles",
+    "réglementation notariale"
+  ],
+  "dates_mentionnees": [
+    "2023-10-16"
+  ]
+}

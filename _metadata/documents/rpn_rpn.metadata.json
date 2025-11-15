@@ -1,0 +1,123 @@
+{
+  "document_id": "rpn_rpn",
+  "fichier": "sources_documentaires/rpn/RPN.pdf",
+  "nom_fichier": "RPN.pdf",
+  "metadata": {
+    "titre": "RPN",
+    "titre_court": "RPN",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "rpn"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "acte authentique",
+      "synonymes": [
+        "acte notarié",
+        "instrumentum"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les recommandations principales de ce guide ?",
+    "Comment appliquer ces bonnes pratiques au quotidien ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
+    "Quels sont les points de vigilance à retenir ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles garanties sont couvertes ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "REGLE MENT PROFESSIONNEL DU NOTARIAT Approuvé par arrêté de Monsieur le Garde des Sceaux, Ministre de la justice, en date du 29 janvier 2024 (publié au J.O.R.F. du 31 janvier 2024 ) Sous le sceau de l’Etat, Conseiller avec rigueur et impartialité, Accompagner avec humanité et discrétion, Exprimer l’équilibre des volontés dans le cadre fixé par la loi, Conserver les actes pour toujours, Et agir ainsi pour la paix au cœur de la société. La violation de ces différentes dispositions expose à des poursuites disciplinaires.",
+  "mots_cles": [
+    "assurance professionnelle",
+    "bonnes pratiques",
+    "documentation métier",
+    "formation professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2018-05-22",
+    "2024-01-29",
+    "2024-01-31"
+  ]
+}

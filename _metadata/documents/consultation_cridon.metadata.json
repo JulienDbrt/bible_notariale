@@ -1,0 +1,53 @@
+{
+  "document_id": "consultation_cridon",
+  "fichier": "sources_documentaires/CONSULTATION CRIDON.docx",
+  "nom_fichier": "CONSULTATION CRIDON.docx",
+  "metadata": {
+    "titre": "CONSULTATION CRIDON",
+    "titre_court": "CONSULTATION CRIDON",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Comment soumettre une question au CRIDON ?",
+    "Quels types de questions le CRIDON peut-il traiter ?",
+    "Quel est le délai de réponse du CRIDON ?",
+    "Les avis du CRIDON ont-ils valeur contraignante ?",
+    "Comment utiliser les consultations CRIDON dans ma pratique ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de consultation juridique du CRIDON (Centre de Recherche d'Information et de Documentation Notariales). Ce service fournit aux notaires des réponses expertes sur des questions juridiques complexes, offrant une analyse approfondie de la jurisprudence et de la doctrine applicable aux situations concrètes rencontrées dans la pratique notariale.",
+  "mots_cles": [
+    "CRIDON",
+    "consultation juridique",
+    "expertise notariale",
+    "recherche juridique",
+    "doctrine"
+  ]
+}

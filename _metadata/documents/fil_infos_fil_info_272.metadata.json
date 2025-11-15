@@ -1,0 +1,80 @@
+{
+  "document_id": "fil_infos_fil_info_272",
+  "fichier": "sources_documentaires/fil-infos/fil-info-272.pdf",
+  "nom_fichier": "fil-info-272.pdf",
+  "metadata": {
+    "titre": "fil info 272",
+    "titre_court": "fil info 272",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "272"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Le partenariat mis en place avec la profession en 2007 est réafﬁrmé par la signature d’une convention d’objectifs pour quatre nouvelles années. Aﬁn de permettre à la chambre de communiquer le nom des candidats à la commission de la DDFIP chargée de retenir les notaires proposés, j’invite ceux d’entre vous qui veulent faire acte de candidature à vous inscrire en cliquant ICI. Avant de vous engager , soyez sûr que vous pourrez respecter vos obligations et la charte que vous signerez avec les services de France Domaine, il en va de la crédib ilité du notariat face aux attentes de l’Etat.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-12-12",
+    "2023-01-02",
+    "2023-01-08",
+    "2023-02-07",
+    "2023-02-09"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "document_id": "observatoire_immobilier_cid50_2025m1",
+  "fichier": "sources_documentaires/observatoire_immobilier/CID50_2025M1.pdf",
+  "nom_fichier": "CID50_2025M1.pdf",
+  "metadata": {
+    "titre": "CID50 2025M1",
+    "titre_court": "CID50 2025M1",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "immobilier",
+    "label": "Immobilier",
+    "domaines_juridiques": [
+      "transactions immobilières",
+      "observatoire"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "observatoire_immobilier"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Comment interpréter ces données pour mon secteur ?",
+    "Quels indicateurs sont suivis ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Mar ché immobilier des appart ements anciens Appart ements anciens Studios 2 pièces 3 pièces 4 pièces 5 pièces et plus Ensemble T ype de z one géogr aphique : D = Département, S = S ecteur , C = Commune, Q = Quartier P art et nb. v entes Prix/m² médian Prix médian Surf. médiane MANCHE (D-50) 11,5% 35,4% 31,1% 17 ,2% 4 , 7% 793 2 970 € 2 440 € 2 170 € 1 860 € 1 880 € 2 220 € +0,1% 80 300 € 107 700 € 135 000 € 152 500 € 200 000 € 120 000 € 26 m² 45 m² 63 m² 78 m² 104 m² 55 m² P art et nb.",
+  "mots_cles": [
+    "observatoire",
+    "transactions immobilières"
+  ]
+}

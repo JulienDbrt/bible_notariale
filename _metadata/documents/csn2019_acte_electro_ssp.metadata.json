@@ -1,0 +1,68 @@
+{
+  "document_id": "csn2019_acte_electro_ssp",
+  "fichier": "sources_documentaires/CSN2019/ACTE_ELECTRO_SSP.pdf",
+  "nom_fichier": "ACTE_ELECTRO_SSP.pdf",
+  "metadata": {
+    "titre": "ACTE ELECTRO SSP",
+    "titre_court": "ACTE ELECTRO SSP",
+    "date_publication": "2019-01-01",
+    "date_effet": "2019-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "acte électronique",
+      "procédures"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2019,
+    "categorie_dossier": "CSN2019"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "acte authentique",
+      "synonymes": [
+        "acte notarié",
+        "instrumentum"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Quels sont les montants de franchise ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "Quelles garanties sont couvertes ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 1369",
+      "Article 1174",
+      "Décret 2017-1416"
+    ],
+    "complete": []
+  },
+  "resume": "1 L’acte électronique sous signatures privées — Une SS2I a récemment mis sur le marché de nouvelles offres de produits permettant l’établissement d’actes sous signatures privées sous forme électronique, avec recueil de la signature des clients sous forme électronique. Cette innovation, si elle est adoptée, doit être mise en place de manière maîtrisée en évitant toute atteinte à la sécurité juridique et tout risque de confusion. Il est notamment rappelé qu’une signature électronique, si elle est en principe reconnue par le droit français, doit pour cela reposer sur l’emploi d’un procédé fiable.",
+  "mots_cles": [
+    "instructions professionnelles",
+    "réglementation notariale"
+  ],
+  "dates_mentionnees": [
+    "2014-07-23",
+    "2017-09-28"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "fil_infos_fil_info_2901",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2901.pdf",
+  "nom_fichier": "fil-info-2901.pdf",
+  "metadata": {
+    "titre": "fil info 2901",
+    "titre_court": "fil info 2901",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2901"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 676"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 14 avril 2025 au 20 avril 2025 N° 2901 Augmentation des DMTO : premières précisions de l’Administration ﬁscale. Comme le permet la loi de ﬁnances, nos trois départements relèveront le taux des droits de mutation à titre onéreux le 1er mai 2025. Une disposition d’apparence simple, mais qui suscite de nombreuses interrogations sur son application pratique – notamment en ce qui concerne l’exonération prévue pour les primo-accédants.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "1946-05-07",
+    "2025-01-31",
+    "2025-04-14",
+    "2025-04-15",
+    "2025-04-20"
+  ]
+}

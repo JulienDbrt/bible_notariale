@@ -1,0 +1,112 @@
+{
+  "document_id": "csn2025_20250123_partage_de_la_valeur_au_sein_des_offices_de_11_a_49_salaries",
+  "fichier": "sources_documentaires/CSN2025/20250123_Partage de la valeur au sein des offices de 11 à 49 salariés.pdf",
+  "nom_fichier": "20250123_Partage de la valeur au sein des offices de 11 à 49 salariés.pdf",
+  "metadata": {
+    "titre": "Partage de la valeur au sein des offices de 11 à 49 salariés",
+    "titre_court": "Partage de la valeur au sein des offices de 11 à 4",
+    "date_publication": "2025-01-23",
+    "date_effet": "2025-01-23",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "partage de la valeur",
+      "intéressement"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "CSN2025"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "intéressement",
+      "synonymes": [
+        "participation aux bénéfices"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 9 fois dans le document"
+    },
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 3",
+      "Loi 2023-1107",
+      "Article 1",
+      "Article 4",
+      "Article 2"
+    ],
+    "complete": []
+  },
+  "resume": "Lucien CARON , ledit syndicat affilié à la C.F.E. - C.G.C ., La Fédération « commerce, services et force de vente » C.F.T.C. , dont le siège est à PARIS 19ème, 34 quai de la Loire, représentée par Mme Laura MESSAÏ , La Fédération générale des clercs et employés de notaire, dont le siège est à PARIS 8ème, 31 rue du Rocher, représentée par M.",
+  "mots_cles": [
+    "formation professionnelle",
+    "instructions professionnelles",
+    "réglementation notariale",
+    "rémunération"
+  ],
+  "dates_mentionnees": [
+    "2003-07-22",
+    "2019-07-11",
+    "2020-01-23",
+    "2023-11-29",
+    "2024-12-31"
+  ]
+}

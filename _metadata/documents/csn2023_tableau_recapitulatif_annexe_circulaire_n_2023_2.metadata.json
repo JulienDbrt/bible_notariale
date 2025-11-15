@@ -1,0 +1,96 @@
+{
+  "document_id": "csn2023_tableau_recapitulatif_annexe_circulaire_n_2023_2",
+  "fichier": "sources_documentaires/CSN2023/Tableau récapitulatif - annexe circulaire n°2023-2.pdf",
+  "nom_fichier": "Tableau récapitulatif - annexe circulaire n°2023-2.pdf",
+  "metadata": {
+    "titre": "Tableau récapitulatif annexe circulaire n°2023 2",
+    "titre_court": "Tableau récapitulatif annexe circulaire n°2023 2",
+    "date_publication": "2023-01-01",
+    "date_effet": "2023-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "synthèse"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2023,
+    "categorie_dossier": "CSN2023"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Comment financer ces formations ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 9",
+      "Décret 2022-1743",
+      "Article 23",
+      "Article 8",
+      "Décret 2016-883",
+      "Article 103",
+      "Article 13",
+      "Décret 2022-900"
+    ],
+    "complete": []
+  },
+  "resume": "Le décret n° 2022-1743 du 29 décembre 2022 vient quant à lui mettre fin au régime de la prestation de serment multiple : le notaire ne prête dorénavant serment qu’une seule fois au cours de la carrière (que cette prestation de serment ait eu lieu avant ou après le 1er janvier 2023). 3 canaux de dépôt et instruction des dossiers pour une demande /déclaration relative à un changement dans la carrière du notaire et/ou concernant son étude Situation squi restent soumises à une autorisation par arrêté du garde des Sceaux. A compter du 1er mars 2023 (déclarations déposées à compter de cette date) : Passage à un régime déclaratif sur le site OPM donnant lieu à une décision tacite sur le principe du SVA après expiration d’un délai d’opposition généralement de 2 mois (parfois 1 ou 4).",
+  "mots_cles": [
+    "formation professionnelle",
+    "instructions professionnelles",
+    "réglementation notariale"
+  ],
+  "dates_mentionnees": [
+    "1945-12-19",
+    "1967-10-02",
+    "1971-11-26",
+    "1973-07-05",
+    "1993-01-13"
+  ]
+}

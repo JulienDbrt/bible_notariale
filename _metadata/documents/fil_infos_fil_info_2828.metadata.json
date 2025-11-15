@@ -1,0 +1,116 @@
+{
+  "document_id": "fil_infos_fil_info_2828",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2828.pdf",
+  "nom_fichier": "fil-info-2828.pdf",
+  "metadata": {
+    "titre": "fil info 2828",
+    "titre_court": "fil info 2828",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2828"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 5 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 3 fois dans le document"
+    },
+    {
+      "terme": "harcèlement",
+      "synonymes": [
+        "harcèlement moral",
+        "harcèlement sexuel"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "formation professionnelle",
+      "synonymes": [
+        "formation continue",
+        "développement compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Quelles sont les modalités de prise de congés ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quels sont les montants de franchise ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Comment signaler un cas de harcèlement ?",
+    "Comment sont calculés les droits à congés ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 19.1",
+      "Article 29.1"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 28 août 2023 au 03 septembre 2023 N° 2828 RÉFORME DES RETRAITES : QUEL IMPACT SUR VOTRE SITUA TION PERSONNELLE. Le décret transposant à la CRPCEN les mesures liées à l’âge de la retraite et à la durée d’assurance requise prévues dans le cadre de la réforme des retraites a été publié au Journal ofﬁciel le 30 juillet dernier. - Un second webinaire dédié aux afﬁliés qui ne sont pas encore en ﬁn de carrière, aﬁn de leur expliquer quelques généralités sur la réforme et les éclairer sur les plus-values des prestations dont ils bénéﬁcient en tant qu’afﬁliés à la CRPCEN.",
+  "mots_cles": [
+    "actualité juridique",
+    "assurance professionnelle",
+    "congés payés",
+    "formation professionnelle",
+    "prévention harcèlement",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-05-31",
+    "2023-08-15",
+    "2023-08-23",
+    "2023-08-28",
+    "2023-09-03"
+  ]
+}

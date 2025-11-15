@@ -1,0 +1,72 @@
+{
+  "document_id": "reglement_de_la_cour",
+  "fichier": "sources_documentaires/REGLEMENT DE LA COUR.pdf",
+  "nom_fichier": "REGLEMENT DE LA COUR.pdf",
+  "metadata": {
+    "titre": "REGLEMENT DE LA COUR",
+    "titre_court": "REGLEMENT DE LA COUR",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 17 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les recommandations principales de ce guide ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment appliquer ces bonnes pratiques au quotidien ?",
+    "Quels sont les points de vigilance à retenir ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 1",
+      "Article 2",
+      "Article 3",
+      "Article 4"
+    ],
+    "complete": []
+  },
+  "resume": "RÈGLEMENT DE LA CHAMBRE INTERDEPARTEMENTALE DES NOTAIRES DE BASSE -NORMANDIE Approuvé par arrêté de M. le Garde des Sceaux, Mini stre de la Justice, en date du 30 juin 1983, publié au J.O. du 10 juill et 1983 Modifié par arrêté de M.",
+  "mots_cles": [
+    "bonnes pratiques",
+    "documentation métier",
+    "transactions immobilières"
+  ],
+  "dates_mentionnees": [
+    "1983-06-30",
+    "1986-07-09",
+    "1987-11-04",
+    "1987-11-07"
+  ]
+}

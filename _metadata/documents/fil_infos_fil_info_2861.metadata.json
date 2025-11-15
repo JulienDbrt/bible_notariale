@@ -1,0 +1,76 @@
+{
+  "document_id": "fil_infos_fil_info_2861",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2861.pdf",
+  "nom_fichier": "fil-info-2861.pdf",
+  "metadata": {
+    "titre": "fil info 2861",
+    "titre_court": "fil info 2861",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2861"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Quelles garanties sont couvertes ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Loi 2024-322"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 13 mai 2024 au 19 mai 2024 N° 2861 Un déjeuner de soleil, C’est ce que fût mon mandat ou du moins, l’impression qu’il me laisse : instant fugace, mais intense et mémorable. Mon mandat me laissera des souvenirs de riches moments de travail partagés, de surprises, de joies, de contraintes, mais beaucoup de satisfaction en échange. Je me remémore les jours précédant le début de mon mandat et cette espèce d’angoisse de la page blanche \"Que vais-je proposer et réaliser pendant ces deux ans ?\"...",
+  "mots_cles": [
+    "actualité juridique",
+    "assurance professionnelle",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-04-08",
+    "2024-04-09",
+    "2024-05-13",
+    "2024-05-19",
+    "2024-05-31"
+  ]
+}

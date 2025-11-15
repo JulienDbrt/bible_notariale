@@ -1,0 +1,93 @@
+{
+  "document_id": "fil_infos_fil_info_2839",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2839.pdf",
+  "nom_fichier": "fil-info-2839.pdf",
+  "metadata": {
+    "titre": "fil info 2839",
+    "titre_court": "fil info 2839",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2839"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "formation professionnelle",
+      "synonymes": [
+        "formation continue",
+        "développement compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Comment financer ces formations ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quels sont les montants de franchise ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 27 novembre 2023 au 03 décembre 2023 N° 2839 MIGRATION DE NOS ADRESSES DE MESSAGERIE Le compte à rebours est lancé. L’afﬁchage d’une identité spéciﬁque aux ofﬁces de la Cour @normandie.notaires n’ayant pas été retenue, chaque ofﬁce doit désormais adopter une identiﬁcation spéciﬁque pour former le sous-domaine personnalisé sur le format @denomination-ofﬁce.notaires.fr. Je vous invite via ce lien, à soumettre au contrôle de la Chambre, la conformité du sous-domaine que vous avez retenu au regard du plan de nommage et du projet de RPN en matière d’identité numérique.",
+  "mots_cles": [
+    "actualité juridique",
+    "assurance professionnelle",
+    "cybersécurité",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-11-27",
+    "2023-12-03",
+    "2023-12-11",
+    "2023-12-31",
+    "2024-01-16"
+  ]
+}

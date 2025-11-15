@@ -1,0 +1,71 @@
+{
+  "document_id": "fil_infos_fil_info_2875",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2875.pdf",
+  "nom_fichier": "fil-info-2875.pdf",
+  "metadata": {
+    "titre": "fil info 2875",
+    "titre_court": "fil info 2875",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2875"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 23 septembre 2024 au 29 septembre 2024 N° 2875 COMMENT DEVIENT-ON MAGISTRAT À TITRE TEMPORAIRE. Lorsque j’ai été nommée juge de proximité en juillet 2012, j’étais loin de me douter que je serais encore au service de la justice une dizaine d’années plus tard. En juillet 2017, le statut de juge de proximité a été remplacé par celui de magistrat à titre temporaire ou MTT, le mandat passant de 7 à 5 ans mais renouvelable une fois.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-09-23",
+    "2024-09-29"
+  ]
+}

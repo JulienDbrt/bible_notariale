@@ -1,0 +1,100 @@
+{
+  "document_id": "csn2021_202106_avenant_42_notaire_salarie",
+  "fichier": "sources_documentaires/CSN2021/202106 - Avenant 42 - Notaire salarie.pdf",
+  "nom_fichier": "202106 - Avenant 42 - Notaire salarie.pdf",
+  "metadata": {
+    "titre": "202106 Avenant 42 Notaire salarie",
+    "titre_court": "202106 Avenant 42 Notaire salarie",
+    "date_publication": "2021-01-01",
+    "date_effet": "2021-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2021,
+    "categorie_dossier": "CSN2021"
+  },
+  "reference": {
+    "type": "avenant",
+    "numero": "42"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 3 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quels articles de la convention collective sont modifiés ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "À partir de quand cet avenant s'applique-t-il ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 1",
+      "Article 57",
+      "Article 17",
+      "Article 4"
+    ],
+    "complete": []
+  },
+  "resume": "est supprimé et remplacé par :“Tout salarié nommé notaire salarié par arrêté du garde des sceaux, ministre de la justice, et ayant prêté le serment prévu à l’article 57 du décret du 5 juillet 1973 doit être classé au minimum C.2.”Article 2 Le présent avenant entrera en vigueur le 1er juillet 2021. Il sera rendu public et versé dans une base de données nationale, en application des articles L2231-5-1 et R2231-1-1 du Code du travail. Il sera soumis à la procédure d’extension prévue aux articles L2261-24 et suivants du Code du travail, à l’initiative de la partie la plus diligente..",
+  "mots_cles": [
+    "convention collective",
+    "droit social"
+  ],
+  "dates_mentionnees": [
+    "1973-07-05",
+    "2001-06-08",
+    "2015-02-19",
+    "2016-05-20",
+    "2020-01-23"
+  ]
+}

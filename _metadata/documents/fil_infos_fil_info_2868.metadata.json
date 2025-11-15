@@ -1,0 +1,95 @@
+{
+  "document_id": "fil_infos_fil_info_2868",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2868.pdf",
+  "nom_fichier": "fil-info-2868.pdf",
+  "metadata": {
+    "titre": "fil info 2868",
+    "titre_court": "fil info 2868",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2868"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 3 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 26.2",
+      "Article 26",
+      "Article 7.1"
+    ],
+    "complete": []
+  },
+  "resume": "Je vous rappelle que le remplacement, comme la substitution, ne sont possibles que dans les situations ne nécessitant pas la mise en place d’une suppléance. Par ailleurs, le Règlement Professionnel des Notaires (R.P.N.) précise en son article 26.2.2. alinéa 2 de cet article).",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2024-06-15",
+    "2024-06-20",
+    "2024-07-01",
+    "2024-07-07",
+    "2024-10-10"
+  ]
+}

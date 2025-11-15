@@ -1,0 +1,61 @@
+{
+  "document_id": "fil_infos_fil_info_2858",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2858.pdf",
+  "nom_fichier": "fil-info-2858.pdf",
+  "metadata": {
+    "titre": "fil info 2858",
+    "titre_court": "fil info 2858",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2858"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 15 avril 2024 au 21 avril 2024 N° 2858 De beaux échanges, Voilà ce qu’ont permis les cinq jours passés en compagnie de nos confrères togolais, dans le cadre du jumelage qui lie notre compagnie à la chambre des notaires du Togo. Les formations qui leur ont été dispensées en matière de réforme disciplinaire, inspection, tarif et déontologie, ont retenu toute leur attention et ont donné lieu à des échanges nourris sur nos pratiques respectives. Ce fût, pour la cinquième fois, l’occasion de renforcer nos liens et de partager des valeurs et des aspirations communes.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2023-07-05",
+    "2024-03-29",
+    "2024-04-15",
+    "2024-04-21",
+    "2024-05-23"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "document_id": "convention_collective_20231214_avenant_n54_a_la_ccn_modification_de_larticle_15_categorie_employes",
+  "fichier": "sources_documentaires/Convention Collective/20231214_-_avenant_n54_a_la_ccn_-_modification_de_larticle_15_-_categorie_employes.pdf",
+  "nom_fichier": "20231214_-_avenant_n54_a_la_ccn_-_modification_de_larticle_15_-_categorie_employes.pdf",
+  "metadata": {
+    "titre": "avenant n54 a la ccn modification de larticle 15 categorie employes",
+    "titre_court": "avenant n54 a la ccn modification de larticle 15 c",
+    "date_publication": "2023-12-14",
+    "date_effet": "2023-12-14",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2023,
+    "categorie_dossier": "Convention Collective"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 7 fois dans le document"
+    },
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 6 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "À partir de quand cet avenant s'applique-t-il ?",
+    "Quels articles de la convention collective sont modifiés ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "Quelles formations sont concernées par ce document ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 1",
+      "Article 15.1",
+      "Article 15"
+    ],
+    "complete": []
+  },
+  "resume": "Stéphane SPANNEUT, ledit syndicat affilié à la C.F.E. - C.G.C., La Fédération « commerce, services et force de vente » C.F.T.C. , dont le siège est à PARIS 19ème, 34 quai de la Loire, représentée par Mme Géraldine TEBALDINI , L’Union nationale des syndicats autonomes U.N.S.A ., dont le siège est à BAGNOLET (93), 21 rue Jules Ferry, représentée par M.",
+  "mots_cles": [
+    "convention collective",
+    "droit social",
+    "formation professionnelle",
+    "rémunération"
+  ],
+  "dates_mentionnees": [
+    "2001-06-08",
+    "2021-12-16",
+    "2023-12-14"
+  ]
+}

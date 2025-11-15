@@ -1,0 +1,96 @@
+{
+  "document_id": "rpn_pj_rpn_commentaire",
+  "fichier": "sources_documentaires/rpn/PJ RPN COMMENTAIRE.pdf",
+  "nom_fichier": "PJ RPN COMMENTAIRE.pdf",
+  "metadata": {
+    "titre": "PJ RPN COMMENTAIRE",
+    "titre_court": "PJ RPN COMMENTAIRE",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "rpn"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 5 fois dans le document"
+    },
+    {
+      "terme": "minute",
+      "synonymes": [
+        "original de l'acte",
+        "archive notariale"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "tarification",
+      "synonymes": [
+        "émoluments",
+        "honoraires"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les recommandations principales de ce guide ?",
+    "Comment appliquer ces bonnes pratiques au quotidien ?",
+    "Quels sont les points de vigilance à retenir ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 5",
+      "Article 2",
+      "Article 30"
+    ],
+    "complete": []
+  },
+  "resume": "LE CODE DE DEONTOLOGIE DES NOTAIRES ET LE REGLEMENT PROFESSIONNEL DU NOTARIAT (RPN) Présentation et commentaire 12 février 2024 2 1ère partie : Présentation générale I. La réforme de la déontologie notariale est le corollaire de la réforme de la discipline notariale dont les principes ont été posés dans loi du 22 décembre 2021 susvisée. Cette réforme, a été souhaitée par le notariat et écrite « à quatre mains » avec la DACS.",
+  "mots_cles": [
+    "bonnes pratiques",
+    "documentation métier"
+  ],
+  "dates_mentionnees": [
+    "2018-05-22",
+    "2021-12-22",
+    "2022-04-06",
+    "2022-04-13",
+    "2022-07-06"
+  ]
+}

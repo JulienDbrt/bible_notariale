@@ -1,0 +1,80 @@
+{
+  "document_id": "csn2021_accord_de_branche_du_15_mai_2020_relatif_au_delai_de_carrence_entre_deux_contrats_a_duree_de",
+  "fichier": "sources_documentaires/CSN2021/Accord de branche du 15 mai 2020 - Relatif au délai de carrence entre  deux contrats à durée détérminée.pdf",
+  "nom_fichier": "Accord de branche du 15 mai 2020 - Relatif au délai de carrence entre  deux contrats à durée détérminée.pdf",
+  "metadata": {
+    "titre": "Accord de branche du 15 mai 2020 Relatif au délai de carrence entre deux contrats à durée détérminée",
+    "titre_court": "Accord de branche du 15 mai 2020 Relatif au délai ",
+    "date_publication": "2021-01-01",
+    "date_effet": "2021-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "accord_branche",
+    "label": "Accord de branche",
+    "domaines_juridiques": [
+      "négociation collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2021,
+    "categorie_dossier": "CSN2021"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles dispositions négociées ?",
+    "Quelle est la durée de validité de cet accord ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Qui sont les parties signataires de cet accord ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 3",
+      "Article 24",
+      "Article 1",
+      "Article 4",
+      "Article 2"
+    ],
+    "complete": []
+  },
+  "resume": "Pierre EHRHARDT, ledit syndicat affilié à la C.F.E. Jean-Jacques BAUDUIN, ladite fédération affiliée à la c.g.t. Ils considèrent que l’aménagement des règles relatives à la succession des contrats à durée déterminée peut favoriser la continuité des périodes d’emploi dans la branche et ainsi, une intégration en contrat à durée in- déterminée des salariés concernés.",
+  "mots_cles": [
+    "droit social",
+    "formation professionnelle",
+    "négociation collective"
+  ],
+  "dates_mentionnees": [
+    "2001-06-08",
+    "2015-02-19",
+    "2020-05-15"
+  ]
+}

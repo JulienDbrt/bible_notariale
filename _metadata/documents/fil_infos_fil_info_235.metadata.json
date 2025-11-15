@@ -1,0 +1,73 @@
+{
+  "document_id": "fil_infos_fil_info_235",
+  "fichier": "sources_documentaires/fil-infos/fil-info-235.pdf",
+  "nom_fichier": "fil-info-235.pdf",
+  "metadata": {
+    "titre": "fil info 235",
+    "titre_court": "fil info 235",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "235"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Cette forte mobilisation démontre une fois de plus, le dynamisme de notre compagnie et son intérêt pour comprendre et anticiper les ressorts d’un exercice professionnel en pleine mutation via les fusions, mutualisations et restructurations diverses. Les confrères qui ont assisté à ce premier rendez-vous ont compris l’intérêt qu’ils auront à bénéﬁci er de ce regard externe, personnalisé et conﬁdentiel de la part des consultants de KPMG. Cet accompagnement qualiﬁé qui a déjà fait ses preuves dans 300 ofﬁces, leur permettra d’identiﬁer les leviers de développement local et, si cela est opportun, les pistes de rapprochement les plus adaptés à leur situation.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-03-21",
+    "2022-03-26",
+    "2022-03-27",
+    "2022-03-30"
+  ]
+}

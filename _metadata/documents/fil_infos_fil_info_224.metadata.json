@@ -1,0 +1,65 @@
+{
+  "document_id": "fil_infos_fil_info_224",
+  "fichier": "sources_documentaires/fil-infos/fil-info-224.pdf",
+  "nom_fichier": "fil-info-224.pdf",
+  "metadata": {
+    "titre": "fil info 224",
+    "titre_court": "fil info 224",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "224"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 1529"
+    ],
+    "complete": []
+  },
+  "resume": "Semaine du 03 janvier 2022 au 09 janvier 2022 N° 224 \"La tradition n'est pas le culte des cendres mais la préservation du feu (Gustav Mahler)\" Qu'il me soit permis de vous présenter mes voeux de santé, de réussite et de bonheur pour cette nouvelle année. Que ces bons ofﬁces de début d'année ne soient pas le culte des cendres mais bel et bien la préservation du feu de la fraternité, de la solidarité, de l'humanité. Et si ce qui fait de nous des Hommes, ce sont le dialogue, l'intelligence et le rire, alors que 2022 soit pour vous et vos proches une année d'Humanité intense.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2021-10-31",
+    "2021-12-15",
+    "2022-01-03",
+    "2022-01-09",
+    "2022-04-19"
+  ]
+}

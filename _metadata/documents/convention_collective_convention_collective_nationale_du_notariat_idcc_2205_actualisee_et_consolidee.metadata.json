@@ -1,0 +1,139 @@
+{
+  "document_id": "convention_collective_convention_collective_nationale_du_notariat_idcc_2205_actualisee_et_consolidee",
+  "fichier": "sources_documentaires/Convention Collective/Convention collective nationale du notariat (IDCC 2205) actualisée et consolidée par accord de branche du 16 décembre 2021 version digitale-1.pdf",
+  "nom_fichier": "Convention collective nationale du notariat (IDCC 2205) actualisée et consolidée par accord de branche du 16 décembre 2021 version digitale-1.pdf",
+  "metadata": {
+    "titre": "Convention collective nationale du notariat (IDCC 2205) actualisée et consolidée par accord de branche du 16 décembre 2021 version digitale 1",
+    "titre_court": "Convention collective nationale du notariat (IDCC ",
+    "date_publication": "2021-01-01",
+    "date_effet": "2021-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "accord_branche",
+    "label": "Accord de branche",
+    "domaines_juridiques": [
+      "négociation collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2021,
+    "categorie_dossier": "Convention Collective"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "convention collective",
+      "synonymes": [
+        "CCN",
+        "IDCC 2205"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 13 fois dans le document"
+    },
+    {
+      "terme": "avenant",
+      "synonymes": [
+        "modification",
+        "amendement"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "licenciement",
+      "synonymes": [
+        "rupture contrat",
+        "procédure disciplinaire"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "formation professionnelle",
+      "synonymes": [
+        "formation continue",
+        "développement compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "égalité professionnelle",
+      "synonymes": [
+        "égalité femmes-hommes"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quel est l'impact sur la rémunération des salariés ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Quelles sont les nouvelles grilles de salaires ?",
+    "Quelles sont les nouvelles dispositions négociées ?",
+    "Quelle est la durée de validité de cet accord ?",
+    "Comment sont calculés les droits à congés ?",
+    "Qui sont les parties signataires de cet accord ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 3",
+      "Article 5",
+      "Article 1",
+      "Article 4",
+      "Article 2"
+    ],
+    "complete": []
+  },
+  "resume": "10 Article 1 Champ d’application ................................ ................................ 10 Article 2 Durée ................................",
+  "mots_cles": [
+    "congés payés",
+    "droit social",
+    "formation professionnelle",
+    "négociation collective",
+    "procédure disciplinaire",
+    "rémunération"
+  ],
+  "dates_mentionnees": [
+    "2001-06-08",
+    "2021-12-16"
+  ]
+}

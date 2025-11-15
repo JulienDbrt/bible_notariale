@@ -1,0 +1,104 @@
+{
+  "document_id": "fil_infos_fil_info_226",
+  "fichier": "sources_documentaires/fil-infos/fil-info-226.pdf",
+  "nom_fichier": "fil-info-226.pdf",
+  "metadata": {
+    "titre": "fil info 226",
+    "titre_court": "fil info 226",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "226"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "licenciement",
+      "synonymes": [
+        "rupture contrat",
+        "procédure disciplinaire"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "formation professionnelle",
+      "synonymes": [
+        "formation continue",
+        "développement compétences"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Décret 2020-949"
+    ],
+    "complete": []
+  },
+  "resume": "La Commission chargée des Finances et des Solidarités de la Chambre a réﬂéchi à des pistes permettant d’améliorer notre productivité, l’attractivité des postes de nos collaborateurs et parfois aussi, le manque de personnel. Retrouvez ci-dessous ces petits « tips » qui amélioreront la ﬂuidité de la réalisation de ces tâches, nous en sommes certains pour en avoir éprouvé déjà nombre d’entre eux, et ceci au bénéﬁce de chacun de nos ofﬁces et de l’image de notre profession. Bénédicte SERRAND-MARIE Vice-Présidente chargée des Finances et des Solidarités PISTES D'AIDES À LA PRODUCTION 1) Comment immatriculer rapidement une société.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "procédure disciplinaire",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2011-11-16",
+    "2020-07-30",
+    "2022-01-13",
+    "2022-01-17",
+    "2022-01-23"
+  ]
+}

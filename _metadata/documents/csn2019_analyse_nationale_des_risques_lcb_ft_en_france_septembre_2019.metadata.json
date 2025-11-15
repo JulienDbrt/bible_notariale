@@ -1,0 +1,75 @@
+{
+  "document_id": "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019",
+  "fichier": "sources_documentaires/CSN2019/Analyse nationale des risques LCB-FT en France - septembre 2019.pdf",
+  "nom_fichier": "Analyse nationale des risques LCB-FT en France - septembre 2019.pdf",
+  "metadata": {
+    "titre": "Analyse nationale des risques LCB FT en France septembre 2019",
+    "titre_court": "Analyse nationale des risques LCB FT en France sep",
+    "date_publication": "2019-01-01",
+    "date_effet": "2019-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "conformite",
+    "label": "Conformité",
+    "domaines_juridiques": [
+      "LCB-FT",
+      "anti-blanchiment"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2019,
+    "categorie_dossier": "CSN2019"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 4 fois dans le document"
+    },
+    {
+      "terme": "prévoyance",
+      "synonymes": [
+        "protection sociale",
+        "assurance"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 3 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants de franchise ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "Comment analyser ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Analyse nationale des risques de blanchiment de capitaux et de financement du terrorisme en France Rapport du Conseil d’orientation de la lutte contre le blanchiment de capitaux et le financement du terrorisme (COLB) Septembre 2019 2 Table des matières Introduction ................................ ................................ ................................",
+  "mots_cles": [
+    "assurance professionnelle",
+    "formation professionnelle",
+    "instructions professionnelles",
+    "réglementation notariale",
+    "transactions immobilières"
+  ]
+}

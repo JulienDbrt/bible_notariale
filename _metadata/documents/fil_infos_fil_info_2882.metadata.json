@@ -1,0 +1,71 @@
+{
+  "document_id": "fil_infos_fil_info_2882",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2882.pdf",
+  "nom_fichier": "fil-info-2882.pdf",
+  "metadata": {
+    "titre": "fil info 2882",
+    "titre_court": "fil info 2882",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2882"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Semaine du 18 novembre 2024 au 24 novembre 2024 N° 2882 Assemblée générale de compagnie : Un moment clé pour aborder les sujets utiles à votre exercice Chers Confrères, Je vous accueillerai toutes et tous ce lundi 25 novembre, à l'occasion de l'assemblée générale statutaire de notre compagnie. Au-delà de leur aspect formel et contraint, nos assemblées générales constituent un cadre privilégié pour aborder les enjeux majeurs qui marqueront l’avenir de notre profession. Mon bureau et moi-même avons choisi pour le premier rendez- vous de notre mandat, de mettre plus particulièrement l'accent sur ces thématiques : Tout d'abord, la sollicitation personnalisée, outil stratégique de développement de notre activité encore peu exploité par les notaires.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2021-12-22",
+    "2024-11-18",
+    "2024-11-24",
+    "2024-12-31",
+    "2025-01-06"
+  ]
+}

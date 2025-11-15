@@ -1,0 +1,75 @@
+{
+  "document_id": "fil_infos_fil_info_240",
+  "fichier": "sources_documentaires/fil-infos/fil-info-240.pdf",
+  "nom_fichier": "fil-info-240.pdf",
+  "metadata": {
+    "titre": "fil info 240",
+    "titre_court": "fil info 240",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "240"
+  },
+  "vocabulaire_specifique": [
+    {
+      "terme": "LCB-FT",
+      "synonymes": [
+        "lutte contre le blanchiment",
+        "anti-blanchiment"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quelle est la procédure de licenciement applicable ?",
+    "Comment financer ces formations ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?",
+    "Quels sont les délais à respecter ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les actualités juridiques importantes de ce numéro ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Les chiffres révélés par un récent sondage sur le sujet* laissent à ce titre songeurs : Si les notaires sont 90% à juger leur métier “tout à fait utile à la société” , seuls 40% des Français partagent ce point de vue. Aussi, pour répondre avec force, mais de manière intelligible à la question fondatrice de l'utilité sociale du notariat, il convient de revenir à son ADN, c'est-à-dire de mener un véritable travail d'introspection. Travailler en profondeur sur les représentations à l'œuvre pour mieux les révéler , puis redéﬁnir 3 paramètres-clés : vision, mission et ambition du notariat dans son écosystème.",
+  "mots_cles": [
+    "actualité juridique",
+    "formation professionnelle",
+    "transactions immobilières",
+    "veille professionnelle"
+  ],
+  "dates_mentionnees": [
+    "2022-04-25",
+    "2022-05-01",
+    "2022-06-15",
+    "2022-06-16",
+    "2022-06-23"
+  ]
+}

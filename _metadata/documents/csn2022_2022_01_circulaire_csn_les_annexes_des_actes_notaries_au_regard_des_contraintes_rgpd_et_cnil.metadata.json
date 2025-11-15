@@ -1,0 +1,114 @@
+{
+  "document_id": "csn2022_2022_01_circulaire_csn_les_annexes_des_actes_notaries_au_regard_des_contraintes_rgpd_et_cnil",
+  "fichier": "sources_documentaires/CSN2022/2022-01 Circulaire CSN les annexes des actes notariés au regard des contraintes RGPD et CNIL.pdf",
+  "nom_fichier": "2022-01 Circulaire CSN les annexes des actes notariés au regard des contraintes RGPD et CNIL.pdf",
+  "metadata": {
+    "titre": "2022 01 Circulaire CSN les annexes des actes notariés au regard des contraintes RGPD et CNIL",
+    "titre_court": "2022 01 Circulaire CSN les annexes des actes notar",
+    "date_publication": "2022-01-01",
+    "date_effet": "2022-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2022,
+    "categorie_dossier": "CSN2022"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [
+    {
+      "terme": "RGPD",
+      "synonymes": [
+        "protection des données",
+        "données personnelles"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 7 fois dans le document"
+    },
+    {
+      "terme": "acte authentique",
+      "synonymes": [
+        "acte notarié",
+        "instrumentum"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "circulaire",
+      "synonymes": [
+        "instruction",
+        "note d'information"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "rémunération",
+      "synonymes": [
+        "salaire",
+        "traitement",
+        "émoluments"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 2 fois dans le document"
+    },
+    {
+      "terme": "conseil supérieur du notariat",
+      "synonymes": [
+        "CSN"
+      ],
+      "definition": "",
+      "contexte_utilisation": "Mentionné 1 fois dans le document"
+    }
+  ],
+  "questions_typiques": [
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quelles sont les obligations de sécurité informatique ?",
+    "Quels offices sont concernés par ces instructions ?",
+    "Comment financer ces formations ?",
+    "Quels sont les montants mentionnés dans ce document ?",
+    "Comment se protéger contre les cyberattaques ?",
+    "Quelles formations sont concernées par ce document ?",
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [
+      "Article 4"
+    ],
+    "complete": []
+  },
+  "resume": "Le Règlement Général sur la Protection des Données (ou RGPD) du 27 avril 2016 est entré en application le 25 mai 2018. Il renforce le contrôle par le citoyen de l’utilisation des données les concernant. La présente circulaire n’a pas pour ambition de traiter des obligations du notaire en matière de RGPD, son but est de sensibiliser sur le problème spécifique de l’annexio n aux actes notariés de documents et pièces contenant des données à caractère personnel.",
+  "mots_cles": [
+    "formation professionnelle",
+    "instructions professionnelles",
+    "protection des données",
+    "réglementation notariale"
+  ],
+  "dates_mentionnees": [
+    "1978-01-06",
+    "2016-04-27",
+    "2018-05-25",
+    "2022-05-12"
+  ],
+  "donnees_chiffrees": {
+    "montants_euros": [
+      "300 000"
+    ]
+  }
+}
