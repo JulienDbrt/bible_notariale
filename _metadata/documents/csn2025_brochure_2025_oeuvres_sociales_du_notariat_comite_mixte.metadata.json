@@ -1,0 +1,48 @@
+{
+  "document_id": "csn2025_brochure_2025_oeuvres_sociales_du_notariat_comite_mixte",
+  "fichier": "sources_documentaires/CSN2025/brochure_2025_-_oeuvres_sociales_du_notariat_-_comite_mixte.pdf",
+  "nom_fichier": "brochure_2025_-_oeuvres_sociales_du_notariat_-_comite_mixte.pdf",
+  "metadata": {
+    "titre": "brochure 2025 oeuvres sociales du notariat comite mixte",
+    "titre_court": "brochure 2025 oeuvres sociales du notariat comite ",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "CSN2025"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Circulaire CSN",
+  "mots_cles": [
+    "réglementation notariale",
+    "instructions professionnelles"
+  ]
+}

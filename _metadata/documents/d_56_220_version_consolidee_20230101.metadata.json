@@ -1,0 +1,48 @@
+{
+  "document_id": "d_56_220_version_consolidee_20230101",
+  "fichier": "sources_documentaires/d_56-220_version_consolidee_20230101.pdf",
+  "nom_fichier": "d_56-220_version_consolidee_20230101.pdf",
+  "metadata": {
+    "titre": "d 56 220 version consolidee 20230101",
+    "titre_court": "d 56 220 version consolidee 20230101",
+    "date_publication": "2023-01-01",
+    "date_effet": "2023-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "decret_ordonnance",
+    "label": "Décret / Ordonnance",
+    "domaines_juridiques": [
+      "textes réglementaires",
+      "législation"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2023,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles modifications réglementaires sont introduites ?",
+    "Quelle est la date d'entrée en vigueur ?",
+    "Quels articles du code sont concernés ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Décret / Ordonnance",
+  "mots_cles": [
+    "textes réglementaires",
+    "législation"
+  ]
+}

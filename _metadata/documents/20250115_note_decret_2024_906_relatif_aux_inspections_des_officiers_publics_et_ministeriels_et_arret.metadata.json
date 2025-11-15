@@ -1,0 +1,48 @@
+{
+  "document_id": "20250115_note_decret_2024_906_relatif_aux_inspections_des_officiers_publics_et_ministeriels_et_arret",
+  "fichier": "sources_documentaires/20250115 Note Décret 2024-906 relatif aux inspections des officiers publics et ministériels et arrêté.pdf",
+  "nom_fichier": "20250115 Note Décret 2024-906 relatif aux inspections des officiers publics et ministériels et arrêté.pdf",
+  "metadata": {
+    "titre": "Note Décret 2024 906 relatif aux inspections des officiers publics et ministériels et arrêté",
+    "titre_court": "Note Décret 2024 906 relatif aux inspections des o",
+    "date_publication": "2025-01-15",
+    "date_effet": "2025-01-15",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "decret_ordonnance",
+    "label": "Décret / Ordonnance",
+    "domaines_juridiques": [
+      "textes réglementaires",
+      "législation"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles modifications réglementaires sont introduites ?",
+    "Quelle est la date d'entrée en vigueur ?",
+    "Quels articles du code sont concernés ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Décret / Ordonnance",
+  "mots_cles": [
+    "textes réglementaires",
+    "législation"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "csn_guide_informatique_offices_notariaux_v10_septembre_2021",
+  "fichier": "sources_documentaires/csn-guide-informatique-offices-notariaux-v10-septembre-2021.pdf",
+  "nom_fichier": "csn-guide-informatique-offices-notariaux-v10-septembre-2021.pdf",
+  "metadata": {
+    "titre": "csn guide informatique offices notariaux v10 septembre 2021",
+    "titre_court": "csn guide informatique offices notariaux v10 septe",
+    "date_publication": "2021-01-01",
+    "date_effet": "2021-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2021,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les recommandations principales de ce guide ?",
+    "Comment appliquer ces bonnes pratiques au quotidien ?",
+    "Quels sont les points de vigilance à retenir ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Guide pratique",
+  "mots_cles": [
+    "bonnes pratiques",
+    "documentation métier"
+  ]
+}

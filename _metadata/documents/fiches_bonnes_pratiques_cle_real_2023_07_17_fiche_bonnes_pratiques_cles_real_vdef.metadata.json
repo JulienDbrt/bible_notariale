@@ -1,0 +1,48 @@
+{
+  "document_id": "fiches_bonnes_pratiques_cle_real_2023_07_17_fiche_bonnes_pratiques_cles_real_vdef",
+  "fichier": "sources_documentaires/FICHES BONNES PRATIQUES CLE REAL/2023_07_17_-_fiche_bonnes_pratiques_cles_real_vdef.pdf",
+  "nom_fichier": "2023_07_17_-_fiche_bonnes_pratiques_cles_real_vdef.pdf",
+  "metadata": {
+    "titre": "fiche bonnes pratiques cles real vdef",
+    "titre_court": "fiche bonnes pratiques cles real vdef",
+    "date_publication": "2023-01-01",
+    "date_effet": "2023-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2023,
+    "categorie_dossier": "FICHES BONNES PRATIQUES CLE REAL"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les recommandations principales de ce guide ?",
+    "Comment appliquer ces bonnes pratiques au quotidien ?",
+    "Quels sont les points de vigilance à retenir ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Guide pratique",
+  "mots_cles": [
+    "bonnes pratiques",
+    "documentation métier"
+  ]
+}

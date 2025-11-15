@@ -1,0 +1,48 @@
+{
+  "document_id": "20250709_ext_adsn_vade_mecum_signacte_1",
+  "fichier": "sources_documentaires/20250709_ext_adsn_vade-mecum_signacte_1.pdf",
+  "nom_fichier": "20250709_ext_adsn_vade-mecum_signacte_1.pdf",
+  "metadata": {
+    "titre": "ext adsn vade mecum signacte 1",
+    "titre_court": "ext adsn vade mecum signacte 1",
+    "date_publication": "2025-07-09",
+    "date_effet": "2025-07-09",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les recommandations principales de ce guide ?",
+    "Comment appliquer ces bonnes pratiques au quotidien ?",
+    "Quels sont les points de vigilance à retenir ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Guide pratique",
+  "mots_cles": [
+    "bonnes pratiques",
+    "documentation métier"
+  ]
+}

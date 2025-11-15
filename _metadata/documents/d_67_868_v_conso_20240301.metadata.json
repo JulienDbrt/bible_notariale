@@ -1,0 +1,48 @@
+{
+  "document_id": "d_67_868_v_conso_20240301",
+  "fichier": "sources_documentaires/d_67-868_v_conso_20240301.pdf",
+  "nom_fichier": "d_67-868_v_conso_20240301.pdf",
+  "metadata": {
+    "titre": "d 67 868 v conso 20240301",
+    "titre_court": "d 67 868 v conso 20240301",
+    "date_publication": "2024-03-01",
+    "date_effet": "2024-03-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "decret_ordonnance",
+    "label": "Décret / Ordonnance",
+    "domaines_juridiques": [
+      "textes réglementaires",
+      "législation"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2024,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles modifications réglementaires sont introduites ?",
+    "Quelle est la date d'entrée en vigueur ?",
+    "Quels articles du code sont concernés ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Décret / Ordonnance",
+  "mots_cles": [
+    "textes réglementaires",
+    "législation"
+  ]
+}

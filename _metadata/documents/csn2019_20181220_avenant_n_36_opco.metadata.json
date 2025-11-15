@@ -1,0 +1,51 @@
+{
+  "document_id": "csn2019_20181220_avenant_n_36_opco",
+  "fichier": "sources_documentaires/CSN2019/20181220 - Avenant n°36 OPCO.pdf",
+  "nom_fichier": "20181220 - Avenant n°36 OPCO.pdf",
+  "metadata": {
+    "titre": "Avenant n°36 OPCO",
+    "titre_court": "Avenant n°36 OPCO",
+    "date_publication": "2018-12-20",
+    "date_effet": "2018-12-20",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2019,
+    "categorie_dossier": "CSN2019"
+  },
+  "reference": {
+    "type": "avenant",
+    "numero": "36"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quels articles de la convention collective sont modifiés ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "À partir de quand cet avenant s'applique-t-il ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Avenant CCN",
+  "mots_cles": [
+    "convention collective",
+    "droit social"
+  ]
+}

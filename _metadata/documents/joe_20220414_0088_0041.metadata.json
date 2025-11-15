@@ -1,0 +1,48 @@
+{
+  "document_id": "joe_20220414_0088_0041",
+  "fichier": "sources_documentaires/joe_20220414_0088_0041.pdf",
+  "nom_fichier": "joe_20220414_0088_0041.pdf",
+  "metadata": {
+    "titre": "joe 20220414 0088 0041",
+    "titre_court": "joe 20220414 0088 0041",
+    "date_publication": "2022-04-14",
+    "date_effet": "2022-04-14",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2022,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les recommandations principales de ce guide ?",
+    "Comment appliquer ces bonnes pratiques au quotidien ?",
+    "Quels sont les points de vigilance à retenir ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Guide pratique",
+  "mots_cles": [
+    "bonnes pratiques",
+    "documentation métier"
+  ]
+}

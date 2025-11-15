@@ -1,0 +1,49 @@
+{
+  "document_id": "csn2019_accord_egalite_professionnelle_entre_les_femmes_et_les_hommes_20190418",
+  "fichier": "sources_documentaires/CSN2019/Accord égalité professionnelle entre les femmes et les hommes 20190418.pdf",
+  "nom_fichier": "Accord égalité professionnelle entre les femmes et les hommes 20190418.pdf",
+  "metadata": {
+    "titre": "Accord égalité professionnelle entre les femmes et les hommes 20190418",
+    "titre_court": "Accord égalité professionnelle entre les femmes et",
+    "date_publication": "2019-04-18",
+    "date_effet": "2019-04-18",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "accord_branche",
+    "label": "Accord de branche",
+    "domaines_juridiques": [
+      "négociation collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2019,
+    "categorie_dossier": "CSN2019"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les nouvelles dispositions négociées ?",
+    "Qui sont les parties signataires de cet accord ?",
+    "Quelle est la durée de validité de cet accord ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Accord de branche",
+  "mots_cles": [
+    "droit social",
+    "égalité professionnelle",
+    "négociation collective"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "document_id": "csn2024_20240222_avenant_n_55_accord_de_salaires",
+  "fichier": "sources_documentaires/CSN2024/20240222_Avenant_n°55_Accord de salaires.pdf",
+  "nom_fichier": "20240222_Avenant_n°55_Accord de salaires.pdf",
+  "metadata": {
+    "titre": "Avenant n°55 Accord de salaires",
+    "titre_court": "Avenant n°55 Accord de salaires",
+    "date_publication": "2024-02-22",
+    "date_effet": "2024-02-22",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2024,
+    "categorie_dossier": "CSN2024"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quels articles de la convention collective sont modifiés ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "À partir de quand cet avenant s'applique-t-il ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Avenant CCN",
+  "mots_cles": [
+    "convention collective",
+    "droit social",
+    "rémunération"
+  ]
+}

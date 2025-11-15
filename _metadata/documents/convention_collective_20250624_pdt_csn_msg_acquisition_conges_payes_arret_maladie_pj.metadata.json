@@ -1,0 +1,48 @@
+{
+  "document_id": "convention_collective_20250624_pdt_csn_msg_acquisition_conges_payes_arret_maladie_pj",
+  "fichier": "sources_documentaires/Convention Collective/20250624_pdt_csn_msg_acquisition_conges_payes_arret_maladie_pj.pdf",
+  "nom_fichier": "20250624_pdt_csn_msg_acquisition_conges_payes_arret_maladie_pj.pdf",
+  "metadata": {
+    "titre": "pdt csn msg acquisition conges payes arret maladie pj",
+    "titre_court": "pdt csn msg acquisition conges payes arret maladie",
+    "date_publication": "2025-06-24",
+    "date_effet": "2025-06-24",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "accord_branche",
+    "label": "Accord de branche",
+    "domaines_juridiques": [
+      "négociation collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "Convention Collective"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les nouvelles dispositions négociées ?",
+    "Qui sont les parties signataires de cet accord ?",
+    "Quelle est la durée de validité de cet accord ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Accord de branche",
+  "mots_cles": [
+    "droit social",
+    "négociation collective"
+  ]
+}

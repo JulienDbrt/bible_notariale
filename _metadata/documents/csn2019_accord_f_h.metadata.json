@@ -1,0 +1,48 @@
+{
+  "document_id": "csn2019_accord_f_h",
+  "fichier": "sources_documentaires/CSN2019/Accord_F_H.pdf",
+  "nom_fichier": "Accord_F_H.pdf",
+  "metadata": {
+    "titre": "Accord F H",
+    "titre_court": "Accord F H",
+    "date_publication": "2019-01-01",
+    "date_effet": "2019-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "accord_branche",
+    "label": "Accord de branche",
+    "domaines_juridiques": [
+      "négociation collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2019,
+    "categorie_dossier": "CSN2019"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les nouvelles dispositions négociées ?",
+    "Qui sont les parties signataires de cet accord ?",
+    "Quelle est la durée de validité de cet accord ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Accord de branche",
+  "mots_cles": [
+    "droit social",
+    "négociation collective"
+  ]
+}

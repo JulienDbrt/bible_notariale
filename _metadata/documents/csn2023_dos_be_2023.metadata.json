@@ -1,0 +1,48 @@
+{
+  "document_id": "csn2023_dos_be_2023",
+  "fichier": "sources_documentaires/CSN2023/DOS BE - 2023.pdf",
+  "nom_fichier": "DOS BE - 2023.pdf",
+  "metadata": {
+    "titre": "DOS BE 2023",
+    "titre_court": "DOS BE 2023",
+    "date_publication": "2023-01-01",
+    "date_effet": "2023-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2023,
+    "categorie_dossier": "CSN2023"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Circulaire CSN",
+  "mots_cles": [
+    "réglementation notariale",
+    "instructions professionnelles"
+  ]
+}

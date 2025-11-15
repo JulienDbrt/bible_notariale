@@ -1,0 +1,49 @@
+{
+  "document_id": "csn2024_20231214_accord_de_branche_financement_de_la_formation",
+  "fichier": "sources_documentaires/CSN2024/20231214 - Accord de branche Financement de la formation.pdf",
+  "nom_fichier": "20231214 - Accord de branche Financement de la formation.pdf",
+  "metadata": {
+    "titre": "Accord de branche Financement de la formation",
+    "titre_court": "Accord de branche Financement de la formation",
+    "date_publication": "2023-12-14",
+    "date_effet": "2023-12-14",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "accord_branche",
+    "label": "Accord de branche",
+    "domaines_juridiques": [
+      "négociation collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2024,
+    "categorie_dossier": "CSN2024"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les nouvelles dispositions négociées ?",
+    "Qui sont les parties signataires de cet accord ?",
+    "Quelle est la durée de validité de cet accord ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Accord de branche",
+  "mots_cles": [
+    "droit social",
+    "formation professionnelle",
+    "négociation collective"
+  ]
+}

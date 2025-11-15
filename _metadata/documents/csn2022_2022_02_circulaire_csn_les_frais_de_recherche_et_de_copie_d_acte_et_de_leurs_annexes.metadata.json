@@ -1,0 +1,48 @@
+{
+  "document_id": "csn2022_2022_02_circulaire_csn_les_frais_de_recherche_et_de_copie_d_acte_et_de_leurs_annexes",
+  "fichier": "sources_documentaires/CSN2022/2022-02 Circulaire CSN les frais de recherche et de copie d_acte et de leurs annexes.pdf",
+  "nom_fichier": "2022-02 Circulaire CSN les frais de recherche et de copie d_acte et de leurs annexes.pdf",
+  "metadata": {
+    "titre": "2022 02 Circulaire CSN les frais de recherche et de copie d acte et de leurs annexes",
+    "titre_court": "2022 02 Circulaire CSN les frais de recherche et d",
+    "date_publication": "2022-01-01",
+    "date_effet": "2022-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2022,
+    "categorie_dossier": "CSN2022"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Circulaire CSN",
+  "mots_cles": [
+    "réglementation notariale",
+    "instructions professionnelles"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019",
+  "fichier": "sources_documentaires/CSN2019/Analyse nationale des risques LCB-FT en France - septembre 2019.pdf",
+  "nom_fichier": "Analyse nationale des risques LCB-FT en France - septembre 2019.pdf",
+  "metadata": {
+    "titre": "Analyse nationale des risques LCB FT en France septembre 2019",
+    "titre_court": "Analyse nationale des risques LCB FT en France sep",
+    "date_publication": "2019-01-01",
+    "date_effet": "2019-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2019,
+    "categorie_dossier": "CSN2019"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Circulaire CSN",
+  "mots_cles": [
+    "réglementation notariale",
+    "instructions professionnelles"
+  ]
+}

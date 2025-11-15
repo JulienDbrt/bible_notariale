@@ -1,0 +1,49 @@
+{
+  "document_id": "csn2020_accord_interessement_11072019",
+  "fichier": "sources_documentaires/CSN2020/Accord intéressement 11072019.pdf",
+  "nom_fichier": "Accord intéressement 11072019.pdf",
+  "metadata": {
+    "titre": "Accord intéressement 11072019",
+    "titre_court": "Accord intéressement 11072019",
+    "date_publication": "2020-01-01",
+    "date_effet": "2020-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "accord_branche",
+    "label": "Accord de branche",
+    "domaines_juridiques": [
+      "négociation collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2020,
+    "categorie_dossier": "CSN2020"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les nouvelles dispositions négociées ?",
+    "Qui sont les parties signataires de cet accord ?",
+    "Quelle est la durée de validité de cet accord ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Accord de branche",
+  "mots_cles": [
+    "droit social",
+    "négociation collective",
+    "participation aux bénéfices"
+  ]
+}

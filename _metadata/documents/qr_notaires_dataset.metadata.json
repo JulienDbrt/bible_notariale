@@ -1,0 +1,48 @@
+{
+  "document_id": "qr_notaires_dataset",
+  "fichier": "sources_documentaires/QR notaires_dataset.xlsx",
+  "nom_fichier": "QR notaires_dataset.xlsx",
+  "metadata": {
+    "titre": "QR notaires dataset",
+    "titre_court": "QR notaires dataset",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
+    "domaines_juridiques": [
+      "documentation métier",
+      "bonnes pratiques"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les recommandations principales de ce guide ?",
+    "Comment appliquer ces bonnes pratiques au quotidien ?",
+    "Quels sont les points de vigilance à retenir ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Guide pratique",
+  "mots_cles": [
+    "bonnes pratiques",
+    "documentation métier"
+  ]
+}

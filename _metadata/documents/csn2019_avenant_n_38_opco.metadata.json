@@ -1,0 +1,51 @@
+{
+  "document_id": "csn2019_avenant_n_38_opco",
+  "fichier": "sources_documentaires/CSN2019/Avenant n°38 - OPCO.pdf",
+  "nom_fichier": "Avenant n°38 - OPCO.pdf",
+  "metadata": {
+    "titre": "Avenant n°38 OPCO",
+    "titre_court": "Avenant n°38 OPCO",
+    "date_publication": "2019-01-01",
+    "date_effet": "2019-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2019,
+    "categorie_dossier": "CSN2019"
+  },
+  "reference": {
+    "type": "avenant",
+    "numero": "38"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quels articles de la convention collective sont modifiés ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "À partir de quand cet avenant s'applique-t-il ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Avenant CCN",
+  "mots_cles": [
+    "convention collective",
+    "droit social"
+  ]
+}

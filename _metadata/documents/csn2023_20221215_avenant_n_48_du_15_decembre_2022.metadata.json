@@ -1,0 +1,51 @@
+{
+  "document_id": "csn2023_20221215_avenant_n_48_du_15_decembre_2022",
+  "fichier": "sources_documentaires/CSN2023/20221215 - Avenant n°48 du 15 décembre 2022.pdf",
+  "nom_fichier": "20221215 - Avenant n°48 du 15 décembre 2022.pdf",
+  "metadata": {
+    "titre": "Avenant n°48 du 15 décembre 2022",
+    "titre_court": "Avenant n°48 du 15 décembre 2022",
+    "date_publication": "2022-12-15",
+    "date_effet": "2022-12-15",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2023,
+    "categorie_dossier": "CSN2023"
+  },
+  "reference": {
+    "type": "avenant",
+    "numero": "48"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quels articles de la convention collective sont modifiés ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "À partir de quand cet avenant s'applique-t-il ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Avenant CCN",
+  "mots_cles": [
+    "convention collective",
+    "droit social"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "convention_collective_avenant_n51",
+  "fichier": "sources_documentaires/Convention Collective/avenant_n51.pdf",
+  "nom_fichier": "avenant_n51.pdf",
+  "metadata": {
+    "titre": "avenant n51",
+    "titre_court": "avenant n51",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "Convention Collective"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quels articles de la convention collective sont modifiés ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "À partir de quand cet avenant s'applique-t-il ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Avenant CCN",
+  "mots_cles": [
+    "convention collective",
+    "droit social"
+  ]
+}

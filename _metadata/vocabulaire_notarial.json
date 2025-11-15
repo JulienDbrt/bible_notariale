@@ -1,0 +1,154 @@
+[
+  {
+    "terme": "Convention Collective Nationale",
+    "synonymes": [
+      "CCN",
+      "IDCC 2205",
+      "convention du notariat",
+      "accord de branche"
+    ],
+    "definition": "Accord collectif régissant les conditions de travail et d'emploi dans le notariat",
+    "domaine": "droit social"
+  },
+  {
+    "terme": "Conseil Supérieur du Notariat",
+    "synonymes": [
+      "CSN",
+      "instance nationale",
+      "conseil supérieur"
+    ],
+    "definition": "Instance représentative de la profession notariale au niveau national",
+    "domaine": "institution"
+  },
+  {
+    "terme": "Avenant",
+    "synonymes": [
+      "modification CCN",
+      "amendement",
+      "révision conventionnelle"
+    ],
+    "definition": "Acte juridique modifiant ou complétant la convention collective",
+    "domaine": "droit social"
+  },
+  {
+    "terme": "Circulaire",
+    "synonymes": [
+      "instruction CSN",
+      "note d'information",
+      "directive professionnelle"
+    ],
+    "definition": "Communication officielle du CSN donnant des instructions aux notaires",
+    "domaine": "réglementation"
+  },
+  {
+    "terme": "Fil-Info",
+    "synonymes": [
+      "bulletin d'actualité",
+      "flash info",
+      "newsletter notariale"
+    ],
+    "definition": "Publication périodique d'actualités juridiques pour les notaires",
+    "domaine": "veille juridique"
+  },
+  {
+    "terme": "LCB-FT",
+    "synonymes": [
+      "lutte anti-blanchiment",
+      "LAB",
+      "compliance",
+      "vigilance financière"
+    ],
+    "definition": "Lutte contre le Blanchiment de Capitaux et le Financement du Terrorisme",
+    "domaine": "conformité"
+  },
+  {
+    "terme": "OPCO",
+    "synonymes": [
+      "opérateur de compétences",
+      "financement formation",
+      "OPCO EP"
+    ],
+    "definition": "Organisme finançant la formation professionnelle des salariés",
+    "domaine": "formation"
+  },
+  {
+    "terme": "Société multi-offices",
+    "synonymes": [
+      "SMO",
+      "holding notariale",
+      "structure multi-offices"
+    ],
+    "definition": "Structure permettant à un notaire de détenir des parts dans plusieurs offices",
+    "domaine": "organisation"
+  },
+  {
+    "terme": "Clerc de notaire",
+    "synonymes": [
+      "collaborateur",
+      "employé d'office",
+      "assistant notarial"
+    ],
+    "definition": "Salarié qualifié travaillant dans une étude notariale",
+    "domaine": "ressources humaines"
+  },
+  {
+    "terme": "Acte authentique",
+    "synonymes": [
+      "acte notarié",
+      "instrumentum",
+      "acte public"
+    ],
+    "definition": "Acte reçu par un officier public avec force probante et exécutoire",
+    "domaine": "acte juridique"
+  },
+  {
+    "terme": "Minute",
+    "synonymes": [
+      "original de l'acte",
+      "archive notariale",
+      "acte minuté"
+    ],
+    "definition": "Original de l'acte authentique conservé par le notaire",
+    "domaine": "conservation"
+  },
+  {
+    "terme": "Office notarial",
+    "synonymes": [
+      "étude notariale",
+      "office",
+      "étude"
+    ],
+    "definition": "Lieu d'exercice de la profession de notaire",
+    "domaine": "organisation"
+  },
+  {
+    "terme": "Actes courants",
+    "synonymes": [
+      "ACS",
+      "actes simples",
+      "actes standard"
+    ],
+    "definition": "Actes notariés de complexité modérée avec tarification encadrée",
+    "domaine": "tarification"
+  },
+  {
+    "terme": "Biens d'exception",
+    "synonymes": [
+      "BE",
+      "biens de prestige",
+      "transactions exceptionnelles"
+    ],
+    "definition": "Biens immobiliers de grande valeur avec honoraires spécifiques",
+    "domaine": "tarification"
+  },
+  {
+    "terme": "Taxe de Publicité Foncière",
+    "synonymes": [
+      "TPF",
+      "droits d'enregistrement",
+      "taxe immobilière"
+    ],
+    "definition": "Impôt perçu lors des mutations immobilières",
+    "domaine": "fiscalité"
+  }
+]

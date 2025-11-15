@@ -1,0 +1,51 @@
+{
+  "document_id": "fil_infos_fil_info_2829",
+  "fichier": "sources_documentaires/fil-infos/fil-info-2829.pdf",
+  "nom_fichier": "fil-info-2829.pdf",
+  "metadata": {
+    "titre": "fil info 2829",
+    "titre_court": "fil info 2829",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "fil_info",
+    "label": "Fil-Info",
+    "domaines_juridiques": [
+      "actualité juridique",
+      "veille professionnelle"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "fil-infos"
+  },
+  "reference": {
+    "type": "fil_info",
+    "numero": "2829"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les actualités juridiques importantes de ce numéro ?",
+    "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
+    "Quelles sont les échéances mentionnées ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Fil-Info",
+  "mots_cles": [
+    "actualité juridique",
+    "veille professionnelle"
+  ]
+}

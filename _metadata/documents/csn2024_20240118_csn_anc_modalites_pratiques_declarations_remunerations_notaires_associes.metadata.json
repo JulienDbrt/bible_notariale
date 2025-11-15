@@ -1,0 +1,48 @@
+{
+  "document_id": "csn2024_20240118_csn_anc_modalites_pratiques_declarations_remunerations_notaires_associes",
+  "fichier": "sources_documentaires/CSN2024/20240118 CSN-ANC_modalités pratiques déclarations rémunérations notaires associés.pdf",
+  "nom_fichier": "20240118 CSN-ANC_modalités pratiques déclarations rémunérations notaires associés.pdf",
+  "metadata": {
+    "titre": "CSN ANC modalités pratiques déclarations rémunérations notaires associés",
+    "titre_court": "CSN ANC modalités pratiques déclarations rémunérat",
+    "date_publication": "2024-01-18",
+    "date_effet": "2024-01-18",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2024,
+    "categorie_dossier": "CSN2024"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Circulaire CSN",
+  "mots_cles": [
+    "réglementation notariale",
+    "instructions professionnelles"
+  ]
+}

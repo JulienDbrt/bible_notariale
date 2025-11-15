@@ -1,0 +1,48 @@
+{
+  "document_id": "observatoire_immobilier_cid50_2025m1",
+  "fichier": "sources_documentaires/observatoire_immobilier/CID50_2025M1.pdf",
+  "nom_fichier": "CID50_2025M1.pdf",
+  "metadata": {
+    "titre": "CID50 2025M1",
+    "titre_court": "CID50 2025M1",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "immobilier",
+    "label": "Immobilier",
+    "domaines_juridiques": [
+      "transactions immobilières",
+      "observatoire"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "observatoire_immobilier"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les tendances du marché immobilier ?",
+    "Quels indicateurs sont suivis ?",
+    "Comment interpréter ces données pour mon secteur ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Immobilier",
+  "mots_cles": [
+    "observatoire",
+    "transactions immobilières"
+  ]
+}

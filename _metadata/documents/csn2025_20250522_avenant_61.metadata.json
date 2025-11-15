@@ -1,0 +1,48 @@
+{
+  "document_id": "csn2025_20250522_avenant_61",
+  "fichier": "sources_documentaires/CSN2025/20250522_Avenant_61.pdf",
+  "nom_fichier": "20250522_Avenant_61.pdf",
+  "metadata": {
+    "titre": "Avenant 61",
+    "titre_court": "Avenant 61",
+    "date_publication": "2025-05-22",
+    "date_effet": "2025-05-22",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "CSN2025"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quels articles de la convention collective sont modifiés ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "À partir de quand cet avenant s'applique-t-il ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Avenant CCN",
+  "mots_cles": [
+    "convention collective",
+    "droit social"
+  ]
+}

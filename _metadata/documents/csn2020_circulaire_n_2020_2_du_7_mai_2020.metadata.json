@@ -1,0 +1,51 @@
+{
+  "document_id": "csn2020_circulaire_n_2020_2_du_7_mai_2020",
+  "fichier": "sources_documentaires/CSN2020/Circulaire N° 2020-2 du 7 mai 2020.pdf",
+  "nom_fichier": "Circulaire N° 2020-2 du 7 mai 2020.pdf",
+  "metadata": {
+    "titre": "Circulaire N° 2020 2 du 7 mai 2020",
+    "titre_court": "Circulaire N° 2020 2 du 7 mai 2020",
+    "date_publication": "2020-01-01",
+    "date_effet": "2020-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2020,
+    "categorie_dossier": "CSN2020"
+  },
+  "reference": {
+    "type": "circulaire",
+    "numero": "2020-2"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Circulaire CSN",
+  "mots_cles": [
+    "réglementation notariale",
+    "instructions professionnelles"
+  ]
+}

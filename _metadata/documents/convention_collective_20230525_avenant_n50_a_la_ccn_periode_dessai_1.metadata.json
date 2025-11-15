@@ -1,0 +1,48 @@
+{
+  "document_id": "convention_collective_20230525_avenant_n50_a_la_ccn_periode_dessai_1",
+  "fichier": "sources_documentaires/Convention Collective/20230525_-_avenant_n50_a_la_ccn_-_periode_dessai-1.pdf",
+  "nom_fichier": "20230525_-_avenant_n50_a_la_ccn_-_periode_dessai-1.pdf",
+  "metadata": {
+    "titre": "avenant n50 a la ccn periode dessai 1",
+    "titre_court": "avenant n50 a la ccn periode dessai 1",
+    "date_publication": "2023-05-25",
+    "date_effet": "2023-05-25",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2023,
+    "categorie_dossier": "Convention Collective"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quels articles de la convention collective sont modifiés ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "À partir de quand cet avenant s'applique-t-il ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Avenant CCN",
+  "mots_cles": [
+    "convention collective",
+    "droit social"
+  ]
+}

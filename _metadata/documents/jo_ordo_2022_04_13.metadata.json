@@ -1,0 +1,48 @@
+{
+  "document_id": "jo_ordo_2022_04_13",
+  "fichier": "sources_documentaires/JO ORDO 2022 04 13.pdf",
+  "nom_fichier": "JO ORDO 2022 04 13.pdf",
+  "metadata": {
+    "titre": "JO ORDO 2022 04 13",
+    "titre_court": "JO ORDO 2022 04 13",
+    "date_publication": "2022-01-01",
+    "date_effet": "2022-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "decret_ordonnance",
+    "label": "Décret / Ordonnance",
+    "domaines_juridiques": [
+      "textes réglementaires",
+      "législation"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2022,
+    "categorie_dossier": "racine"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles modifications réglementaires sont introduites ?",
+    "Quelle est la date d'entrée en vigueur ?",
+    "Quels articles du code sont concernés ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Décret / Ordonnance",
+  "mots_cles": [
+    "textes réglementaires",
+    "législation"
+  ]
+}

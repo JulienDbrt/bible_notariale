@@ -1,0 +1,49 @@
+{
+  "document_id": "csn2021_avenant_accord_de_salaires_20210218",
+  "fichier": "sources_documentaires/CSN2021/Avenant accord de salaires 20210218.pdf",
+  "nom_fichier": "Avenant accord de salaires 20210218.pdf",
+  "metadata": {
+    "titre": "Avenant accord de salaires 20210218",
+    "titre_court": "Avenant accord de salaires 20210218",
+    "date_publication": "2021-02-18",
+    "date_effet": "2021-02-18",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2021,
+    "categorie_dossier": "CSN2021"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quels articles de la convention collective sont modifiés ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "À partir de quand cet avenant s'applique-t-il ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Avenant CCN",
+  "mots_cles": [
+    "convention collective",
+    "droit social",
+    "rémunération"
+  ]
+}

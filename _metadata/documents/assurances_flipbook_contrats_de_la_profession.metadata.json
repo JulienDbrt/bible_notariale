@@ -1,0 +1,48 @@
+{
+  "document_id": "assurances_flipbook_contrats_de_la_profession",
+  "fichier": "sources_documentaires/Assurances/FLIPBOOK - Contrats de la Profession.pdf",
+  "nom_fichier": "FLIPBOOK - Contrats de la Profession.pdf",
+  "metadata": {
+    "titre": "FLIPBOOK Contrats de la Profession",
+    "titre_court": "FLIPBOOK Contrats de la Profession",
+    "date_publication": "2025-01-01",
+    "date_effet": "2025-01-01",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "assurance",
+    "label": "Assurance",
+    "domaines_juridiques": [
+      "assurance professionnelle",
+      "prévoyance"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "Assurances"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles garanties sont couvertes par ce contrat ?",
+    "Quels sont les montants de franchise ?",
+    "Comment déclarer un sinistre ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Assurance",
+  "mots_cles": [
+    "prévoyance",
+    "assurance professionnelle"
+  ]
+}

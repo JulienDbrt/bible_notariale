@@ -1,0 +1,48 @@
+{
+  "document_id": "csn2025_20250123_partage_de_la_valeur_au_sein_des_offices_de_11_a_49_salaries",
+  "fichier": "sources_documentaires/CSN2025/20250123_Partage de la valeur au sein des offices de 11 à 49 salariés.pdf",
+  "nom_fichier": "20250123_Partage de la valeur au sein des offices de 11 à 49 salariés.pdf",
+  "metadata": {
+    "titre": "Partage de la valeur au sein des offices de 11 à 49 salariés",
+    "titre_court": "Partage de la valeur au sein des offices de 11 à 4",
+    "date_publication": "2025-01-23",
+    "date_effet": "2025-01-23",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "CSN",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "circulaire_csn",
+    "label": "Circulaire CSN",
+    "domaines_juridiques": [
+      "réglementation notariale",
+      "instructions professionnelles"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2025,
+    "categorie_dossier": "CSN2025"
+  },
+  "reference": null,
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quelles sont les nouvelles obligations introduites par cette circulaire ?",
+    "À quelle date cette circulaire entre-t-elle en vigueur ?",
+    "Quels offices sont concernés par ces instructions ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Circulaire CSN",
+  "mots_cles": [
+    "réglementation notariale",
+    "instructions professionnelles"
+  ]
+}

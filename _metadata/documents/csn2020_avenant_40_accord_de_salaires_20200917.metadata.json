@@ -1,0 +1,52 @@
+{
+  "document_id": "csn2020_avenant_40_accord_de_salaires_20200917",
+  "fichier": "sources_documentaires/CSN2020/Avenant 40 accord de salaires 20200917.pdf",
+  "nom_fichier": "Avenant 40 accord de salaires 20200917.pdf",
+  "metadata": {
+    "titre": "Avenant 40 accord de salaires 20200917",
+    "titre_court": "Avenant 40 accord de salaires 20200917",
+    "date_publication": "2020-09-17",
+    "date_effet": "2020-09-17",
+    "version": "1.0",
+    "langue": "fr",
+    "auteur": "Profession notariale",
+    "statut": "en_vigueur"
+  },
+  "classification": {
+    "type_document": "avenant_ccn",
+    "label": "Avenant CCN",
+    "domaines_juridiques": [
+      "convention collective",
+      "droit social"
+    ],
+    "public_cible": [
+      "notaires",
+      "clercs",
+      "collaborateurs d'office"
+    ],
+    "annee_reference": 2020,
+    "categorie_dossier": "CSN2020"
+  },
+  "reference": {
+    "type": "avenant",
+    "numero": "40"
+  },
+  "vocabulaire_specifique": [],
+  "questions_typiques": [
+    "Quels articles de la convention collective sont modifiés ?",
+    "Quel impact sur les conditions de travail des salariés ?",
+    "À partir de quand cet avenant s'applique-t-il ?"
+  ],
+  "relations_documentaires": {
+    "remplace": [],
+    "modifie": [],
+    "reference": [],
+    "complete": []
+  },
+  "resume": "Document de type Avenant CCN",
+  "mots_cles": [
+    "convention collective",
+    "droit social",
+    "rémunération"
+  ]
+}
