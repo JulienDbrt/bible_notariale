@@ -1,17 +1,34 @@
 {
   "total": 245,
   "with_issues": 0,
-  "with_warnings": 0,
+  "with_warnings": 1,
   "issues": {},
-  "warnings": {},
+  "warnings": {
+    "Année de référence suspecte: 2018": 1
+  },
   "type_stats": {
+    "guide_pratique": {
+      "count": 28,
+      "issues": 0,
+      "warnings": 0
+    },
     "fil_info": {
       "count": 153,
       "issues": 0,
       "warnings": 0
     },
-    "guide_pratique": {
-      "count": 28,
+    "avenant_ccn": {
+      "count": 22,
+      "issues": 0,
+      "warnings": 1
+    },
+    "circulaire_csn": {
+      "count": 20,
+      "issues": 0,
+      "warnings": 0
+    },
+    "immobilier": {
+      "count": 3,
       "issues": 0,
       "warnings": 0
     },
@@ -20,8 +37,8 @@
       "issues": 0,
       "warnings": 0
     },
-    "avenant_ccn": {
-      "count": 22,
+    "decret_ordonnance": {
+      "count": 6,
       "issues": 0,
       "warnings": 0
     },
@@ -30,27 +47,20 @@
       "issues": 0,
       "warnings": 0
     },
-    "circulaire_csn": {
-      "count": 20,
-      "issues": 0,
-      "warnings": 0
-    },
-    "decret_ordonnance": {
-      "count": 6,
-      "issues": 0,
-      "warnings": 0
-    },
     "conformite": {
       "count": 2,
-      "issues": 0,
-      "warnings": 0
-    },
-    "immobilier": {
-      "count": 3,
       "issues": 0,
       "warnings": 0
     }
   },
   "documents_with_issues": [],
-  "documents_with_warnings": []
+  "documents_with_warnings": [
+    {
+      "file": "convention_collective_avenant_n_47_modification_de_l_article_29_1_2_sur_la_formation.metadata.json",
+      "title": "Avenant n°47 Modification de l’article 29.1.2 sur ",
+      "warnings": [
+        "Année de référence suspecte: 2018"
+      ]
+    }
+  ]
 }

@@ -35,7 +35,7 @@
         "modification",
         "amendement"
       ],
-      "definition": "",
+      "definition": "Acte juridique modifiant les clauses d'un accord ou d'une convention existante. Dans le contexte notarial, modification de la CCN négociée entre partenaires sociaux.",
       "contexte_utilisation": "Mentionné 8 fois dans le document"
     },
     {
@@ -44,7 +44,7 @@
         "CCN",
         "IDCC 2205"
       ],
-      "definition": "",
+      "definition": "Convention Collective Nationale du Notariat (IDCC 2205). Texte régissant les relations de travail entre employeurs (notaires) et salariés de la profession.",
       "contexte_utilisation": "Mentionné 5 fois dans le document"
     },
     {
@@ -52,7 +52,7 @@
       "synonymes": [
         "CSN"
       ],
-      "definition": "",
+      "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     },
     {
@@ -62,7 +62,7 @@
         "traitement",
         "émoluments"
       ],
-      "definition": "",
+      "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
   ],
@@ -77,7 +77,11 @@
   ],
   "relations_documentaires": {
     "remplace": [],
-    "modifie": [],
+    "modifie": [
+      "convention_collective_avenant_n53",
+      "convention_collective_20231214_avenant_n54_a_la_ccn_modification_de_larticle_15_categorie_employes",
+      "convention_collective_20240321_avenant_n56_ccn_modification_art_12_2_procedure_licenciement_mis_en_f"
+    ],
     "reference": [
       "Article 1",
       "Article 15.6",

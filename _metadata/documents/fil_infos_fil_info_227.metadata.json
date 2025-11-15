@@ -38,7 +38,7 @@
         "original de l'acte",
         "archive notariale"
       ],
-      "definition": "",
+      "definition": "Original d'un acte authentique conservé par le notaire. Document source qui ne peut quitter l'étude et dont seules des copies (expéditions) sont délivrées.",
       "contexte_utilisation": "Mentionné 2 fois dans le document"
     },
     {
@@ -46,7 +46,7 @@
       "synonymes": [
         "CSN"
       ],
-      "definition": "",
+      "definition": "Conseil Supérieur du Notariat. Instance nationale représentant la profession auprès des pouvoirs publics et coordonnant les chambres départementales.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     },
     {
@@ -56,7 +56,7 @@
         "traitement",
         "émoluments"
       ],
-      "definition": "",
+      "definition": "Ensemble des contreparties financières du travail : salaire de base + primes + avantages. Minima fixés par la CCN selon classification.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     },
     {
@@ -65,7 +65,7 @@
         "protection des données",
         "données personnelles"
       ],
-      "definition": "",
+      "definition": "Règlement Général sur la Protection des Données. Réglementation européenne encadrant le traitement des données personnelles.",
       "contexte_utilisation": "Mentionné 1 fois dans le document"
     }
   ],
