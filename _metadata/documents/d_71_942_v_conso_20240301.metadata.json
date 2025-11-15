@@ -9,7 +9,7 @@
     "date_effet": "2024-03-01",
     "version": "1.0",
     "langue": "fr",
-    "auteur": "Profession notariale",
+    "auteur": "Journal Officiel",
     "statut": "en_vigueur"
   },
   "classification": {
@@ -59,7 +59,6 @@
   "questions_typiques": [
     "Quelles sont les tendances du marché immobilier ?",
     "Quels articles du code sont concernés ?",
-    "Comment financer ces formations ?",
     "Quelle est la date d'entrée en vigueur ?",
     "Quelles formations sont concernées par ce document ?",
     "Quelles modifications réglementaires sont introduites ?",

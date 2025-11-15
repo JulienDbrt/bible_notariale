@@ -88,9 +88,9 @@ contre le blanchiment (LCB-FT), de protection des données (RGPD), de cybersécu
 | Catégorie | Nombre | Période |
 |-----------|--------|---------|
 | [Circulaire CSN](docs/categories/circulaire_csn.md) | 20 | 2020-2025 |
-| [Avenant CCN](docs/categories/avenant_ccn.md) | 22 | 2019-2025 |
+| [Avenant CCN](docs/categories/avenant_ccn.md) | 22 | 2018-2025 |
 | [Accord de branche](docs/categories/accord_branche.md) | 9 | 2019-2025 |
-| [Fil-Info](docs/categories/fil_info.md) | 153 | 2025-2025 |
+| [Fil-Info](docs/categories/fil_info.md) | 153 | 2023-2025 |
 | [Guide pratique](docs/categories/guide_pratique.md) | 28 | 2019-2025 |
 | [Décret / Ordonnance](docs/categories/decret_ordonnance.md) | 6 | 2022-2025 |
 | [Assurance](docs/categories/assurance.md) | 2 | 2025-2025 |
@@ -101,13 +101,14 @@ contre le blanchiment (LCB-FT), de protection des données (RGPD), de cybersécu
 
 | Année | Documents |
 |-------|-----------|
-| 2025 | 183 |
-| 2024 | 16 |
-| 2023 | 15 |
-| 2022 | 9 |
+| 2025 | 158 |
+| 2024 | 31 |
+| 2023 | 23 |
+| 2022 | 10 |
 | 2021 | 8 |
 | 2020 | 7 |
 | 2019 | 7 |
+| 2018 | 1 |
 
 ---
 
@@ -190,4 +191,4 @@ Ce script :
 
 ---
 
-*Généré automatiquement le 15/11/2025 à 08:21 par `index_bible_notariale.py`*
+*Généré automatiquement le 15/11/2025 à 08:52 par `index_bible_notariale.py`*

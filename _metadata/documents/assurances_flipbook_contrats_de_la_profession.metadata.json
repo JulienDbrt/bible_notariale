@@ -9,7 +9,7 @@
     "date_effet": "2025-01-01",
     "version": "1.0",
     "langue": "fr",
-    "auteur": "Profession notariale",
+    "auteur": "Compagnie d'assurance",
     "statut": "en_vigueur"
   },
   "classification": {
@@ -50,7 +50,6 @@
   "questions_typiques": [
     "Quelles sont les obligations de sécurité informatique ?",
     "Comment déclarer un sinistre ?",
-    "Comment financer ces formations ?",
     "Comment se protéger contre les cyberattaques ?",
     "Quels sont les montants de franchise ?",
     "Quelles formations sont concernées par ce document ?",

@@ -9,7 +9,7 @@
     "date_effet": "2025-01-15",
     "version": "1.0",
     "langue": "fr",
-    "auteur": "Profession notariale",
+    "auteur": "Journal Officiel",
     "statut": "en_vigueur"
   },
   "classification": {
@@ -67,7 +67,6 @@
   ],
   "questions_typiques": [
     "Quels articles du code sont concernés ?",
-    "Comment financer ces formations ?",
     "Quelle est la date d'entrée en vigueur ?",
     "Quels sont les montants de franchise ?",
     "Quelles formations sont concernées par ce document ?",

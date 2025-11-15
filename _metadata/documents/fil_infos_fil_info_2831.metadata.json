@@ -3,13 +3,13 @@
   "fichier": "sources_documentaires/fil-infos/fil-info-2831.pdf",
   "nom_fichier": "fil-info-2831.pdf",
   "metadata": {
-    "titre": "fil info 2831",
-    "titre_court": "fil info 2831",
-    "date_publication": "2025-01-01",
-    "date_effet": "2025-01-01",
+    "titre": "Fil-Info N°2831 - Au cœur de cette alliance, ﬁgurent la formation des futurs notaires et des colla",
+    "titre_court": "Fil-Info 2831 - Au cœur de cette alliance, ﬁgu...",
+    "date_publication": "2023-10-16",
+    "date_effet": "2023-10-16",
     "version": "1.0",
     "langue": "fr",
-    "auteur": "Profession notariale",
+    "auteur": "Chambre des Notaires de Normandie",
     "statut": "en_vigueur"
   },
   "classification": {
@@ -24,7 +24,7 @@
       "clercs",
       "collaborateurs d'office"
     ],
-    "annee_reference": 2025,
+    "annee_reference": 2023,
     "categorie_dossier": "fil-infos"
   },
   "reference": {
@@ -60,7 +60,6 @@
   ],
   "questions_typiques": [
     "Quelles sont les obligations de sécurité informatique ?",
-    "Comment financer ces formations ?",
     "Comment se protéger contre les cyberattaques ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
     "Quelles sont les échéances mentionnées ?",

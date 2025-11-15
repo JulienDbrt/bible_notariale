@@ -3,13 +3,13 @@
   "fichier": "sources_documentaires/fil-infos/fil-info-2853.pdf",
   "nom_fichier": "fil-info-2853.pdf",
   "metadata": {
-    "titre": "fil info 2853",
-    "titre_court": "fil info 2853",
-    "date_publication": "2025-01-01",
-    "date_effet": "2025-01-01",
+    "titre": "Fil-Info N°2853 - Du 25 au 31 mars, plus de 400 créateurs de contenus produiront des épisodes spéc",
+    "titre_court": "Fil-Info 2853 - Du 25 au 31 mars, plus de 400 ...",
+    "date_publication": "2024-03-18",
+    "date_effet": "2024-03-18",
     "version": "1.0",
     "langue": "fr",
-    "auteur": "Profession notariale",
+    "auteur": "Chambre des Notaires de Normandie",
     "statut": "en_vigueur"
   },
   "classification": {
@@ -24,7 +24,7 @@
       "clercs",
       "collaborateurs d'office"
     ],
-    "annee_reference": 2025,
+    "annee_reference": 2024,
     "categorie_dossier": "fil-infos"
   },
   "reference": {
@@ -43,7 +43,6 @@
     }
   ],
   "questions_typiques": [
-    "Comment financer ces formations ?",
     "Y a-t-il des alertes ou points de vigilance pour les notaires ?",
     "Quelles sont les échéances mentionnées ?",
     "Quelles formations sont concernées par ce document ?",
