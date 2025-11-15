@@ -98,10 +98,10 @@ assurance professionnelle, complémentaire santé, congés payés, convention co
 | 2023-12-14 |  | [avenant n54 a la ccn modification de larticle 15 categorie employes](../../sources_documentaires/Convention Collective/20231214_-_avenant_n54_a_la_ccn_-_modification_de_larticle_15_-_categorie_employes.pdf) | Convention Collective |
 | 2023-05-25 |  | [avenant n50 a la ccn periode dessai 1](../../sources_documentaires/Convention Collective/20230525_-_avenant_n50_a_la_ccn_-_periode_dessai-1.pdf) | Convention Collective |
 | 2023-01-01 | avenant 49 | [Avenant n° 49 du 16 février 2023](../../sources_documentaires/CSN2023/Avenant n° 49 du 16 février 2023 .pdf) | CSN2023 |
-| 2023-01-01 | avenant 6 | [Avenant n°6 complémentaire frais de santé du 16 février 2023](../../sources_documentaires/CSN2023/Avenant n°6 complémentaire frais de santé du 16 février 2023.pdf) | CSN2023 |
 | 2023-01-01 |  | [avenant n52](../../sources_documentaires/Convention Collective/avenant_n52.pdf) | Convention Collective |
-| 2022-12-15 | avenant 48 | [Avenant n°48 du 15 décembre 2022](../../sources_documentaires/CSN2023/20221215 - Avenant n°48 du 15 décembre 2022.pdf) | CSN2023 |
+| 2023-01-01 | avenant 6 | [Avenant n°6 complémentaire frais de santé du 16 février 2023](../../sources_documentaires/CSN2023/Avenant n°6 complémentaire frais de santé du 16 février 2023.pdf) | CSN2023 |
 | 2022-12-15 |  | [avenant n48 du 15 decembre 2022](../../sources_documentaires/Convention Collective/20221215_-_avenant_n48_du_15_decembre_2022.pdf) | Convention Collective |
+| 2022-12-15 | avenant 48 | [Avenant n°48 du 15 décembre 2022](../../sources_documentaires/CSN2023/20221215 - Avenant n°48 du 15 décembre 2022.pdf) | CSN2023 |
 | 2022-01-01 |  | [avenant n51](../../sources_documentaires/Convention Collective/avenant_n51.pdf) | Convention Collective |
 | 2021-02-18 |  | [Avenant accord de salaires 20210218](../../sources_documentaires/CSN2021/Avenant accord de salaires 20210218.pdf) | CSN2021 |
 | 2021-01-01 | avenant 42 | [202106 Avenant 42 Notaire salarie](../../sources_documentaires/CSN2021/202106 - Avenant 42 - Notaire salarie.pdf) | CSN2021 |
@@ -112,4 +112,4 @@ assurance professionnelle, complémentaire santé, congés payés, convention co
 
 ---
 
-*Page générée automatiquement le 15/11/2025 à 08:52*
+*Page générée automatiquement le 15/11/2025 à 09:44*

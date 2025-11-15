@@ -19,8 +19,8 @@ immobilier local.
 
 - **Nombre de documents** : 3
 - **Période couverte** : 2025 - 2025
-- **Document le plus récent** : 2025-01-01
-- **Document le plus ancien** : 2025-01-01
+- **Document le plus récent** : 2025-01-31
+- **Document le plus ancien** : 2025-01-31
 - **Domaines juridiques** : transactions immobilières, observatoire
 
 ---
@@ -48,10 +48,10 @@ observatoire, transactions immobilières
 
 | Date | Référence | Titre | Dossier |
 |------|-----------|-------|---------|
-| 2025-01-01 |  | [CID14 2025M1](../../sources_documentaires/observatoire_immobilier/CID14_2025M1.pdf) | observatoire_immobilier |
-| 2025-01-01 |  | [CID50 2025M1](../../sources_documentaires/observatoire_immobilier/CID50_2025M1.pdf) | observatoire_immobilier |
-| 2025-01-01 |  | [CID61 2025M1](../../sources_documentaires/observatoire_immobilier/CID61_2025M1.pdf) | observatoire_immobilier |
+| 2025-01-31 |  | [CID14 2025M1](../../sources_documentaires/observatoire_immobilier/CID14_2025M1.pdf) | observatoire_immobilier |
+| 2025-01-31 |  | [CID50 2025M1](../../sources_documentaires/observatoire_immobilier/CID50_2025M1.pdf) | observatoire_immobilier |
+| 2025-01-31 |  | [CID61 2025M1](../../sources_documentaires/observatoire_immobilier/CID61_2025M1.pdf) | observatoire_immobilier |
 
 ---
 
-*Page générée automatiquement le 15/11/2025 à 08:52*
+*Page générée automatiquement le 15/11/2025 à 09:44*

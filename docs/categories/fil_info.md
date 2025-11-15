@@ -44,8 +44,8 @@ actualité juridique, assurance professionnelle, congés payés, cybersécurité
 - Fil_info n°2904 - Fil-Info N°2904 - Solde de la taxe d’apprentissage
 - Fil_info n°2903 - Fil-Info N°2903 - Un partenariat au service de not
 - Fil_info n°2902 - Fil-Info N°2902 - Médiation de la consommation : D
-- Fil_info n°2901 - Fil-Info N°2901 - Augmentation des DMTO : première
 - Fil_info n°2909 - Fil-Info N°2909 - À compter du 1er octobre 2025, l
+- Fil_info n°2901 - Fil-Info N°2901 - Augmentation des DMTO : première
 - Fil_info n°2900 - Fil-Info N°2900 - Le PCA : un guide d’urgence pour
 - *... et 143 autres références*
 
@@ -75,8 +75,8 @@ actualité juridique, assurance professionnelle, congés payés, cybersécurité
 | 2025-05-12 | fil_info 2904 | [Fil-Info N°2904 - Solde de la taxe d’apprentissage Un levier stratégiq...](../../sources_documentaires/fil-infos/fil-info-2904.pdf) | fil-infos |
 | 2025-05-05 | fil_info 2903 | [Fil-Info N°2903 - Un partenariat au service de notre ambition](../../sources_documentaires/fil-infos/fil-info-2903.pdf) | fil-infos |
 | 2025-04-21 | fil_info 2902 | [Fil-Info N°2902 - Médiation de la consommation : Depuis le 1er février...](../../sources_documentaires/fil-infos/fil-info-2902.pdf) | fil-infos |
-| 2025-04-14 | fil_info 2901 | [Fil-Info N°2901 - Augmentation des DMTO : premières précisions de l’Ad...](../../sources_documentaires/fil-infos/fil-info-2901.pdf) | fil-infos |
 | 2025-04-14 | fil_info 2909 | [Fil-Info N°2909 - À compter du 1er octobre 2025, l’identiﬁcation à dis...](../../sources_documentaires/fil-infos/fil-info-2909.pdf) | fil-infos |
+| 2025-04-14 | fil_info 2901 | [Fil-Info N°2901 - Augmentation des DMTO : premières précisions de l’Ad...](../../sources_documentaires/fil-infos/fil-info-2901.pdf) | fil-infos |
 | 2025-04-07 | fil_info 2900 | [Fil-Info N°2900 - Le PCA : un guide d’urgence pour une réponse immédia...](../../sources_documentaires/fil-infos/fil-info-2900.pdf) | fil-infos |
 | 2025-03-31 | fil_info 2899 | [Fil-Info N°2899 - Légalisation et apostille à l’ère notariale À compte...](../../sources_documentaires/fil-infos/fil-info-2899.pdf) | fil-infos |
 | 2025-03-24 | fil_info 2898 | [Fil-Info N°2898 - Immobilier : l’élan attendu des incitations PTZ et d...](../../sources_documentaires/fil-infos/fil-info-2898.pdf) | fil-infos |
@@ -138,15 +138,15 @@ actualité juridique, assurance professionnelle, congés payés, cybersécurité
 | 2024-01-22 | fil_info 2846 | [Fil-Info N°2846 - L’AL : Un laboratoire d’idées pour tous les notaires](../../sources_documentaires/fil-infos/fil-info-2846.pdf) | fil-infos |
 | 2024-01-15 | fil_info 2844 | [Fil-Info N°2844 - Mais plutôt que d’anniversaire, nous pourrions parle...](../../sources_documentaires/fil-infos/fil-info-2844.pdf) | fil-infos |
 | 2024-01-15 | fil_info 2845 | [Fil-Info N°2845 - PCA-PRA : QUE SE CACHE-T-IL DERRIÈRE CES ACRONYMES](../../sources_documentaires/fil-infos/fil-info-2845.pdf) | fil-infos |
-| 2024-01-01 | fil_info 2843 | [Fil-Info N°2843 - Prospère, certes, mais avant tout heureuse et serein...](../../sources_documentaires/fil-infos/fil-info-2843.pdf) | fil-infos |
 | 2024-01-01 | fil_info 2881 | [Fil-Info N°2881 - "Pecunia non olet"](../../sources_documentaires/fil-infos/fil-info-2881.pdf) | fil-infos |
+| 2024-01-01 | fil_info 2843 | [Fil-Info N°2843 - Prospère, certes, mais avant tout heureuse et serein...](../../sources_documentaires/fil-infos/fil-info-2843.pdf) | fil-infos |
 | 2023-12-18 | fil_info 2842 | [Fil-Info N°2842 - Une année s'achève, l'autre commence 2024, nous le p...](../../sources_documentaires/fil-infos/fil-info-2842.pdf) | fil-infos |
 | 2023-12-18 | fil_info 240 | [Fil-Info N°2840 - Les chiffres révélés par un récent sondage sur le su...](../../sources_documentaires/fil-infos/fil-info-240.pdf) | fil-infos |
 | 2023-12-04 | fil_info 2840 | [Fil-Info N°2840 - Une belle fête d'anniversaire](../../sources_documentaires/fil-infos/fil-info-2840.pdf) | fil-infos |
 | 2023-11-27 | fil_info 2839 | [Fil-Info N°2839 - MIGRATION DE NOS ADRESSES DE MESSAGERIE Le compte à ...](../../sources_documentaires/fil-infos/fil-info-2839.pdf) | fil-infos |
 | 2023-11-20 | fil_info 2838 | [Fil-Info N°2838 - Optimisons notre pratique professionnelle grâce à l'...](../../sources_documentaires/fil-infos/fil-info-2838.pdf) | fil-infos |
-| 2023-11-13 | fil_info 235 | [Fil-Info N°2835 - Cette forte mobilisation démontre une fois de plus, ...](../../sources_documentaires/fil-infos/fil-info-235.pdf) | fil-infos |
 | 2023-11-13 | fil_info 2837 | [Fil-Info N°2837 - Marché immobilier Crise ou retour à la réalité](../../sources_documentaires/fil-infos/fil-info-2837.pdf) | fil-infos |
+| 2023-11-13 | fil_info 235 | [Fil-Info N°2835 - Cette forte mobilisation démontre une fois de plus, ...](../../sources_documentaires/fil-infos/fil-info-235.pdf) | fil-infos |
 | 2023-11-06 | fil_info 2836 | [Fil-Info N°2836 - Migration des adresses de messagerie Et si nous adop...](../../sources_documentaires/fil-infos/fil-info-2836.pdf) | fil-infos |
 | 2023-10-23 | fil_info 2835 | [Fil-Info N°2835 - On se lasse de tout, sauf d'apprendre](../../sources_documentaires/fil-infos/fil-info-2835.pdf) | fil-infos |
 | 2023-10-16 | fil_info 2831 | [Fil-Info N°2831 - Au cœur de cette alliance, ﬁgurent la formation des ...](../../sources_documentaires/fil-infos/fil-info-2831.pdf) | fil-infos |
@@ -180,8 +180,8 @@ actualité juridique, assurance professionnelle, congés payés, cybersécurité
 | 2023-01-23 | fil_info 275 | [Fil-Info N°275 - L'obligation Perval Le marronnier du début d'année En...](../../sources_documentaires/fil-infos/fil-info-275.pdf) | fil-infos |
 | 2023-01-16 | fil_info 274 | [Fil-Info N°274 - La profession mobilisée pour la retraite de ses colla...](../../sources_documentaires/fil-infos/fil-info-274.pdf) | fil-infos |
 | 2023-01-09 | fil_info 273 | [Fil-Info N°273 - PASSER EN MODE ENTREPRISE L'année 2023 s’annonce comm...](../../sources_documentaires/fil-infos/fil-info-273.pdf) | fil-infos |
-| 2023-01-01 | fil_info 2841 | [Fil-Info N°2841 - Notaires2Ndie - PSG : 4 à 1](../../sources_documentaires/fil-infos/fil-info-2841.pdf) | fil-infos |
 | 2023-01-01 | fil_info 2830 | [Fil-Info N°2830 - CYBERCRIMINALITÉ Notre compagnie touchée par les pir...](../../sources_documentaires/fil-infos/fil-info-2830.pdf) | fil-infos |
+| 2023-01-01 | fil_info 2841 | [Fil-Info N°2841 - Notaires2Ndie - PSG : 4 à 1](../../sources_documentaires/fil-infos/fil-info-2841.pdf) | fil-infos |
 | 2022-12-19 | fil_info 271 | [Fil-Info N°271 - Le juge, l'avocat et le notaire](../../sources_documentaires/fil-infos/fil-info-271.pdf) | fil-infos |
 | 2022-12-12 | fil_info 270 | [Fil-Info N°270 - LA MÉDIATION, L'ALLIÉE DU NOTAIRE](../../sources_documentaires/fil-infos/fil-info-270.pdf) | fil-infos |
 | 2022-12-05 | fil_info 269 | [Fil-Info N°269 - Du conﬂit à l'art de la paix Tel a été le ﬁl conducte...](../../sources_documentaires/fil-infos/fil-info-269.pdf) | fil-infos |
@@ -224,4 +224,4 @@ actualité juridique, assurance professionnelle, congés payés, cybersécurité
 
 ---
 
-*Page générée automatiquement le 15/11/2025 à 08:52*
+*Page générée automatiquement le 15/11/2025 à 09:44*
