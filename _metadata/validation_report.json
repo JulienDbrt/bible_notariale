@@ -1,12 +1,9 @@
 {
   "total": 245,
   "with_issues": 0,
-  "with_warnings": 11,
+  "with_warnings": 0,
   "issues": {},
-  "warnings": {
-    "Résumé générique non enrichi": 9,
-    "Type circulaire mais 'circulaire' absent du titre": 2
-  },
+  "warnings": {},
   "type_stats": {
     "fil_info": {
       "count": 153,
@@ -14,9 +11,9 @@
       "warnings": 0
     },
     "guide_pratique": {
-      "count": 26,
+      "count": 28,
       "issues": 0,
-      "warnings": 3
+      "warnings": 0
     },
     "accord_branche": {
       "count": 9,
@@ -31,12 +28,12 @@
     "assurance": {
       "count": 2,
       "issues": 0,
-      "warnings": 1
+      "warnings": 0
     },
     "circulaire_csn": {
-      "count": 22,
+      "count": 20,
       "issues": 0,
-      "warnings": 7
+      "warnings": 0
     },
     "decret_ordonnance": {
       "count": 6,
@@ -55,83 +52,5 @@
     }
   },
   "documents_with_issues": [],
-  "documents_with_warnings": [
-    {
-      "file": "assurances_contrat_cyber_renouvellement_au_01_07_2025.metadata.json",
-      "title": "CONTRAT CYBER RENOUVELLEMENT AU 01.07.2025",
-      "warnings": [
-        "Résumé générique non enrichi"
-      ]
-    },
-    {
-      "file": "carrieres_des_notaires_et_modalites_declaratives.metadata.json",
-      "title": "Carrières des notaires et modalités déclaratives",
-      "warnings": [
-        "Résumé générique non enrichi"
-      ]
-    },
-    {
-      "file": "csn2022_circulaire_02_22_av_be.metadata.json",
-      "title": "CIRCULAIRE 02 22 (AV BE)",
-      "warnings": [
-        "Résumé générique non enrichi"
-      ]
-    },
-    {
-      "file": "csn2024_20240118_csn_anc_modalites_pratiques_declarations_remunerations_notaires_associes.metadata.json",
-      "title": "CSN ANC modalités pratiques déclarations rémunérat",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
-      ]
-    },
-    {
-      "file": "csn2023_circulaire_n_2020_3_du_22_septembre_2020.metadata.json",
-      "title": "Circulaire N° 2020 3 du 22 septembre 2020",
-      "warnings": [
-        "Résumé générique non enrichi"
-      ]
-    },
-    {
-      "file": "csn2024_20240131_csn_anc_modalites_pratiques_declarations_remunerations_notaires_associes.metadata.json",
-      "title": "CSN ANC modalités pratiques déclarations rémunérat",
-      "warnings": [
-        "Type circulaire mais 'circulaire' absent du titre"
-      ]
-    },
-    {
-      "file": "csn2025_circulaire_01_25.metadata.json",
-      "title": "CIRCULAIRE 01 25",
-      "warnings": [
-        "Résumé générique non enrichi"
-      ]
-    },
-    {
-      "file": "csn2020_circulaire_n_2020_3_du_22_septembre_2020.metadata.json",
-      "title": "Circulaire N° 2020 3 du 22 septembre 2020",
-      "warnings": [
-        "Résumé générique non enrichi"
-      ]
-    },
-    {
-      "file": "consultation_cridon.metadata.json",
-      "title": "CONSULTATION CRIDON",
-      "warnings": [
-        "Résumé générique non enrichi"
-      ]
-    },
-    {
-      "file": "qr_notaires_dataset.metadata.json",
-      "title": "QR notaires dataset",
-      "warnings": [
-        "Résumé générique non enrichi"
-      ]
-    },
-    {
-      "file": "csn2025_circulaire_02_25.metadata.json",
-      "title": "CIRCULAIRE 02 25",
-      "warnings": [
-        "Résumé générique non enrichi"
-      ]
-    }
-  ]
+  "documents_with_warnings": []
 }

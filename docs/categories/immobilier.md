@@ -54,4 +54,4 @@ observatoire, transactions immobilières
 
 ---
 
-*Page générée automatiquement le 15/11/2025 à 08:12*
+*Page générée automatiquement le 15/11/2025 à 08:21*

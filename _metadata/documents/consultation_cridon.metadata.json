@@ -30,9 +30,11 @@
   "reference": null,
   "vocabulaire_specifique": [],
   "questions_typiques": [
-    "Quelles sont les recommandations principales de ce guide ?",
-    "Comment appliquer ces bonnes pratiques au quotidien ?",
-    "Quels sont les points de vigilance à retenir ?"
+    "Comment soumettre une question au CRIDON ?",
+    "Quels types de questions le CRIDON peut-il traiter ?",
+    "Quel est le délai de réponse du CRIDON ?",
+    "Les avis du CRIDON ont-ils valeur contraignante ?",
+    "Comment utiliser les consultations CRIDON dans ma pratique ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -40,9 +42,12 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Guide pratique",
+  "resume": "Document de consultation juridique du CRIDON (Centre de Recherche d'Information et de Documentation Notariales). Ce service fournit aux notaires des réponses expertes sur des questions juridiques complexes, offrant une analyse approfondie de la jurisprudence et de la doctrine applicable aux situations concrètes rencontrées dans la pratique notariale.",
   "mots_cles": [
-    "documentation métier",
-    "bonnes pratiques"
+    "CRIDON",
+    "consultation juridique",
+    "expertise notariale",
+    "recherche juridique",
+    "doctrine"
   ]
 }

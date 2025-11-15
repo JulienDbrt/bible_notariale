@@ -33,7 +33,7 @@ est essentielle pour la continuité de l'activité notariale.
 
 ### Thématiques principales
 
-assurance professionnelle, cybersécurité, formation professionnelle, prévoyance
+assurance professionnelle, cyber-risques, cybersécurité, formation professionnelle, protection données, prévoyance, responsabilité civile
 
 ---
 
@@ -53,4 +53,4 @@ assurance professionnelle, cybersécurité, formation professionnelle, prévoyan
 
 ---
 
-*Page générée automatiquement le 15/11/2025 à 08:12*
+*Page générée automatiquement le 15/11/2025 à 08:21*

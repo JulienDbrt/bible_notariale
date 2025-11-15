@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-15T08:12:25.976901",
+  "generated_at": "2025-11-15T08:21:21.009489",
   "total_documents": 245,
   "documents": [
     {
@@ -1439,9 +1439,11 @@
       "reference": null,
       "vocabulaire_specifique": [],
       "questions_typiques": [
-        "Quelles garanties sont couvertes par ce contrat ?",
-        "Quels sont les montants de franchise ?",
-        "Comment déclarer un sinistre ?"
+        "Quelles sont les garanties cyber couvertes par ce contrat ?",
+        "Quel est le montant de la franchise en cas de cyberattaque ?",
+        "Comment déclarer un sinistre cyber ?",
+        "Quelles sont les exclusions du contrat cyber ?",
+        "Quelle est la procédure en cas de violation de données ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -1449,11 +1451,13 @@
         "reference": [],
         "complete": []
       },
-      "resume": "Document de type Assurance",
+      "resume": "Contrat d'assurance cyber-risques pour les offices notariaux, renouvelé au 1er juillet 2025. Ce contrat couvre les risques liés aux cyberattaques, violations de données, pertes d'exploitation informatique et responsabilité civile numérique. Il définit les garanties, franchises, exclusions et procédures de déclaration de sinistre spécifiques à la profession notariale.",
       "mots_cles": [
         "cybersécurité",
-        "prévoyance",
-        "assurance professionnelle"
+        "assurance professionnelle",
+        "cyber-risques",
+        "protection données",
+        "responsabilité civile"
       ]
     },
     {
@@ -5062,9 +5066,11 @@
       "reference": null,
       "vocabulaire_specifique": [],
       "questions_typiques": [
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Quels sont les points de vigilance à retenir ?"
+        "Quelles sont les étapes de la carrière d'un notaire ?",
+        "Quelles déclarations fiscales un notaire doit-il effectuer ?",
+        "Comment évoluer dans sa carrière de notaire ?",
+        "Quelles sont les obligations déclaratives annuelles ?",
+        "Quels formulaires utiliser pour les déclarations ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -5072,10 +5078,13 @@
         "reference": [],
         "complete": []
       },
-      "resume": "Document de type Guide pratique",
+      "resume": "Guide complet sur les carrières des notaires et les modalités déclaratives associées. Ce document détaille les différents parcours professionnels possibles dans le notariat, les obligations déclaratives fiscales et sociales, ainsi que les procédures administratives liées aux évolutions de carrière des notaires.",
       "mots_cles": [
-        "documentation métier",
-        "bonnes pratiques"
+        "carrière notaire",
+        "déclarations",
+        "parcours professionnel",
+        "obligations fiscales",
+        "administration"
       ]
     },
     {
@@ -5487,10 +5496,12 @@
         "reference": [],
         "complete": []
       },
-      "resume": "Document de type Circulaire CSN",
+      "resume": "Circulaire 02 du CSN contenant des instructions officielles pour la profession notariale. Ce document définit les modalités d'application des dispositions réglementaires et les recommandations pratiques à mettre en œuvre par les offices notariaux.",
       "mots_cles": [
         "instructions professionnelles",
-        "réglementation notariale"
+        "réglementation notariale",
+        "conformité",
+        "circulaire CSN"
       ]
     },
     {
@@ -7096,11 +7107,12 @@
         "statut": "en_vigueur"
       },
       "classification": {
-        "type_document": "circulaire_csn",
-        "label": "Circulaire CSN",
+        "type_document": "guide_pratique",
+        "label": "Guide pratique",
         "domaines_juridiques": [
-          "réglementation notariale",
-          "instructions professionnelles"
+          "rémunération notaires",
+          "fiscalité BNC",
+          "déclarations"
         ],
         "public_cible": [
           "notaires",
@@ -7521,10 +7533,12 @@
         "reference": [],
         "complete": []
       },
-      "resume": "Document de type Circulaire CSN",
+      "resume": "Circulaire 2020 du CSN contenant des instructions officielles pour la profession notariale. Ce document définit les modalités d'application des dispositions réglementaires et les recommandations pratiques à mettre en œuvre par les offices notariaux.",
       "mots_cles": [
         "instructions professionnelles",
-        "réglementation notariale"
+        "réglementation notariale",
+        "conformité",
+        "circulaire CSN"
       ]
     },
     {
@@ -8647,11 +8661,12 @@
         "statut": "en_vigueur"
       },
       "classification": {
-        "type_document": "circulaire_csn",
-        "label": "Circulaire CSN",
+        "type_document": "guide_pratique",
+        "label": "Guide pratique",
         "domaines_juridiques": [
-          "réglementation notariale",
-          "instructions professionnelles"
+          "rémunération notaires",
+          "fiscalité BNC",
+          "déclarations"
         ],
         "public_cible": [
           "notaires",
@@ -9470,10 +9485,12 @@
         "reference": [],
         "complete": []
       },
-      "resume": "Document de type Circulaire CSN",
+      "resume": "Circulaire 01 du CSN contenant des instructions officielles pour la profession notariale. Ce document définit les modalités d'application des dispositions réglementaires et les recommandations pratiques à mettre en œuvre par les offices notariaux.",
       "mots_cles": [
         "instructions professionnelles",
-        "réglementation notariale"
+        "réglementation notariale",
+        "conformité",
+        "circulaire CSN"
       ]
     },
     {
@@ -10370,10 +10387,12 @@
         "reference": [],
         "complete": []
       },
-      "resume": "Document de type Circulaire CSN",
+      "resume": "Circulaire 2020 du CSN contenant des instructions officielles pour la profession notariale. Ce document définit les modalités d'application des dispositions réglementaires et les recommandations pratiques à mettre en œuvre par les offices notariaux.",
       "mots_cles": [
         "instructions professionnelles",
-        "réglementation notariale"
+        "réglementation notariale",
+        "conformité",
+        "circulaire CSN"
       ]
     },
     {
@@ -11640,9 +11659,11 @@
       "reference": null,
       "vocabulaire_specifique": [],
       "questions_typiques": [
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Quels sont les points de vigilance à retenir ?"
+        "Comment soumettre une question au CRIDON ?",
+        "Quels types de questions le CRIDON peut-il traiter ?",
+        "Quel est le délai de réponse du CRIDON ?",
+        "Les avis du CRIDON ont-ils valeur contraignante ?",
+        "Comment utiliser les consultations CRIDON dans ma pratique ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -11650,10 +11671,13 @@
         "reference": [],
         "complete": []
       },
-      "resume": "Document de type Guide pratique",
+      "resume": "Document de consultation juridique du CRIDON (Centre de Recherche d'Information et de Documentation Notariales). Ce service fournit aux notaires des réponses expertes sur des questions juridiques complexes, offrant une analyse approfondie de la jurisprudence et de la doctrine applicable aux situations concrètes rencontrées dans la pratique notariale.",
       "mots_cles": [
-        "documentation métier",
-        "bonnes pratiques"
+        "CRIDON",
+        "consultation juridique",
+        "expertise notariale",
+        "recherche juridique",
+        "doctrine"
       ]
     },
     {
@@ -14250,9 +14274,11 @@
       "reference": null,
       "vocabulaire_specifique": [],
       "questions_typiques": [
-        "Quelles sont les recommandations principales de ce guide ?",
-        "Comment appliquer ces bonnes pratiques au quotidien ?",
-        "Quels sont les points de vigilance à retenir ?"
+        "Comment trouver une réponse dans le dataset QR ?",
+        "Quels domaines juridiques sont couverts ?",
+        "Comment contribuer au dataset de questions ?",
+        "Le dataset est-il mis à jour régulièrement ?",
+        "Puis-je utiliser ce dataset pour former mes collaborateurs ?"
       ],
       "relations_documentaires": {
         "remplace": [],
@@ -14260,10 +14286,13 @@
         "reference": [],
         "complete": []
       },
-      "resume": "Document de type Guide pratique",
+      "resume": "Base de données questions-réponses pour les notaires. Ce dataset compile les questions fréquemment posées par les professionnels du notariat et leurs réponses détaillées, couvrant divers domaines : droit immobilier, droit de la famille, fiscalité, procédures notariales et conformité réglementaire.",
       "mots_cles": [
-        "documentation métier",
-        "bonnes pratiques"
+        "questions-réponses",
+        "FAQ notariale",
+        "base de connaissances",
+        "formation",
+        "documentation"
       ]
     },
     {
@@ -15955,10 +15984,12 @@
         "reference": [],
         "complete": []
       },
-      "resume": "Document de type Circulaire CSN",
+      "resume": "Circulaire 02 du CSN contenant des instructions officielles pour la profession notariale. Ce document définit les modalités d'application des dispositions réglementaires et les recommandations pratiques à mettre en œuvre par les offices notariaux.",
       "mots_cles": [
         "instructions professionnelles",
-        "réglementation notariale"
+        "réglementation notariale",
+        "conformité",
+        "circulaire CSN"
       ]
     },
     {

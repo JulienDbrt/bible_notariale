@@ -30,9 +30,11 @@
   "reference": null,
   "vocabulaire_specifique": [],
   "questions_typiques": [
-    "Quelles sont les recommandations principales de ce guide ?",
-    "Comment appliquer ces bonnes pratiques au quotidien ?",
-    "Quels sont les points de vigilance à retenir ?"
+    "Quelles sont les étapes de la carrière d'un notaire ?",
+    "Quelles déclarations fiscales un notaire doit-il effectuer ?",
+    "Comment évoluer dans sa carrière de notaire ?",
+    "Quelles sont les obligations déclaratives annuelles ?",
+    "Quels formulaires utiliser pour les déclarations ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -40,9 +42,12 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Guide pratique",
+  "resume": "Guide complet sur les carrières des notaires et les modalités déclaratives associées. Ce document détaille les différents parcours professionnels possibles dans le notariat, les obligations déclaratives fiscales et sociales, ainsi que les procédures administratives liées aux évolutions de carrière des notaires.",
   "mots_cles": [
-    "documentation métier",
-    "bonnes pratiques"
+    "carrière notaire",
+    "déclarations",
+    "parcours professionnel",
+    "obligations fiscales",
+    "administration"
   ]
 }

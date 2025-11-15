@@ -30,9 +30,11 @@
   "reference": null,
   "vocabulaire_specifique": [],
   "questions_typiques": [
-    "Quelles garanties sont couvertes par ce contrat ?",
-    "Quels sont les montants de franchise ?",
-    "Comment déclarer un sinistre ?"
+    "Quelles sont les garanties cyber couvertes par ce contrat ?",
+    "Quel est le montant de la franchise en cas de cyberattaque ?",
+    "Comment déclarer un sinistre cyber ?",
+    "Quelles sont les exclusions du contrat cyber ?",
+    "Quelle est la procédure en cas de violation de données ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -40,10 +42,12 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Assurance",
+  "resume": "Contrat d'assurance cyber-risques pour les offices notariaux, renouvelé au 1er juillet 2025. Ce contrat couvre les risques liés aux cyberattaques, violations de données, pertes d'exploitation informatique et responsabilité civile numérique. Il définit les garanties, franchises, exclusions et procédures de déclaration de sinistre spécifiques à la profession notariale.",
   "mots_cles": [
     "cybersécurité",
-    "prévoyance",
-    "assurance professionnelle"
+    "assurance professionnelle",
+    "cyber-risques",
+    "protection données",
+    "responsabilité civile"
   ]
 }

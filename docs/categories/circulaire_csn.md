@@ -18,7 +18,7 @@ la mise en conformité des pratiques notariales et constituent une source d'info
 
 ## Statistiques
 
-- **Nombre de documents** : 22
+- **Nombre de documents** : 20
 - **Période couverte** : 2020 - 2025
 - **Document le plus récent** : 2025-01-01
 - **Document le plus ancien** : 2020-01-01
@@ -34,12 +34,12 @@ la mise en conformité des pratiques notariales et constituent une source d'info
 - **CSN2021** : 2 documents
 - **CSN2022** : 4 documents
 - **CSN2023** : 1 documents
-- **CSN2024** : 8 documents
+- **CSN2024** : 6 documents
 - **CSN2025** : 3 documents
 
 ### Thématiques principales
 
-assurance professionnelle, formation professionnelle, instructions professionnelles, protection des données, réglementation notariale, rémunération
+assurance professionnelle, circulaire CSN, conformité, formation professionnelle, instructions professionnelles, protection des données, réglementation notariale, rémunération
 
 ### Références identifiées
 
@@ -57,7 +57,7 @@ assurance professionnelle, formation professionnelle, instructions professionnel
 *3 documents*
 
 ### 2024
-*8 documents*
+*6 documents*
 
 ### 2023
 *1 documents*
@@ -80,8 +80,6 @@ assurance professionnelle, formation professionnelle, instructions professionnel
 | 2025-01-01 |  | [CIRCULAIRE 01 25](../../sources_documentaires/CSN2025/CIRCULAIRE - 01-25.pdf) | CSN2025 |
 | 2025-01-01 |  | [Circulaire n°2025 1](../../sources_documentaires/CSN2025/Circulaire n°2025-1.pdf) | CSN2025 |
 | 2025-01-01 |  | [CIRCULAIRE 02 25](../../sources_documentaires/CSN2025/CIRCULAIRE - 02-25.pdf) | CSN2025 |
-| 2024-01-31 |  | [CSN ANC modalités pratiques déclarations rémunérations notaires associ...](../../sources_documentaires/CSN2024/20240131 CSN-ANC_modalités pratiques déclarations rémunérations notaires associés.pdf) | CSN2024 |
-| 2024-01-18 |  | [CSN ANC modalités pratiques déclarations rémunérations notaires associ...](../../sources_documentaires/CSN2024/20240118 CSN-ANC_modalités pratiques déclarations rémunérations notaires associés.pdf) | CSN2024 |
 | 2024-01-01 |  | [CIRCULAIRE 08 24 (BE)](../../sources_documentaires/CSN2024/CIRCULAIRE 08-24 -(BE).pdf) | CSN2024 |
 | 2024-01-01 |  | [CIRCULAIRE 02 24 (AV)](../../sources_documentaires/CSN2024/CIRCULAIRE 02 24 - (AV).pdf) | CSN2024 |
 | 2024-01-01 |  | [CIRCULAIRE 01 24 Information](../../sources_documentaires/CSN2024/CIRCULAIRE 01 24 - Information.pdf) | CSN2024 |
@@ -102,4 +100,4 @@ assurance professionnelle, formation professionnelle, instructions professionnel
 
 ---
 
-*Page générée automatiquement le 15/11/2025 à 08:12*
+*Page générée automatiquement le 15/11/2025 à 08:21*

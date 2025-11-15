@@ -17,7 +17,7 @@ l'application concrète des réglementations au quotidien.
 
 ## Statistiques
 
-- **Nombre de documents** : 26
+- **Nombre de documents** : 28
 - **Période couverte** : 2019 - 2025
 - **Document le plus récent** : 2025-07-09
 - **Document le plus ancien** : 2019-01-01
@@ -33,6 +33,7 @@ l'application concrète des réglementations au quotidien.
 - **CSN2021** : 1 documents
 - **CSN2022** : 1 documents
 - **CSN2023** : 5 documents
+- **CSN2024** : 2 documents
 - **CSN2025** : 4 documents
 - **FICHES BONNES PRATIQUES CLE REAL** : 1 documents
 - **racine** : 11 documents
@@ -40,7 +41,7 @@ l'application concrète des réglementations au quotidien.
 
 ### Thématiques principales
 
-assurance professionnelle, bonnes pratiques, congés payés, cybersécurité, documentation métier, formation professionnelle, instructions professionnelles, procédure disciplinaire, protection des données, réglementation notariale, rémunération, transactions immobilières
+FAQ notariale, administration, assurance professionnelle, base de connaissances, carrière notaire, doctrine, documentation, déclarations, expertise notariale, formation professionnelle, obligations fiscales, protection des données, questions-réponses, réglementation notariale, rémunération
 
 ---
 
@@ -48,6 +49,9 @@ assurance professionnelle, bonnes pratiques, congés payés, cybersécurité, do
 
 ### 2025
 *14 documents*
+
+### 2024
+*2 documents*
 
 ### 2023
 *6 documents*
@@ -84,6 +88,8 @@ assurance professionnelle, bonnes pratiques, congés payés, cybersécurité, do
 | 2025-01-01 |  | [NOTE DE ME BONTE (ventes immo)](../../sources_documentaires/NOTE DE ME BONTE (ventes immo).pdf) | racine |
 | 2025-01-01 |  | [fiche doctrine smo vd](../../sources_documentaires/fiche_doctrine_smo_vd.pdf) | racine |
 | 2025-01-01 |  | [Manuel d utilisation Salarié](../../sources_documentaires/CSN2025/Manuel d_utilisation - Salarié.pdf) | CSN2025 |
+| 2024-01-31 |  | [CSN ANC modalités pratiques déclarations rémunérations notaires associ...](../../sources_documentaires/CSN2024/20240131 CSN-ANC_modalités pratiques déclarations rémunérations notaires associés.pdf) | CSN2024 |
+| 2024-01-18 |  | [CSN ANC modalités pratiques déclarations rémunérations notaires associ...](../../sources_documentaires/CSN2024/20240118 CSN-ANC_modalités pratiques déclarations rémunérations notaires associés.pdf) | CSN2024 |
 | 2023-01-01 |  | [DOS AV 2023](../../sources_documentaires/CSN2023/DOS AV - 2023.pdf) | CSN2023 |
 | 2023-01-01 |  | [DOS BE 2023](../../sources_documentaires/CSN2023/DOS BE - 2023.pdf) | CSN2023 |
 | 2023-01-01 |  | [Cyber attaque Fiche réflexes CSN 03 02 2023](../../sources_documentaires/CSN2023/Cyber-attaque - Fiche réflexes CSN 03-02-2023.pdf) | CSN2023 |
@@ -99,4 +105,4 @@ assurance professionnelle, bonnes pratiques, congés payés, cybersécurité, do
 
 ---
 
-*Page générée automatiquement le 15/11/2025 à 08:12*
+*Page générée automatiquement le 15/11/2025 à 08:21*

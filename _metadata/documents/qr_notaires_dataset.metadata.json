@@ -30,9 +30,11 @@
   "reference": null,
   "vocabulaire_specifique": [],
   "questions_typiques": [
-    "Quelles sont les recommandations principales de ce guide ?",
-    "Comment appliquer ces bonnes pratiques au quotidien ?",
-    "Quels sont les points de vigilance à retenir ?"
+    "Comment trouver une réponse dans le dataset QR ?",
+    "Quels domaines juridiques sont couverts ?",
+    "Comment contribuer au dataset de questions ?",
+    "Le dataset est-il mis à jour régulièrement ?",
+    "Puis-je utiliser ce dataset pour former mes collaborateurs ?"
   ],
   "relations_documentaires": {
     "remplace": [],
@@ -40,9 +42,12 @@
     "reference": [],
     "complete": []
   },
-  "resume": "Document de type Guide pratique",
+  "resume": "Base de données questions-réponses pour les notaires. Ce dataset compile les questions fréquemment posées par les professionnels du notariat et leurs réponses détaillées, couvrant divers domaines : droit immobilier, droit de la famille, fiscalité, procédures notariales et conformité réglementaire.",
   "mots_cles": [
-    "documentation métier",
-    "bonnes pratiques"
+    "questions-réponses",
+    "FAQ notariale",
+    "base de connaissances",
+    "formation",
+    "documentation"
   ]
 }

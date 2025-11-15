@@ -13,11 +13,12 @@
     "statut": "en_vigueur"
   },
   "classification": {
-    "type_document": "circulaire_csn",
-    "label": "Circulaire CSN",
+    "type_document": "guide_pratique",
+    "label": "Guide pratique",
     "domaines_juridiques": [
-      "réglementation notariale",
-      "instructions professionnelles"
+      "rémunération notaires",
+      "fiscalité BNC",
+      "déclarations"
     ],
     "public_cible": [
       "notaires",
