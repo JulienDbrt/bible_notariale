@@ -200,6 +200,207 @@
       "articles_references": [],
       "necessite_multi_documents": false,
       "notes_validation": ""
+    },
+    {
+      "id": "Q011",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Quelles sont les obligations du notaire en matière de médiation de la consommation ?",
+      "documents_sources_attendus": [
+        "fil_infos_fil_info_265"
+      ],
+      "elements_cles_reponse": [
+        "Obligation depuis le 1er février 2024",
+        "Intégrée au Code de déontologie (article 25.2)",
+        "Intégrée au Règlement professionnel (article 25.1)",
+        "Concerne les différends entre notaire et client",
+        "Inscrite dans l'ADN de la déontologie"
+      ],
+      "reponse_attendue_resumee": "Depuis le 1er février 2024, le Code de déontologie (article 25.2) et le Règlement professionnel (article 25.1) intègrent explicitement l'obligation de médiation de la consommation. Cette obligation ne concerne que les différends entre un notaire et son client et traduit une volonté d'inscrire la médiation dans l'ADN de la déontologie.",
+      "articles_references": [
+        "Article 25.2 du Code de déontologie",
+        "Article 25.1 du RPN"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q012",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Quelles sont les règles déontologiques régissant les relations entre notaires et généalogistes successoraux ?",
+      "documents_sources_attendus": [],
+      "elements_cles_reponse": [
+        "Exigences de rigueur et professionnalisme mutuelles",
+        "Règles sur le secret professionnel",
+        "Encadrement des relations d'affaires"
+      ],
+      "reponse_attendue_resumee": "Les relations entre notaires et généalogistes successoraux sont encadrées par des règles déontologiques rappelant les exigences de rigueur et de professionnalisme que chacun est en droit d'attendre de l'autre. Ces règles couvrent notamment le secret professionnel et l'encadrement des relations d'affaires.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q013",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Comment le Code de déontologie et le RPN s'articulent-ils ensemble dans la régulation de la profession notariale ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Entrés en vigueur simultanément le 1er février 2024",
+        "Code de déontologie édicté par décret en Conseil d'État",
+        "RPN approuvé par arrêté du Garde des Sceaux",
+        "Le Code pose les principes déontologiques",
+        "Le RPN détaille les règles d'application",
+        "Violation expose à des poursuites disciplinaires"
+      ],
+      "reponse_attendue_resumee": "Le Code de déontologie et le RPN sont deux textes complémentaires entrés en vigueur simultanément le 1er février 2024. Le Code de déontologie, édicté par décret en Conseil d'État, pose les principes déontologiques généraux. Le RPN, approuvé par arrêté du Garde des Sceaux, détaille les règles d'application pratiques. La violation de ces dispositions expose à des poursuites disciplinaires.",
+      "articles_references": [],
+      "necessite_multi_documents": true,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q014",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Qu'est-ce que Tracfin et quel est son rôle dans les obligations LCB-FT des notaires ?",
+      "documents_sources_attendus": [
+        "csn2019_analyse_nationale_des_risques_lcb_ft_en_france_septembre_2019"
+      ],
+      "elements_cles_reponse": [
+        "Service de renseignement gouvernemental",
+        "Traitement du Renseignement et Action contre les Circuits FINanciers clandestins",
+        "Réception des déclarations de soupçon",
+        "Les notaires sont les premiers contributeurs du secteur non-financier"
+      ],
+      "reponse_attendue_resumee": "Tracfin (Traitement du Renseignement et Action contre les Circuits FINanciers clandestins) est le service de renseignement gouvernemental auprès duquel les notaires doivent effectuer leurs déclarations de soupçon dans le cadre de la LCB-FT. Les notaires sont les premiers contributeurs du secteur non-financier auprès de Tracfin.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q015",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Quels sont les objectifs fondamentaux inscrits dans le manifeste du notariat selon le Fil-Info 2865 ?",
+      "documents_sources_attendus": [
+        "fil_infos_fil_info_265"
+      ],
+      "elements_cles_reponse": [
+        "Vision : société apaisée où les droits de chacun sont garantis",
+        "Mission : comprendre et accompagner avec humanité et proximité",
+        "Accompagner tous les citoyens à toutes les étapes de leur vie",
+        "Résultat d'ateliers de co-construction"
+      ],
+      "reponse_attendue_resumee": "Le manifeste du notariat définit une vision (croire en une société apaisée dans laquelle chacun peut compter sur le fait que ses droits sont garantis) et une mission (comprendre et accompagner avec humanité et proximité tous les citoyens à toutes les étapes de leur vie). Ces objectifs ont été définis lors d'ateliers de co-construction.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q016",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Quelles sont les cinq missions fondamentales du notaire inscrites dans le serment du RPN ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Conseiller avec rigueur et impartialité",
+        "Accompagner avec humanité et discrétion",
+        "Exprimer l'équilibre des volontés dans le cadre fixé par la loi",
+        "Conserver les actes pour toujours",
+        "Agir pour la paix au cœur de la société",
+        "Sous le sceau de l'État"
+      ],
+      "reponse_attendue_resumee": "Les cinq missions fondamentales inscrites dans le serment du RPN sont : 1) Conseiller avec rigueur et impartialité, 2) Accompagner avec humanité et discrétion, 3) Exprimer l'équilibre des volontés dans le cadre fixé par la loi, 4) Conserver les actes pour toujours, 5) Agir ainsi pour la paix au cœur de la société. Tout cela sous le sceau de l'État.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q017",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Quelle est la différence entre la minute et l'expédition d'un acte notarié ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Minute : original de l'acte authentique",
+        "Minute conservée par le notaire",
+        "Minute ne peut quitter l'étude",
+        "Expédition : copie de la minute",
+        "Expédition délivrée aux parties"
+      ],
+      "reponse_attendue_resumee": "La minute est l'original de l'acte authentique qui doit être conservé par le notaire et ne peut quitter l'étude. L'expédition est une copie de la minute qui est délivrée aux parties. Seules les expéditions circulent, jamais la minute elle-même.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q018",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Pourquoi la réforme de la déontologie et de la discipline de 2021 a-t-elle été décrite comme écrite 'à quatre mains' ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Réforme souhaitée par le notariat",
+        "Écrite conjointement avec la DACS",
+        "DACS : Direction des Affaires Civiles et du Sceau",
+        "Collaboration profession-ministère",
+        "Corollaire de la réforme de la discipline"
+      ],
+      "reponse_attendue_resumee": "La réforme a été décrite comme écrite 'à quatre mains' car elle a été élaborée conjointement par le notariat et la DACS (Direction des Affaires Civiles et du Sceau du ministère de la Justice). Cette réforme, souhaitée par le notariat, illustre une collaboration étroite entre la profession et les pouvoirs publics.",
+      "articles_references": [
+        "Loi du 22 décembre 2021"
+      ],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q019",
+      "categorie": "deontologie",
+      "difficulte": "moyen",
+      "question": "Qu'est-ce qui distingue les émoluments des honoraires pour un notaire ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Émoluments : tarification réglementée",
+        "Définis par décret",
+        "Applicables uniformément sur le territoire",
+        "Honoraires : rémunération libre pour certaines prestations",
+        "Les deux peuvent coexister selon la nature de l'acte"
+      ],
+      "reponse_attendue_resumee": "Les émoluments sont une tarification réglementée définie par décret et applicable uniformément sur le territoire pour certains actes notariés. Les honoraires sont une rémunération librement convenue pour d'autres prestations. La distinction dépend de la nature de l'acte ou de la prestation fournie.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
+    },
+    {
+      "id": "Q020",
+      "categorie": "deontologie",
+      "difficulte": "pointu",
+      "question": "Quelles sont les caractéristiques de la force probante et de la force exécutoire d'un acte authentique ?",
+      "documents_sources_attendus": [
+        "rpn_rpn"
+      ],
+      "elements_cles_reponse": [
+        "Force probante : foi publique conférée au contenu",
+        "L'acte fait foi jusqu'à inscription de faux",
+        "Force exécutoire : exécution possible sans jugement préalable",
+        "Équivaut à une décision de justice",
+        "Permet l'exécution forcée directe"
+      ],
+      "reponse_attendue_resumee": "La force probante signifie que l'acte authentique fait foi de son contenu jusqu'à inscription de faux - il bénéficie de la foi publique. La force exécutoire signifie qu'il permet l'exécution forcée directe sans nécessiter un jugement préalable, équivalant ainsi à une décision de justice définitive.",
+      "articles_references": [],
+      "necessite_multi_documents": false,
+      "notes_validation": ""
     }
   ]
 }
