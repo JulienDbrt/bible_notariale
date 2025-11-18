@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2022,
-    "categorie_dossier": "CSN2022"
+    "categorie_dossier": "CSN2022",
+    "categories_metier": [
+      "DEONTOLOGIE"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": null,
   "vocabulaire_specifique": [

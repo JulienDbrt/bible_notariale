@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2020,
-    "categorie_dossier": "CSN2020"
+    "categorie_dossier": "CSN2020",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": {
     "type": "avenant",

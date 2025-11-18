@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2023,
-    "categorie_dossier": "CSN2023"
+    "categorie_dossier": "CSN2023",
+    "categories_metier": [
+      "DEONTOLOGIE",
+      "PROCEDURE"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": {
     "type": "circulaire",

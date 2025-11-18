@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2019,
-    "categorie_dossier": "CSN2019"
+    "categorie_dossier": "CSN2019",
+    "categories_metier": [
+      "PROCEDURE",
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": null,
   "vocabulaire_specifique": [

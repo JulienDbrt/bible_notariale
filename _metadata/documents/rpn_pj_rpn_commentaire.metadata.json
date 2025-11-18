@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "rpn"
+    "categorie_dossier": "rpn",
+    "categories_metier": [
+      "DEONTOLOGIE"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": null,
   "vocabulaire_specifique": [

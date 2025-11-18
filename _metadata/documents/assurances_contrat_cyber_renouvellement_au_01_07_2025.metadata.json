@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "Assurances"
+    "categorie_dossier": "Assurances",
+    "categories_metier": [
+      "ASSURANCES"
+    ],
+    "categorie_metier_principale": "ASSURANCES"
   },
   "reference": null,
   "vocabulaire_specifique": [],

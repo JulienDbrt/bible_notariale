@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2019,
-    "categorie_dossier": "CSN2019"
+    "categorie_dossier": "CSN2019",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": {
     "type": "avenant",

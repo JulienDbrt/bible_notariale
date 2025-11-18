@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2024,
-    "categorie_dossier": "fil-infos"
+    "categorie_dossier": "fil-infos",
+    "categories_metier": [
+      "DEONTOLOGIE",
+      "RH"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": {
     "type": "fil_info",

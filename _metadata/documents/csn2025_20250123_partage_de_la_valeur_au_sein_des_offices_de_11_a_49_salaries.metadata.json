@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "CSN2025"
+    "categorie_dossier": "CSN2025",
+    "categories_metier": [
+      "RH",
+      "IMMOBILIER"
+    ],
+    "categorie_metier_principale": "IMMOBILIER"
   },
   "reference": null,
   "vocabulaire_specifique": [

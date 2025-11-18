@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2023,
-    "categorie_dossier": "CSN2023"
+    "categorie_dossier": "CSN2023",
+    "categories_metier": [
+      "ASSURANCES"
+    ],
+    "categorie_metier_principale": "ASSURANCES"
   },
   "reference": null,
   "vocabulaire_specifique": [

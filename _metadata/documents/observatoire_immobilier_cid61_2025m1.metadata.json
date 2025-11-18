@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "observatoire_immobilier"
+    "categorie_dossier": "observatoire_immobilier",
+    "categories_metier": [
+      "IMMOBILIER"
+    ],
+    "categorie_metier_principale": "IMMOBILIER"
   },
   "reference": null,
   "vocabulaire_specifique": [],

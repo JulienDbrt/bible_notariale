@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "racine"
+    "categorie_dossier": "racine",
+    "categories_metier": [
+      "PROCEDURE"
+    ],
+    "categorie_metier_principale": "PROCEDURE"
   },
   "reference": null,
   "vocabulaire_specifique": [],

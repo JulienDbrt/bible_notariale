@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2020,
-    "categorie_dossier": "racine"
+    "categorie_dossier": "racine",
+    "categories_metier": [
+      "RH",
+      "ASSURANCES"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": null,
   "vocabulaire_specifique": [

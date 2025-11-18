@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2024,
-    "categorie_dossier": "fil-infos"
+    "categorie_dossier": "fil-infos",
+    "categories_metier": [
+      "RH",
+      "PROCEDURE"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": {
     "type": "fil_info",

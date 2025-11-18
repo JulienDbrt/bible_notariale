@@ -25,7 +25,12 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2024,
-    "categorie_dossier": "CSN2024"
+    "categorie_dossier": "CSN2024",
+    "categories_metier": [
+      "DEONTOLOGIE",
+      "PROCEDURE"
+    ],
+    "categorie_metier_principale": "DEONTOLOGIE"
   },
   "reference": null,
   "vocabulaire_specifique": [

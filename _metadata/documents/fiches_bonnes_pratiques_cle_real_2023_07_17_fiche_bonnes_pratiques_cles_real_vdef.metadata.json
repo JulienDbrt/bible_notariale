@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2023,
-    "categorie_dossier": "FICHES BONNES PRATIQUES CLE REAL"
+    "categorie_dossier": "FICHES BONNES PRATIQUES CLE REAL",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": null,
   "vocabulaire_specifique": [

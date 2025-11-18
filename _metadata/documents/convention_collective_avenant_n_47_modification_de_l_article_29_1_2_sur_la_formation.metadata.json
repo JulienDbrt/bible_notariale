@@ -25,7 +25,11 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2018,
-    "categorie_dossier": "Convention Collective"
+    "categorie_dossier": "Convention Collective",
+    "categories_metier": [
+      "RH"
+    ],
+    "categorie_metier_principale": "RH"
   },
   "reference": {
     "type": "avenant",

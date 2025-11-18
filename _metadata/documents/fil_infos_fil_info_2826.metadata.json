@@ -25,7 +25,13 @@
       "collaborateurs d'office"
     ],
     "annee_reference": 2025,
-    "categorie_dossier": "fil-infos"
+    "categorie_dossier": "fil-infos",
+    "categories_metier": [
+      "IMMOBILIER",
+      "RH",
+      "PROCEDURE"
+    ],
+    "categorie_metier_principale": "IMMOBILIER"
   },
   "reference": {
     "type": "fil_info",
