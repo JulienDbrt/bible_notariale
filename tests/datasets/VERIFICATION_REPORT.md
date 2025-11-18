@@ -1,8 +1,37 @@
 # Rapport de Vérification du Dataset de Test
 
 **Date**: 2025-11-18
-**Version**: 1.0
+**Version**: 2.0
 **Total questions**: 50
+
+---
+
+## 🆕 Changelog v2.0 (2025-11-18)
+
+### Améliorations Majeures
+
+**1. Sources Documentaires** (76% → 86%)
+- ✅ Q012: Ajout `rpn_rpn` (relations généalogistes)
+- ✅ Q026: Ajout `rpn_rpn` (édiction code déontologie)
+- ✅ Q027: Ajout `rpn_rpn` (secret professionnel)
+- ✅ Q033: Ajout `fiche_doctrine_smo_vd` (SMO)
+- ✅ Q036: Ajout CCN (définition clerc)
+
+**2. Flags Multi-Documents** (18% → 24%)
+- ✅ Q007: Loi + ordonnances (hiérarchie normes)
+- ✅ Q010: Déontologie + discipline
+- ✅ Q018: Contexte réforme 2021-2024
+
+**3. Éléments Clés Améliorés**
+- ✅ Q008: Plus factuels ("premiers contributeurs secteur non-financier")
+- ✅ Q012: Plus objectifs ("Relations encadrées par le RPN")
+
+**4. Nouveau Champ : `confiance_attendue`** ⭐
+- Calibration basée sur difficulté, sources, et multi-doc
+- Distribution : 48% haute, 44% moyenne, 8% faible
+- Permet de valider si le niveau de confiance du chatbot est approprié
+
+---
 
 ## ✅ Validation Structure
 
@@ -32,9 +61,21 @@
 
 ## 🔗 Caractéristiques Spéciales
 
-- **Questions multi-documents**: 9 (18%)
-- **Questions avec sources documentaires**: 38 (76%)
+- **Questions multi-documents**: 12 (24%) ⬆️ +3
+- **Questions avec sources documentaires**: 43 (86%) ⬆️ +5
 - **Questions hors périmètre (edge cases)**: 10 (20%)
+
+## 🎯 Calibration de Confiance
+
+Distribution du champ `confiance_attendue` (nouveau en v2.0):
+
+| Niveau | Nombre | Pourcentage | Description |
+|--------|--------|-------------|-------------|
+| Haute | 24 | 48% | Questions faciles/moyennes avec sources uniques |
+| Moyenne | 22 | 44% | Questions pointues, multi-doc, ou faciles sans source |
+| Faible | 4 | 8% | Edge cases ou questions hors périmètre |
+
+Cette calibration permet de **valider si le chatbot affiche un niveau de confiance approprié** selon la complexité de la question.
 
 ## 📚 Couverture Thématique
 
@@ -75,9 +116,10 @@
 ### Points Forts
 1. **Variété**: Questions factuelles, procédurales, interprétatives, temporelles
 2. **Réalisme**: Questions typiques que poseraient des notaires
-3. **Traçabilité**: 76% des questions ont des sources documentaires identifiées
+3. **Traçabilité**: 86% des questions ont des sources documentaires identifiées ⬆️
 4. **Granularité**: Du simple (définition) au complexe (synthèse multi-docs)
 5. **Edge cases**: 20% de questions testant les limites du chatbot
+6. **Calibration confiance**: Niveaux de confiance attendus pour évaluation RAG ⭐ NEW
 
 ### Sources Documentaires Principales Utilisées
 - `rpn_rpn` (RPN)
@@ -91,9 +133,12 @@
 
 ## 🔍 Analyse Multi-Documents
 
-9 questions nécessitent la consultation de plusieurs documents :
+12 questions nécessitent la consultation de plusieurs documents ⬆️ :
 - Q003: Code déontologie (entrée en vigueur)
+- Q007: Hiérarchie des normes (loi + ordonnances) ⭐ NEW
+- Q010: Déontologie + discipline ⭐ NEW
 - Q013: Articulation Code/RPN
+- Q018: Contexte réforme déontologie 2021-2024 ⭐ NEW
 - Q024: Relations avenants 58-59
 - Q028: Partenaires sociaux CCN
 - Q030: Réforme déontologie 2021-2024
@@ -136,6 +181,18 @@ Ces questions testent la **capacité du chatbot à synthétiser** des informatio
 
 ## ✨ Conclusion
 
-Le dataset est **complet, structuré et prêt** pour la validation métier puis les tests du chatbot. Il offre une **couverture équilibrée** des thématiques déontologie/juridique avec une **variété de difficulté** et des **edge cases pertinents** pour tester les limites du système.
+Le dataset v2.0 est **complet, structuré et amélioré** pour la validation métier puis les tests du chatbot. Les améliorations apportées renforcent :
+- La **traçabilité** des sources (86% vs 76%)
+- La **détection multi-documents** (24% vs 18%)
+- La **calibration de confiance** (nouveau champ pour évaluation RAG)
+- L'**objectivité** des éléments clés de validation
 
-**Statut**: ✅ **VALIDÉ TECHNIQUEMENT** - En attente de validation métier
+Le dataset offre une **couverture équilibrée** des thématiques déontologie/juridique avec une **variété de difficulté** et des **edge cases pertinents** pour tester les limites du système.
+
+**Statut**: ✅ **VALIDÉ TECHNIQUEMENT v2.0** - En attente de validation métier
+
+---
+
+**Changelog**:
+- v1.0 (2025-11-18): Création initiale du dataset
+- v2.0 (2025-11-18): Améliorations sources, multi-doc, et ajout confiance_attendue
