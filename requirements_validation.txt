@@ -1,0 +1,20 @@
+# Requirements pour le système de validation du chatbot
+# Installation : pip install -r requirements_validation.txt
+
+# Manipulation Excel
+openpyxl>=3.1.2
+
+# Manipulation de données
+pandas>=2.1.0
+
+# Parsing YAML (pour config)
+pyyaml>=6.0.1
+
+# Logging et utilitaires
+python-dateutil>=2.8.2
+
+# Pour les futurs rapports (optionnel, décommenter si nécessaire)
+# reportlab>=4.0.0
+# weasyprint>=60.0
+# matplotlib>=3.8.0
+# plotly>=5.17.0
