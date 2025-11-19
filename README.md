@@ -6,6 +6,28 @@
 
 ---
 
+## Table des matières
+
+- [Présentation](#présentation)
+- [Notre Approche](#notre-approche)
+- [Catégories documentaires](#catégories-documentaires)
+- [Vue d'ensemble](#vue-densemble)
+  - [Par type de document](#par-type-de-document)
+  - [Par année](#par-année)
+  - [Par catégorie métier](#par-catégorie-métier)
+- [Système d'indexation et métadonnées](#système-dindexation-et-métadonnées)
+  - [Architecture des données](#architecture-des-données)
+  - [Structure détaillée des métadonnées](#structure-détaillée-des-métadonnées)
+  - [Classification métier](#3-classification-métier-)
+  - [Vocabulaire spécifique et synonymes](#4-vocabulaire-spécifique-et-synonymes-)
+  - [Relations documentaires](#5-relations-documentaires-)
+  - [Lexique notarial centralisé](#lexique-notarial-centralisé)
+  - [Utilisation pour RAG/GraphRAG](#utilisation-pour-raggraphrag)
+- [Navigation](#navigation)
+- [Maintenance](#maintenance)
+
+---
+
 ## Présentation
 
 Ce dépôt centralise la documentation professionnelle du notariat français :
@@ -160,11 +182,30 @@ contre le blanchiment (LCB-FT), de protection des données (RGPD), de cybersécu
 | 2019 | 7 |
 | 2018 | 1 |
 
+### Par catégorie métier
+
+Répartition des documents selon leur **catégorie métier principale** :
+
+| Catégorie métier | Documents (principal) | Documents (toutes) | Exemples de sujets |
+|------------------|------------------------|---------------------|-------------------|
+| **RH** | 162 | 206 | Rémunération, congés, formation, contrats |
+| **DEONTOLOGIE** | 56 | 56 | Inspections, obligations professionnelles |
+| **PROCEDURE** | 1 | 51 | Signatures électroniques, télétransmission |
+| **ASSURANCES** | 3 | 44 | RC professionnelle, cyber-risques |
+| **IMMOBILIER** | 23 | 24 | Transactions, observatoire, diagnostics |
+| **FISCAL_SUCCESSION** | 0 | 4 | Fiscalité, droits de mutation |
+
+**Lecture du tableau** :
+- **Documents (principal)** : nombre de documents ayant cette catégorie comme thématique principale
+- **Documents (toutes)** : nombre total de documents mentionnant cette catégorie (y compris secondaire)
+
+**Exemple** : Un document peut être classé en **RH** comme catégorie principale mais aussi mentionner des aspects **PROCEDURE** et **ASSURANCES**. Il sera compté 1 fois dans "RH (principal)" et 1 fois dans chacune des colonnes "toutes".
+
 ---
 
 ## Système d'indexation et métadonnées
 
-Ce dépôt intègre un système complet de métadonnées structurées pour l'outil de **Knowledge Management (KM)**.
+Ce dépôt intègre un système complet de métadonnées structurées pour le **Knowledge Management (KM)** et les outils d'intelligence artificielle (RAG, GraphRAG).
 
 ### Architecture des données
 
@@ -176,42 +217,175 @@ bible_notariale/
 │   ├── avenant_ccn.md
 │   └── ...
 ├── _metadata/                          # Métadonnées KM
-│   ├── index_complet.json             # Index global
-│   ├── documents/*.metadata.json      # Métadonnées par document
+│   ├── index_complet.json             # Index global (245 documents)
+│   ├── documents/*.metadata.json      # Métadonnées individuelles
 │   └── vocabulaire_notarial.json      # Lexique avec synonymes
 ├── _INSTRUCTIONS/                      # Documentation technique
 │   └── PLAN_ACTION_INDEX.md
 └── sources_documentaires/              # Documents PDF/DOCX/XLSX
 ```
 
-### Structure des métadonnées KM
+---
 
-Chaque document possède un fichier `.metadata.json` contenant :
+## Structure détaillée des métadonnées
 
-- **Identification** : ID unique, titre, date de publication
-- **Classification** : Type de document, domaines juridiques, année de référence
-- **Vocabulaire spécifique** : Termes techniques avec synonymes (pour enrichir les embeddings)
-- **Questions typiques** : Questions fréquentes pour améliorer le matching RAG
-- **Relations** : Liens entre documents (remplace, modifie, référence)
-- **Mots-clés** : Thématiques principales pour la recherche
+Chaque document possède un fichier `.metadata.json` contenant 8 catégories d'informations :
 
-### Vocabulaire notarial enrichi
+### 1. **Métadonnées de base**
+- **Titre complet** et titre court
+- **Date de publication** et date d'effet
+- **Auteur** : CSN, Ministère du Travail, Journal Officiel...
+- **Statut** : en_vigueur, abrogé, remplacé
+- **Version** et langue du document
 
-Le fichier `vocabulaire_notarial.json` contient un lexique de termes professionnels avec leurs synonymes :
+### 2. **Classification documentaire**
+- **Type de document** : circulaire_csn, avenant_ccn, accord_branche, fil_info, guide_pratique, decret_ordonnance, assurance, immobilier, conformite
+- **Label** : Nom convivial de la catégorie
+- **Domaines juridiques** : droit du travail, droit fiscal, droit immobilier, textes réglementaires...
+- **Public cible** : notaires, clercs, collaborateurs d'office
+- **Année de référence** : année principale du document
 
-- **CCN** = Convention Collective Nationale, IDCC 2205
-- **CSN** = Conseil Supérieur du Notariat
-- **LCB-FT** = Lutte anti-blanchiment, LAB, compliance
-- **SMO** = Société multi-offices, holding notariale
-- **OPCO** = Opérateur de compétences, financement formation
-- *Et plus encore...*
+### 3. **Classification métier** 🆕
+
+Chaque document est classé selon **des catégories métier** reflétant les domaines d'activité du notariat :
+
+| Catégorie | Description | Exemples |
+|-----------|-------------|----------|
+| **RH** | Ressources Humaines | Rémunération, congés, formation, contrats de travail |
+| **ASSURANCES** | Assurances et prévoyance | RC professionnelle, cyber-risques, protection juridique |
+| **PROCEDURE** | Procédures et formalités | Signatures électroniques, télétransmission, archivage |
+| **DEONTOLOGIE** | Déontologie et discipline | Inspections, obligations professionnelles, éthique |
+| **IMMOBILIER** | Immobilier et urbanisme | Transactions, observatoire, diagnostics immobiliers |
+| **CONFORMITE** | Conformité réglementaire | LCB-FT, RGPD, cybersécurité, vigilance |
+| **FISCAL** | Droit fiscal | Fiscalité des actes, TVA, droits de mutation |
+| **SUCCESSION** | Successions et libéralités | Testaments, donations, partages |
+| **FAMILLE** | Droit de la famille | PACS, divorce, régimes matrimoniaux |
+| **SOCIETES** | Droit des sociétés | Création, cessions, fusions, SMO |
+
+**Métadonnées associées** :
+- `categories_metier` : liste des catégories applicables (un document peut avoir plusieurs catégories)
+- `categorie_metier_principale` : catégorie principale du document
+
+**Exemple** : Une circulaire sur les inspections d'offices peut avoir :
+- Catégories : `["DEONTOLOGIE", "PROCEDURE"]`
+- Catégorie principale : `"DEONTOLOGIE"`
+
+### 4. **Vocabulaire spécifique et synonymes** 🆕
+
+Chaque document contient un **vocabulaire enrichi** extrait du texte, avec :
+
+```json
+{
+  "terme": "conseil supérieur du notariat",
+  "synonymes": ["CSN"],
+  "definition": "Instance nationale représentant la profession...",
+  "contexte_utilisation": "Mentionné 8 fois dans le document"
+}
+```
+
+**Avantages pour l'IA** :
+- ✅ Améliore la **recherche sémantique** (+30% de pertinence)
+- ✅ Enrichit les **embeddings** avec les variantes terminologiques
+- ✅ Facilite le **matching** entre questions utilisateur et documents
+
+**Exemples de termes** :
+- **CCN** = Convention Collective Nationale, IDCC 2205, convention du notariat
+- **LCB-FT** = lutte anti-blanchiment, LAB, compliance, vigilance financière
+- **SMO** = Société multi-offices, holding notariale, structure multi-offices
+- **OPCO** = Opérateur de compétences, financement formation, OPCO EP
+
+### 5. **Relations documentaires** 🆕
+
+Chaque document identifie ses **relations** avec d'autres textes :
+
+```json
+{
+  "remplace": ["Avenant n°67"],
+  "modifie": ["Convention Collective Nationale"],
+  "reference": ["Article L123-4", "Décret 2024-906"],
+  "complete": ["Circulaire CSN 2024-05"]
+}
+```
+
+**Exploitation pour GraphRAG** :
+- 🔗 Construire un **graphe de connaissances** des textes notariaux
+- 🔍 Naviguer entre textes **connexes** (avenants, circulaires d'application)
+- 📊 Identifier les textes **en vigueur** vs abrogés
+- 🔄 Tracer l'**historique** des modifications réglementaires
+
+### 6. **Résumé automatique**
+
+Résumé généré automatiquement (2-4 phrases) présentant :
+- Le contenu principal du document
+- Les articles ou sections clés
+- Les professions concernées
+
+### 7. **Mots-clés thématiques**
+
+Liste de mots-clés pour la recherche et le classement :
+- `formation professionnelle`, `législation`, `textes réglementaires`
+- `rémunération`, `congés payés`, `contrat de travail`
+- `immobilier`, `transaction`, `diagnostic`
+
+### 8. **Dates mentionnées**
+
+Dates importantes citées dans le document (format ISO 8601) :
+- Dates d'entrée en vigueur
+- Dates d'abrogation de textes antérieurs
+- Dates de référence juridique
+
+---
+
+## Lexique notarial centralisé
+
+Le fichier `vocabulaire_notarial.json` contient **un lexique complet** avec 50+ termes professionnels :
+
+### Structure d'une entrée
+
+```json
+{
+  "terme": "Convention Collective Nationale",
+  "synonymes": ["CCN", "IDCC 2205", "convention du notariat"],
+  "definition": "Accord collectif régissant les conditions de travail...",
+  "domaine": "droit social"
+}
+```
+
+### Domaines couverts
+- **Institutions** : CSN, Chambres départementales, INPI
+- **Droit social** : CCN, avenants, OPCO, clerc de notaire
+- **Conformité** : LCB-FT, RGPD, vigilance
+- **Organisation** : SMO, holding notariale, SCP
+- **Actes** : acte authentique, instrumentum, minute
 
 ### Utilisation pour RAG/GraphRAG
 
-1. **Ingestion** : Charger les `*.metadata.json` avec les documents
-2. **Enrichissement** : Utiliser les synonymes pour améliorer les embeddings (+30% pertinence)
-3. **Matching** : Exploiter les questions typiques pour le matching sémantique
-4. **Graph** : Construire les relations entre documents
+**1. Ingestion des documents**
+```python
+# Charger les métadonnées avec le document PDF
+metadata = json.load("_metadata/documents/doc.metadata.json")
+pdf_content = extract_text("sources_documentaires/doc.pdf")
+```
+
+**2. Enrichissement sémantique**
+```python
+# Ajouter les synonymes aux embeddings
+terms = metadata["vocabulaire_specifique"]
+enriched_text = pdf_content + " " + " ".join([t["terme"] + " " + " ".join(t["synonymes"]) for t in terms])
+```
+
+**3. Construction du graphe de connaissances**
+```python
+# Créer les relations entre documents
+for relation in metadata["relations_documentaires"]["reference"]:
+    graph.add_edge(current_doc, related_doc, type="reference")
+```
+
+**4. Classification métier**
+```python
+# Filtrer par catégorie métier
+docs_rh = [d for d in documents if "RH" in d["classification"]["categories_metier"]]
+```
 
 ---
 
