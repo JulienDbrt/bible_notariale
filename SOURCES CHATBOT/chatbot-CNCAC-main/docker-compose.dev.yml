@@ -1,0 +1,75 @@
+services:
+  frontend:
+    build:
+      context: ./front
+      target: development
+    ports:
+      - "9002:9002"
+    environment:
+      - NODE_ENV=development
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+      # Use HTTPS to prevent CORS preflight redirect failures
+      - NEXT_PUBLIC_SUPABASE_URL=https://supabase.chatbotpro.fr
+      - NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoic2VydmljZV9yb2xlIiwiaXNzIjoic3VwYWJhc2UiLCJpYXQiOjE3NTQyNTg0MDAsImV4cCI6MTkxMjAyNDgwMH0._NrQBmRZKTeicEmmiXqQHGUgf41ZFzHrovwFnCDM1lQ
+    volumes:
+      - ./front/src:/app/src:ro
+      - ./front/public:/app/public:ro
+      - ./front/next.config.ts:/app/next.config.ts:ro
+      - ./front/tailwind.config.ts:/app/tailwind.config.ts:ro
+      - ./front/tsconfig.json:/app/tsconfig.json:ro
+      - ./front/components.json:/app/components.json:ro
+      - ./front/postcss.config.mjs:/app/postcss.config.mjs:ro
+      - /app/node_modules
+    depends_on:
+      - backend
+    networks:
+      - app-network
+    restart: unless-stopped
+    command: npm run dev
+
+  backend:
+    build:
+      context: ./backend
+      target: development
+    ports:
+      - "8000:8000"
+    environment:
+      - SUPABASE_URL=${SUPABASE_URL}
+      - SUPABASE_KEY=${SUPABASE_KEY}
+      - UPLOAD_DIR=/app/uploads
+      - MAX_FILE_SIZE=50MB
+      - ALLOWED_EXTENSIONS=pdf,docx,txt,md,pptx,xlsx
+      - MINIO_ENDPOINT=${MINIO_ENDPOINT}
+      - MINIO_ROOT_USER=${MINIO_ROOT_USER}
+      - MINIO_ROOT_PASSWORD=${MINIO_ROOT_PASSWORD}
+      - MINIO_BUCKET_NAME=training-docs
+      - MINIO_SECURE=${MINIO_SECURE}
+      - NEO4J_URL=${NEO4J_URL}
+      - NEO4J_USERNAME=${NEO4J_USERNAME}
+      - NEO4J_PASSWORD=${NEO4J_PASSWORD}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - PYTHONPATH=/app/src
+      - ENVIRONMENT=development
+      - DEBUG=true
+    volumes:
+      - ./backend/src:/app/src:ro
+      - ./backend/requirements.txt:/app/requirements.txt:ro
+      - ./backend/.env:/app/.env:ro
+      - ./backend/post-ingestion.sh:/app/post-ingestion.sh:ro
+      - ./backend/scripts:/app/scripts:ro
+      - ./backend/ontologies:/app/ontologies:ro
+      - documents_storage:/app/uploads
+      - /app/.venv
+    networks:
+      - app-network
+    restart: unless-stopped
+    command: uvicorn src.main:app --host 0.0.0.0 --port 8000 --reload
+
+
+volumes:
+  documents_storage:
+    driver: local
+
+networks:
+  app-network:
+    driver: bridge

@@ -1,0 +1,442 @@
+================================================================================
+                    CHATDOCAI ARCHITECTURE SUMMARY
+================================================================================
+
+PROJECT: ChatDocAI - Self-hosted AI Chatbot for French Notaries
+BRANCH: rag-bugfix (9 modified files, 100% test pass rate)
+STATUS: Active Development
+
+================================================================================
+                          CORE LAYER DIAGRAM
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                          FRONTEND LAYER (Next.js 15)                        │
+│  ┌──────────────────────────────────────────────────────────────────────┐  │
+│  │  Pages:        /chat  /documents  /login  /signup                   │  │
+│  │  Components:   ChatInterface  DocumentManager  EvaluationForm       │  │
+│  │  Context:      AuthContext                                          │  │
+│  │  Hooks:        useCurrentUser  useToast  useMobile                 │  │
+│  │  API:          fetch wrapper (NEXT_PUBLIC_API_URL)                │  │
+│  │  UI:           50+ Radix UI primitives + Tailwind                  │  │
+│  │  AI:           Google Genkit (Gemini 2.0 Flash)                    │  │
+│  └──────────────────────────────────────────────────────────────────────┘  │
+│  Port: 9002 (dev, Turbopack) / 3000 (prod)   Stack: TS 5.7 + React 18     │
+└─────────────────────────────────────────────────────────────────────────────┘
+                                      ↓ HTTPS / REST API
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                      FASTAPI BACKEND LAYER (Python 3.11+)                   │
+│  ┌──────────────────────────────────────────────────────────────────────┐  │
+│  │ API ROUTES (6 routers)                                               │  │
+│  │  /auth          → SignUp, Login, Logout, GetMe                      │  │
+│  │  /documents     → Upload, List, Get, Delete, StartIngestion        │  │
+│  │  /chat          → SendMessage (with streaming)                      │  │
+│  │  /conversations → List, Get, Delete                                 │  │
+│  │  /evaluations   → SubmitFeedback, ListEvaluations                  │  │
+│  │  /admin         → Dashboard, Analytics                              │  │
+│  └──────────────────────────────────────────────────────────────────────┘  │
+│  ┌──────────────────────────────────────────────────────────────────────┐  │
+│  │ SERVICES (Core Business Logic)                                       │  │
+│  │  ┌────────────────────────────────────────────────────────────────┐ │  │
+│  │  │ NotariaRAGService (1,079 lines) - PROTOCOLE DAN v5             │ │  │
+│  │  │  ├─ REASON:  Query Analysis + Coreference Resolution          │ │  │
+│  │  │  ├─ ACT:     Hybrid Search (Vector + Full-Text + Rerank)      │ │  │
+│  │  │  └─ OBSERVE: Response Synthesis + Citation Extraction         │ │  │
+│  │  │  Models: gpt-4.1-nano (planning), gpt-4.1 (synthesis)          │ │  │
+│  │  │  Config: 512-token chunks, 1536-dim embeddings                 │ │  │
+│  │  └────────────────────────────────────────────────────────────────┘ │  │
+│  │  ┌────────────────────────────────────────────────────────────────┐ │  │
+│  │  │ Neo4jService (565 lines) - Knowledge Graph Management          │ │  │
+│  │  │  ├─ Vector Search (Cosine Similarity)                          │ │  │
+│  │  │  ├─ Full-Text Search (Lucene Index)                            │ │  │
+│  │  │  ├─ Graph Traversal (2-hop max)                                │ │  │
+│  │  │  └─ Entity Management                                          │ │  │
+│  │  └────────────────────────────────────────────────────────────────┘ │  │
+│  │  ┌────────────────────────────────────────────────────────────────┐ │  │
+│  │  │ MinioService (164 lines) - Object Storage                      │ │  │
+│  │  │  ├─ Upload / Download Files                                    │ │  │
+│  │  │  ├─ Multipart Uploads                                          │ │  │
+│  │  │  └─ Bucket Management                                          │ │  │
+│  │  └────────────────────────────────────────────────────────────────┘ │  │
+│  │  ┌────────────────────────────────────────────────────────────────┐ │  │
+│  │  │ OntologyService (75 lines) - Domain Knowledge                  │ │  │
+│  │  │  └─ OWL Ontology Management                                    │ │  │
+│  │  └────────────────────────────────────────────────────────────────┘ │  │
+│  └──────────────────────────────────────────────────────────────────────┘  │
+│  ┌──────────────────────────────────────────────────────────────────────┐  │
+│  │ AGENTS                                                               │  │
+│  │  └─ GraphEnrichmentAgent: Autonomous inference, anomaly detection   │  │
+│  └──────────────────────────────────────────────────────────────────────┘  │
+│  ┌──────────────────────────────────────────────────────────────────────┐  │
+│  │ SCRIPTS                                                              │  │
+│  │  ├─ ingestion_pipeline.py  → Document processing & embedding        │  │
+│  │  ├─ enrichment_pipeline.py → Graph enrichment                       │  │
+│  │  ├─ verify_minio.py        → MinIO connectivity test                │  │
+│  │  └─ benchmark_quality.py   → Quality metrics                        │  │
+│  └──────────────────────────────────────────────────────────────────────┘  │
+│  Port: 8000   Stack: FastAPI 0.115, Pydantic 2.6, async/await              │
+└─────────────────────────────────────────────────────────────────────────────┘
+        ↓               ↓                 ↓                ↓
+   ┌──────────┐  ┌──────────────┐  ┌──────────┐  ┌──────────────────┐
+   │  SUPABASE │  │   NEO4J      │  │  MINIO   │  │   OPENAI API     │
+   │PostgreSQL│  │ Knowledge    │  │ Storage  │  │ Embeddings + LLM │
+   │   Auth   │  │   Graph      │  │   (S3)   │  │ gpt-4.1 models   │
+   └──────────┘  └──────────────┘  └──────────┘  └──────────────────┘
+     Remote       Remote              Remote          Remote
+   Instances     Instance            Instance        Services
+
+================================================================================
+                           DATA FLOW EXAMPLE
+================================================================================
+
+1. USER MESSAGE (Chat Flow - PROTOCOLE DAN v5)
+   ─────────────────────────────────────────────
+   
+   User: "Quels sont les délais de rétractation?"
+   
+   Frontend
+    ↓ POST /api/chat {message, conversation_id}
+   
+   Backend Chat Route
+    ├─ Save user message to Supabase
+    ├─ Retrieve conversation history (last 10 messages)
+    └─ Call RAG Service
+   
+   RAG Service - REASON Phase (gpt-4.1-nano)
+    ├─ Analyze: "User asking about withdrawal periods"
+    ├─ Resolve coreferences: N/A
+    ├─ Expand synonyms: "délais" → "délai", "rétractation" → "rétraction", "droit de rétractation"
+    └─ Optimized query: "withdrawal period deadline retraction"
+   
+   RAG Service - ACT Phase (Parallel)
+    ├─ Vector Search: Find semantically similar chunks (cosine similarity)
+    │   Returns: [chunk_1, chunk_3, chunk_5] with scores [0.89, 0.85, 0.82]
+    │
+    └─ Full-Text Search: Find exact term matches
+        Returns: [chunk_2, chunk_6] with scores [0.91, 0.88]
+    
+    Merge & Deduplicate → [chunk_1, chunk_3, chunk_5, chunk_2, chunk_6]
+    Rerank (gpt-4.1-nano): Score by relevance → [chunk_2, chunk_1, chunk_3, chunk_5, chunk_6]
+   
+   RAG Service - OBSERVE Phase (gpt-4.1-2025)
+    ├─ Context: Conversation history + top-5 chunks
+    ├─ Generate: "Les délais de rétractation varient selon le type de contrat..."
+    ├─ Extract citations: [{doc: "Legal_Framework_1.pdf", section: "4.2"}]
+    └─ Return ChatResponse with citations
+   
+   Backend saves response to Supabase
+   ↓
+   Frontend displays response with source tooltips
+
+2. DOCUMENT UPLOAD & INGESTION
+   ───────────────────────────
+   
+   User: Uploads "NotaryLaws.pdf"
+   
+   Frontend
+    ↓ POST /api/documents/upload {file, user_id}
+   
+   Backend
+    ├─ Validate: extension, size
+    ├─ Store locally: /uploads/{uuid}.pdf (backup)
+    ├─ Upload to MinIO: training-docs/{uuid}.pdf
+    ├─ Create document record in Supabase
+    └─ Return document_id
+   
+   User: Triggers ingestion
+    ↓ POST /api/documents/start_ingestion {document_id}
+   
+   Pipeline (ingestion_pipeline.py)
+    ├─ Fetch from MinIO
+    ├─ Extract text (PyMuPDF → fallback Docling)
+    ├─ Clean text (remove artifacts)
+    ├─ Semantic Chunking: 512 tokens, 50-token overlap
+    │   Result: [Chunk_1, Chunk_2, ..., Chunk_N]
+    │
+    ├─ Entity Extraction (gpt-4.1-mini): Per chunk
+    │   "Notaire Jean Dupont travaille pour Etude Dupont..."
+    │   → Entities: Person(Jean Dupont), Org(Etude Dupont)
+    │
+    ├─ Embedding Generation (OpenAI text-embedding-3-small)
+    │   Batch: 100 chunks per request
+    │   Result: Vector[1536] per chunk
+    │
+    └─ Store in Neo4j
+        Document node
+         ├─ contains → Chunk nodes
+         │   ├─ has_embedding → Vector[1536]
+         │   └─ extracted_entity → Entity nodes
+         │       └─ relationships → Other entities
+        └─ Update Supabase: status = "complete"
+
+================================================================================
+                         DIRECTORY STRUCTURE
+================================================================================
+
+chatbot-CNCAC/
+├── backend/
+│   ├── src/
+│   │   ├── main.py                          (199 lines) FastAPI entry
+│   │   ├── api/                             (6 routers)
+│   │   │   ├── auth.py
+│   │   │   ├── chat.py
+│   │   │   ├── documents.py
+│   │   │   ├── conversations.py
+│   │   │   ├── evaluations.py
+│   │   │   └── admin.py
+│   │   ├── core/
+│   │   │   ├── config.py                    (92 lines) Settings
+│   │   │   ├── database.py                  Supabase client
+│   │   │   ├── service_manager.py           Singletons
+│   │   │   └── logger.py                    Logging
+│   │   ├── services/                        (1,883 lines core)
+│   │   │   ├── notaria_rag_service.py       (1,079 lines) RAG
+│   │   │   ├── neo4j_service.py             (565 lines) Graph DB
+│   │   │   ├── minio_service.py             (164 lines) Storage
+│   │   │   └── ontology_service.py          (75 lines) Ontology
+│   │   ├── agents/
+│   │   │   └── graph_enrichment_agent.py    Graph enrichment
+│   │   ├── models/
+│   │   │   └── schemas.py                   Pydantic models
+│   │   ├── routes/
+│   │   │   └── embedding.py                 Embedding routes
+│   │   └── prompts/                         LLM prompts
+│   ├── scripts/
+│   │   ├── ingestion_pipeline.py            Document processing
+│   │   ├── enrichment_pipeline.py           Graph enrichment
+│   │   ├── verify_minio.py                  MinIO test
+│   │   └── benchmark_quality_report.py      Quality metrics
+│   ├── tests/                               (16 modules, 60/60 passing)
+│   │   ├── test_core_config.py
+│   │   ├── test_core_database.py
+│   │   ├── test_minio_service.py
+│   │   ├── test_neo4j_service.py
+│   │   ├── test_notaria_rag_service*.py
+│   │   ├── test_api_*.py
+│   │   └── test_all_services_integrated.py
+│   ├── pyproject.toml                       Modern packaging (PEP 621)
+│   ├── pytest.ini                           Test config
+│   └── .env.example                         Environment template
+│
+├── front/
+│   ├── src/
+│   │   ├── app/                             Next.js App Router
+│   │   │   ├── (auth)/                      Auth routes
+│   │   │   │   ├── login
+│   │   │   │   ├── signup
+│   │   │   │   ├── forgot-password
+│   │   │   │   └── reset-password
+│   │   │   └── (app)/                       App routes
+│   │   │       ├── chat/[[...conversationId]]
+│   │   │       ├── documents
+│   │   │       └── layout
+│   │   ├── components/                      (50+ components)
+│   │   │   ├── app-sidebar.tsx
+│   │   │   ├── document-management.tsx
+│   │   │   ├── evaluation-component.tsx
+│   │   │   ├── citation-tooltip.tsx
+│   │   │   └── ui/                          Radix UI components
+│   │   ├── contexts/
+│   │   │   └── AuthContext.tsx
+│   │   ├── hooks/
+│   │   │   ├── use-mobile.tsx
+│   │   │   ├── useCurrentUser.ts
+│   │   │   └── use-toast.ts
+│   │   ├── lib/
+│   │   │   ├── api.ts                       API wrapper
+│   │   │   ├── types.ts                     TypeScript interfaces
+│   │   │   └── utils.ts                     Utilities
+│   │   └── ai/
+│   │       ├── genkit.ts                    Google Genkit config
+│   │       ├── dev.ts                       Dev server
+│   │       └── flows/
+│   │           └── summarize-conversation-title.ts
+│   ├── package.json
+│   ├── next.config.ts
+│   ├── tsconfig.json
+│   ├── tailwind.config.ts
+│   └── .env.local.example
+│
+├── supabase/
+│   └── migrations/                          Database schemas
+│
+├── docker-compose.dev.yml                   Dev environment
+├── docker-compose.yml                       Prod environment
+├── Makefile                                 Dev commands
+├── ARCHITECTURE.md                          (390+ lines)
+├── CLAUDE.md                                Project guidelines
+├── README.md                                Quick start
+└── CODEBASE_ANALYSIS.md                     This analysis!
+
+================================================================================
+                         KEY TECHNOLOGIES
+================================================================================
+
+Backend:
+  • FastAPI 0.115.6 - Web framework
+  • Neo4j 5.26.0 - Knowledge graph + vectors
+  • Supabase 2.3.0 - PostgreSQL + Auth
+  • MinIO 7.2.12 - S3-compatible storage
+  • Docling 2.14.0 - Document parsing with OCR
+  • PyMuPDF 1.26.3 - Fast PDF extraction
+  • OpenAI 1.58.1 - Embeddings + LLM calls
+  • Tiktoken 0.10.0 - Token counting
+  • Loguru 0.7.0 - Structured logging
+  • Pytest 8.3.4 - Testing framework
+
+Frontend:
+  • Next.js 15.5.0 - React framework
+  • React 18.3.1 - UI library
+  • TypeScript 5.7.3 - Type safety
+  • Radix UI - Component primitives
+  • Tailwind CSS 3.4.1 - Styling
+  • React Hook Form 7.54.2 - Forms
+  • Zod 3.24.2 - Runtime validation
+  • Google Genkit 1.14.1 - AI integration
+  • Lucide React 0.469.0 - Icons
+
+Infrastructure:
+  • Docker Compose - Container orchestration
+  • Makefile - Development commands
+  • GitHub Actions - CI/CD
+  • ESLint + TypeScript - Code quality
+
+================================================================================
+                       ACTIVE DEVELOPMENT
+================================================================================
+
+Current Branch: rag-bugfix
+Modified Files: 9
+  - ARCHITECTURE.md (docs update)
+  - CLAUDE.md (guidelines update)
+  - README.md (quick start update)
+  - backend/.env.example (config template)
+  - backend/src/api/chat.py (endpoint fixes)
+  - backend/src/api/evaluations.py (improvements)
+  - backend/src/core/config.py (config updates)
+  - backend/src/services/neo4j_service.py (fixes)
+  - backend/src/services/notaria_rag_service.py (RAG optimizations)
+
+Untracked: backend/coverage.json (test coverage report)
+
+Recent Commits (Key themes):
+  1. security: Fix npm audit vulnerabilities
+  2. test: Fix all failing tests (100% pass rate - 20/20)
+  3. fix(rag): Neo4j traversal + PROTOCOLE DAN optimizations
+  4. Merge pull request #43
+  5. fix: prerender issue
+
+Test Status:
+  ✅ Core tests: 60/60 passing (100% pass rate)
+  ✅ Config tests: Passing
+  ✅ Database tests: Passing
+  ✅ MinIO tests: Passing
+  ⚠️ Coverage: 28-30% (target: 70%)
+  ⚠️ Needs: RAG service integration tests
+
+================================================================================
+                      DEPLOYMENT TARGETS
+================================================================================
+
+Development:
+  Frontend: http://localhost:9002 (Turbopack hot reload)
+  Backend:  http://localhost:8000 (auto-reload)
+  API Docs: http://localhost:8000/docs
+  MinIO:    http://localhost:9001 (console)
+  Supabase: http://localhost:54321
+  
+Production:
+  Frontend: http://localhost:3000 (production build)
+  Backend:  http://localhost:8000
+  
+Cloud (Configuration):
+  Neo4j:    bolt://[remote-host]:7687
+  MinIO:    https://[remote-domain]
+  Supabase: https://[instance].supabase.co
+
+================================================================================
+                        CODE QUALITY TARGETS
+================================================================================
+
+Type Safety:
+  ✅ Backend: Strict mypy (all 137 errors fixed)
+  ✅ Frontend: Strict TypeScript
+
+Testing:
+  ✅ Framework: pytest (asyncio support)
+  ✅ Coverage target: 70%
+  ✅ Current core: 100% pass rate (20/20)
+  ⚠️ Overall: 28-30% (needs integration tests)
+
+Code Style:
+  ✅ Backend: Ruff (100 char lines, double quotes)
+  ✅ Frontend: ESLint + Prettier
+  ✅ Both: No implicit any, strict null checks
+
+Documentation:
+  ✅ ARCHITECTURE.md (390+ lines)
+  ✅ CLAUDE.md (comprehensive guidelines)
+  ✅ README.md (quick start)
+  ✅ CODEBASE_ANALYSIS.md (this file)
+  ✅ API docs: /docs (Swagger UI)
+
+================================================================================
+                      CONFIGURATION EXAMPLE
+================================================================================
+
+Backend .env:
+  SUPABASE_URL=https://[instance].supabase.co
+  SUPABASE_KEY=[service_role_key]
+  NEO4J_URL=bolt://[host]:7687
+  NEO4J_USERNAME=neo4j
+  NEO4J_PASSWORD=[password]
+  MINIO_ENDPOINT=[domain]:9000
+  MINIO_ROOT_USER=minioadmin
+  MINIO_ROOT_PASSWORD=[password]
+  OPENAI_API_KEY=[key]
+  EMBEDDING_MODEL=text-embedding-3-small
+  EMBEDDING_DIMENSIONS=1536
+  ANALYSIS_CHUNK_SIZE_TOKENS=60000
+  RETRIEVAL_CHUNK_SIZE_TOKENS=512
+
+Frontend .env.local:
+  NEXT_PUBLIC_API_URL=http://localhost:8000
+  NEXT_PUBLIC_SUPABASE_URL=https://[instance].supabase.co
+  NEXT_PUBLIC_SUPABASE_ANON_KEY=[anon_key]
+
+================================================================================
+                    FREQUENTLY USED COMMANDS
+================================================================================
+
+Make Commands:
+  make setup              # Initialize .env files
+  make dev-start          # Start all services
+  make test-backend       # Run backend tests with coverage
+  make lint               # Lint all code
+  make pre-commit         # Full CI pipeline locally
+
+Backend CLI:
+  pip install -e ".[dev]"                 # Install with dev dependencies
+  pytest                                  # Run all tests
+  pytest --cov                            # With coverage report
+  ruff check src/ tests/                  # Lint
+  mypy src/ --ignore-missing-imports      # Type check
+  python scripts/ingestion_pipeline.py    # Process documents
+  python -m src.agents.graph_enrichment_agent  # Enrich graph
+
+Frontend npm:
+  npm install                             # Install dependencies
+  npm run dev                             # Start dev server (port 9002)
+  npm run build                           # Build for production
+  npm run lint                            # ESLint
+  npm run typecheck                       # TypeScript check
+  npm test                                # Jest tests
+
+Docker:
+  docker-compose -f docker-compose.dev.yml up -d    # Start dev
+  docker-compose -f docker-compose.dev.yml down      # Stop dev
+  docker-compose -f docker-compose.dev.yml logs -f   # View logs
+
+================================================================================
+END OF ARCHITECTURE SUMMARY
+================================================================================

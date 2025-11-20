@@ -1,0 +1,188 @@
+version: '3.8'
+
+services:
+  frontend:
+    build: ./front
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+      - NEXT_PUBLIC_SUPABASE_URL=http://localhost:54321
+      - NEXT_PUBLIC_SUPABASE_ANON_KEY=${SUPABASE_ANON_KEY}
+    depends_on:
+      - backend
+    networks:
+      - app-network
+    restart: unless-stopped
+
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      - SUPABASE_URL=http://supabase:54321
+      - SUPABASE_ANON_KEY=${SUPABASE_ANON_KEY}
+      - SUPABASE_SERVICE_ROLE_KEY=${SUPABASE_SERVICE_ROLE_KEY}
+      - UPLOAD_DIR=/app/uploads
+      - MAX_FILE_SIZE=50MB
+      - ALLOWED_EXTENSIONS=pdf,docx,txt,md
+    volumes:
+      - documents_storage:/app/uploads
+      - ./backend/protocole_operationnel.py:/app/protocole_operationnel.py
+    depends_on:
+      - supabase
+    networks:
+      - app-network
+    restart: unless-stopped
+
+  # Supabase self-hosted stack
+  supabase:
+    image: supabase/postgres:15.1.0.117
+    ports:
+      - "54322:5432"  # PostgreSQL port
+    environment:
+      - POSTGRES_HOST=/var/run/postgresql
+      - PGPORT=5432
+      - POSTGRES_PORT=5432
+      - PGPASSWORD=${POSTGRES_PASSWORD:-postgres}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-postgres}
+      - PGDATABASE=${POSTGRES_DB:-postgres}
+      - POSTGRES_DB=${POSTGRES_DB:-postgres}
+      - PGUSER=${POSTGRES_USER:-postgres}
+      - POSTGRES_USER=${POSTGRES_USER:-postgres}
+    volumes:
+      - supabase_db_data:/var/lib/postgresql/data
+      - ./supabase/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    networks:
+      - app-network
+    restart: unless-stopped
+
+  # Supabase API Gateway
+  supabase-kong:
+    image: kong:2.8-alpine
+    ports:
+      - "54321:8000"  # Supabase API port
+    environment:
+      - KONG_DATABASE=off
+      - KONG_DECLARATIVE_CONFIG=/kong.yml
+      - KONG_DNS_ORDER=LAST,A,CNAME
+      - KONG_PLUGINS=request-transformer,cors,key-auth,acl,rate-limiting
+      - KONG_NGINX_PROXY_PROXY_BUFFER_SIZE=160k
+      - KONG_NGINX_PROXY_PROXY_BUFFERS=64 160k
+    volumes:
+      - ./supabase/kong.yml:/kong.yml:ro
+    depends_on:
+      - supabase
+    networks:
+      - app-network
+    restart: unless-stopped
+
+  # Supabase Auth
+  supabase-auth:
+    image: supabase/gotrue:v2.99.0
+    ports:
+      - "9999:9999"
+    environment:
+      - GOTRUE_API_HOST=0.0.0.0
+      - GOTRUE_API_PORT=9999
+      - API_EXTERNAL_URL=http://localhost:54321
+      - GOTRUE_DB_DRIVER=postgres
+      - GOTRUE_DB_DATABASE_URL=postgres://supabase_auth_admin:${POSTGRES_PASSWORD:-postgres}@supabase:5432/postgres
+      - GOTRUE_SITE_URL=http://localhost:3000
+      - GOTRUE_URI_ALLOW_LIST=http://localhost:3000
+      - GOTRUE_DISABLE_SIGNUP=false
+      - GOTRUE_JWT_ADMIN_ROLES=service_role
+      - GOTRUE_JWT_AUD=authenticated
+      - GOTRUE_JWT_DEFAULT_GROUP_NAME=authenticated
+      - GOTRUE_JWT_EXP=3600
+      - GOTRUE_JWT_SECRET=${JWT_SECRET}
+      - GOTRUE_EXTERNAL_EMAIL_ENABLED=true
+      - GOTRUE_MAILER_AUTOCONFIRM=true
+    depends_on:
+      - supabase
+    networks:
+      - app-network
+    restart: unless-stopped
+
+  # Supabase Realtime
+  supabase-realtime:
+    image: supabase/realtime:v2.25.35
+    ports:
+      - "4000:4000"
+    environment:
+      - PORT=4000
+      - DB_HOST=supabase
+      - DB_PORT=5432
+      - DB_USER=supabase_admin
+      - DB_PASSWORD=${POSTGRES_PASSWORD:-postgres}
+      - DB_NAME=postgres
+      - DB_AFTER_CONNECT_QUERY=SET search_path TO _realtime
+      - DB_ENC_KEY=supabaserealtime
+      - API_JWT_SECRET=${JWT_SECRET}
+      - FLY_ALLOC_ID=fly123
+      - FLY_APP_NAME=realtime
+      - SECRET_KEY_BASE=${SECRET_KEY_BASE}
+      - ERL_AFLAGS=-proto_dist inet_tcp
+      - ENABLE_TAILSCALE=false
+      - DNS_NODES='[\"127.0.0.1\"]'
+    depends_on:
+      - supabase
+    networks:
+      - app-network
+    restart: unless-stopped
+
+  # Supabase Storage
+  supabase-storage:
+    image: supabase/storage-api:v0.40.4
+    ports:
+      - "5000:5000"
+    environment:
+      - ANON_KEY=${SUPABASE_ANON_KEY}
+      - SERVICE_KEY=${SUPABASE_SERVICE_ROLE_KEY}
+      - POSTGREST_URL=http://supabase-rest:3000
+      - PGRST_JWT_SECRET=${JWT_SECRET}
+      - DATABASE_URL=postgres://supabase_storage_admin:${POSTGRES_PASSWORD:-postgres}@supabase:5432/postgres
+      - FILE_SIZE_LIMIT=52428800
+      - STORAGE_BACKEND=file
+      - FILE_STORAGE_BACKEND_PATH=/var/lib/storage
+      - TENANT_ID=stub
+      - REGION=stub
+      - GLOBAL_S3_BUCKET=stub
+    volumes:
+      - supabase_storage_data:/var/lib/storage
+    depends_on:
+      - supabase
+      - supabase-rest
+    networks:
+      - app-network
+    restart: unless-stopped
+
+  # Supabase REST API
+  supabase-rest:
+    image: postgrest/postgrest:v11.2.0
+    ports:
+      - "3001:3000"
+    environment:
+      - PGRST_DB_URI=postgres://authenticator:${POSTGRES_PASSWORD:-postgres}@supabase:5432/postgres
+      - PGRST_DB_SCHEMAS=public,storage,graphql_public
+      - PGRST_DB_ANON_ROLE=anon
+      - PGRST_JWT_SECRET=${JWT_SECRET}
+      - PGRST_DB_USE_LEGACY_GUCS=false
+    depends_on:
+      - supabase
+    networks:
+      - app-network
+    restart: unless-stopped
+
+volumes:
+  documents_storage:
+    driver: local
+  supabase_db_data:
+    driver: local
+  supabase_storage_data:
+    driver: local
+
+networks:
+  app-network:
+    driver: bridge

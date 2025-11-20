@@ -1,0 +1,68 @@
+2025-08-09 17:15:02,491 - [INFO] - --- PROTOCOLE DE DÉMARRAGE CENTRALISÉ ---
+2025-08-09 17:15:02,491 - [INFO] -   > Initialisation de Neo4j...
+2025-08-09 17:15:02,720 - [INFO] - ✅ Neo4j connection established
+2025-08-09 17:15:02,754 - [INFO] - Vector index for chunks created/verified
+2025-08-09 17:15:02,754 - [INFO] - Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE VECTOR INDEX chunk_embeddings IF NOT EXISTS FOR (e:Chunk) ON (e.embedding) OPTIONS {indexConfig: {`vector.dimensions`: 1536, `vector.similarity_function`: "cosine"}}` has no effect.} {description: `VECTOR INDEX chunk_embeddings FOR (e:Chunk) ON (e.embedding)` already exists.} {position: None} for query: "\n                    CREATE VECTOR INDEX chunk_embeddings IF NOT EXISTS\n                    FOR (c:Chunk) ON (c.embedding)\n                    OPTIONS {indexConfig: {\n                        `vector.dimensions`: 1536,\n                        `vector.similarity_function`: 'cosine'\n                    }}\n                "
+2025-08-09 17:15:02,754 - [INFO] -   > ✅ Neo4j opérationnel.
+2025-08-09 17:15:02,754 - [INFO] -   > Initialisation de MinIO...
+2025-08-09 17:15:03,124 - [INFO] - Bucket documents already exists
+2025-08-09 17:15:03,125 - [INFO] -   > ✅ MinIO opérationnel.
+2025-08-09 17:15:03,125 - [INFO] -   > Vérification du service RAG...
+2025-08-09 17:15:03,190 - [INFO] -   > ✅ Service RAG prêt.
+2025-08-09 17:15:03,190 - [INFO] - --- ✅ TOUS LES SYSTÈMES SONT OPÉRATIONNELS ---
+2025-08-09 17:15:03,190 - [INFO] - 🔌 Création de la connexion singleton Supabase...
+2025-08-09 17:15:03,196 - [INFO] -     > Vérification du schéma de la base de données...
+2025-08-09 17:15:03,429 - [INFO] - HTTP Request: GET https://supabase.chatbotpro.fr/rest/v1/document_ingestion_status?select=id&limit=1 "HTTP/2 200 OK"
+2025-08-09 17:15:03,433 - [INFO] -     > ✅ Schéma Supabase validé.
+2025-08-09 17:15:03,439 - [WARNING] - !!! ORDRE DE PURGE TOTALE REÇU !!!
+2025-08-09 17:15:03,439 - [INFO] -   > Purge de la base de connaissances Neo4j...
+2025-08-09 17:15:03,439 - [WARNING] - 🔥 Protocole de purge par vagues engagé...
+2025-08-09 17:15:04,166 - [INFO] -   > Vague de purge : 2762 nœuds anéantis. (Total: 2762)
+2025-08-09 17:15:04,249 - [INFO] - ✅ Protocole de purge terminé. Total anéanti: 2762 nœuds.
+2025-08-09 17:15:04,249 - [INFO] -   > ✅ Base de connaissances anéantie.
+2025-08-09 17:15:04,249 - [INFO] -   > Purge du journal de bord Supabase...
+2025-08-09 17:15:04,293 - [INFO] - HTTP Request: DELETE https://supabase.chatbotpro.fr/rest/v1/document_ingestion_status?status=neq.never_delete "HTTP/2 200 OK"
+2025-08-09 17:15:04,379 - [INFO] -   > ✅ Journal de bord réinitialisé.
+2025-08-09 17:15:04,379 - [WARNING] - !!! PURGE TOTALE TERMINÉE !!!
+2025-08-09 17:15:04,379 - [INFO] - 🔍 Lancement d'une mission de fourrage en mode RUCHE (concurrence: 2)...
+2025-08-09 17:15:04,518 - [INFO] - 💥 Déploiement de 244 escouades. Assaut en cours...
+2025-08-09 17:15:04,519 - [INFO] -   > Escouade 1 engagée sur la cible 20250115 Note Décret 2024-906 relatif aux inspections des officiers publics et ministériels et arrêté.pdf
+2025-08-09 17:15:04,519 - [INFO] - --- [1/244] Engagement de la cible : 20250115 Note Décret 2024-906 relatif aux inspections des officiers publics et ministériels et arrêté.pdf ---
+2025-08-09 17:15:04,604 - [INFO] -   > Escouade 2 engagée sur la cible 20250709_ext_adsn_vade-mecum_signacte_1.pdf
+2025-08-09 17:15:04,604 - [INFO] - --- [2/244] Engagement de la cible : 20250709_ext_adsn_vade-mecum_signacte_1.pdf ---
+2025-08-09 17:15:04,650 - [INFO] - HTTP Request: POST https://supabase.chatbotpro.fr/rest/v1/document_ingestion_status?on_conflict=filename "HTTP/2 201 Created"
+2025-08-09 17:15:04,747 - [INFO] -   > Transmission de 26129 caractères pour analyse brute...
+2025-08-09 17:15:04,748 - [INFO] - 🔬 Hélice 1: Analyse brute de 20250115 Note Décret 2024-906 relatif aux inspections des officiers publics et ministériels et arrêté_pdf
+2025-08-09 17:15:04,748 - [INFO] - HTTP Request: POST https://supabase.chatbotpro.fr/rest/v1/document_ingestion_status?on_conflict=filename "HTTP/2 201 Created"
+2025-08-09 17:15:05,069 - [INFO] -   > Transmission de 6259 caractères pour analyse brute...
+2025-08-09 17:15:05,069 - [INFO] - 🔬 Hélice 1: Analyse brute de 20250709_ext_adsn_vade-mecum_signacte_1_pdf
+2025-08-09 17:15:05,698 - [INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-09 17:15:05,826 - [INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-09 17:15:50,950 - [INFO] -   > Embedding batch de 3 chunks...
+2025-08-09 17:15:51,562 - [INFO] - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-09 17:15:51,902 - [INFO] - N4J: Stocké 3 chunks pour le document 20250709_ext_adsn_vade-mecum_signacte_1_pdf
+2025-08-09 17:15:51,903 - [INFO] -   ✅ Analyse brute réussie.
+2025-08-09 17:15:52,065 - [INFO] - HTTP Request: PATCH https://supabase.chatbotpro.fr/rest/v1/document_ingestion_status?filename=eq.20250709_ext_adsn_vade-mecum_signacte_1.pdf "HTTP/2 200 OK"
+2025-08-09 17:15:52,068 - [INFO] -   > Escouade 3 engagée sur la cible Assurances/CONTRAT CYBER RENOUVELLEMENT AU 01.07.2025.pdf
+2025-08-09 17:15:52,068 - [INFO] - --- [3/244] Engagement de la cible : Assurances/CONTRAT CYBER RENOUVELLEMENT AU 01.07.2025.pdf ---
+2025-08-09 17:15:52,389 - [INFO] - HTTP Request: POST https://supabase.chatbotpro.fr/rest/v1/document_ingestion_status?on_conflict=filename "HTTP/2 201 Created"
+2025-08-09 17:15:52,408 - [WARNING] -   > Éclaireur PyMuPDF inefficace. Déploiement du bélier (Docling+OCR)...
+2025-08-09 17:15:52,410 - [INFO] - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-08-09 17:15:52,467 - [INFO] - Going to convert document batch...
+2025-08-09 17:15:52,468 - [INFO] - Initializing pipeline for StandardPdfPipeline with options hash 130b240947e51886114a732a44356305
+2025-08-09 17:15:52,485 - [INFO] - Loading plugin 'docling_defaults'
+2025-08-09 17:15:52,487 - [INFO] - Registered ocr engines: ['easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2025-08-09 17:16:14,614 - [INFO] - Accelerator device: 'mps'
+2025-08-09 17:16:19,388 - [INFO] - Accelerator device: 'mps'
+2025-08-09 17:16:26,390 - [INFO] - Accelerator device: 'mps'
+2025-08-09 17:16:27,086 - [INFO] - Loading plugin 'docling_defaults'
+2025-08-09 17:16:27,087 - [INFO] - Registered picture descriptions: ['vlm', 'api']
+2025-08-09 17:16:27,088 - [INFO] - Processing document CONTRAT CYBER RENOUVELLEMENT AU 01.07.2025.pdf
+/Users/juliendabert/chatbot-CNCAC/backend/venv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:684: UserWarning: 'pin_memory' argument is set as true but not supported on MPS now, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+/Users/juliendabert/chatbot-CNCAC/backend/venv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:684: UserWarning: 'pin_memory' argument is set as true but not supported on MPS now, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+/Users/juliendabert/chatbot-CNCAC/backend/venv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:684: UserWarning: 'pin_memory' argument is set as true but not supported on MPS now, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+/Users/juliendabert/chatbot-CNCAC/backend/venv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:684: UserWarning: 'pin_memory' argument is set as true but not supported on MPS now, then device pinned memory won't be used.
+  warnings.warn(warn_msg)

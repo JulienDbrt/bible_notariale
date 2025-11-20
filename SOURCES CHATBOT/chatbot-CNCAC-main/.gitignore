@@ -1,0 +1,45 @@
+# Dependencies
+front/node_modules/*
+node_modules/
+
+# Environment files - CRITICAL SECURITY
+.env
+.env.local
+.env.*.local
+backend/.env
+front/.env.local
+*.env
+
+# Build artifacts
+.next/
+dist/
+build/
+*.pyc
+__pycache__/
+.DS_Store
+tsconfig.tsbuildinfo
+
+# Virtual environments
+venv/
+env/
+.venv/
+backend/venv/
+
+# Test and temporary files
+test_*.py
+evaluation_*.*
+*_storage/
+*.log
+lightrag_patches/
+notaria_storage/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Cache
+.cache/
+*.cache
+backend/chatbot_cncac_backend.egg-info/

@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:notaria="http://www.notaria.ai/schema#">
+
+    <!-- ==================================================================== -->
+    <!-- ==      ONTOLOGIE NOTARIA v4.1 - Juillet 2025 - Julien DABERT     == -->
+    <!-- ==================================================================== -->
+
+    <!-- ============================= -->
+    <!--          ENTITÉS            -->
+    <!-- ============================= -->
+    <owl:Class rdf:about="#Entite"/>
+    <owl:Class rdf:about="#Personne">
+        <rdfs:subClassOf rdf:resource="#Entite"/>
+        <rdfs:label xml:lang="fr">Personne</rdfs:label><rdfs:label xml:lang="fr">partie</rdfs:label><rdfs:label xml:lang="fr">particulier</rdfs:label><rdfs:label xml:lang="fr">personne physique</rdfs:label><rdfs:label xml:lang="fr">personne morale</rdfs:label><rdfs:label xml:lang="fr">client</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#ActeurJuridique">
+        <rdfs:subClassOf rdf:resource="#Personne"/>
+        <rdfs:label xml:lang="fr">Acteur Juridique</rdfs:label><rdfs:label xml:lang="fr">professionnel du droit</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#Notaire">
+        <rdfs:subClassOf rdf:resource="#ActeurJuridique"/>
+        <rdfs:label xml:lang="fr">Notaire</rdfs:label><rdfs:label xml:lang="fr">notaires</rdfs:label><rdfs:label xml:lang="fr">officier public</rdfs:label><rdfs:label xml:lang="fr">confrère</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#SalarieNotariat">
+        <rdfs:subClassOf rdf:resource="#Personne"/>
+        <rdfs:label xml:lang="fr">Salarié du Notariat</rdfs:label><rdfs:label xml:lang="fr">salarié</rdfs:label><rdfs:label xml:lang="fr">collaborateur</rdfs:label><rdfs:label xml:lang="fr">cadre</rdfs:label><rdfs:label xml:lang="fr">clerc</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#Organisation">
+        <rdfs:subClassOf rdf:resource="#Entite"/>
+        <rdfs:label xml:lang="fr">Organisation</rdfs:label><rdfs:label xml:lang="fr">société</rdfs:label><rdfs:label xml:lang="fr">entreprise</rdfs:label><rdfs:label xml:lang="fr">établissement</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#OfficeNotarial">
+        <rdfs:subClassOf rdf:resource="#Organisation"/>
+        <rdfs:label xml:lang="fr">Office Notarial</rdfs:label><rdfs:label xml:lang="fr">étude notariale</rdfs:label><rdfs:label xml:lang="fr">étude</rdfs:label><rdfs:label xml:lang="fr">office</rdfs:label><rdfs:label xml:lang="fr">SCP</rdfs:label><rdfs:label xml:lang="fr">SPE</rdfs:label><rdfs:label xml:lang="fr">SMO</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#InstanceNotariale">
+      <rdfs:subClassOf rdf:resource="#Organisation"/>
+      <rdfs:label xml:lang="fr">Instance Notariale</rdfs:label><rdfs:label xml:lang="fr">instances</rdfs:label><rdfs:label xml:lang="fr">CSN</rdfs:label><rdfs:label xml:lang="fr">Conseil Supérieur du Notariat</rdfs:label><rdfs:label xml:lang="fr">Chambre des Notaires</rdfs:label><rdfs:label xml:lang="fr">CRIDON</rdfs:label><rdfs:label xml:lang="fr">assemblée générale</rdfs:label><rdfs:label xml:lang="fr">commission</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#BienImmobilier">
+        <rdfs:subClassOf rdf:resource="#Entite"/>
+        <rdfs:label xml:lang="fr">Bien Immobilier</rdfs:label><rdfs:label xml:lang="fr">immeuble</rdfs:label><rdfs:label xml:lang="fr">terrain</rdfs:label><rdfs:label xml:lang="fr">logement</rdfs:label><rdfs:label xml:lang="fr">fonds de commerce</rdfs:label><rdfs:label xml:lang="fr">propriété</rdfs:label>
+    </owl:Class>
+    
+    <!-- ============================= -->
+    <!--          PROCESSUS & ACTES     -->
+    <!-- ============================= -->
+    <owl:Class rdf:about="#ProcessusJuridique"/>
+    <owl:Class rdf:about="#ActeNotarie">
+        <rdfs:subClassOf rdf:resource="#ProcessusJuridique"/>
+        <rdfs:label xml:lang="fr">Acte Notarié</rdfs:label><rdfs:label xml:lang="fr">acte authentique</rdfs:label><rdfs:label xml:lang="fr">acte</rdfs:label><rdfs:label xml:lang="fr">contrat</rdfs:label><rdfs:label xml:lang="fr">convention</rdfs:label><rdfs:label xml:lang="fr">minute</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#VenteImmobiliere">
+        <rdfs:subClassOf rdf:resource="#ActeNotarie"/>
+        <rdfs:label xml:lang="fr">Vente Immobilière</rdfs:label><rdfs:label xml:lang="fr">vente</rdfs:label><rdfs:label xml:lang="fr">cession</rdfs:label><rdfs:label xml:lang="fr">acquisition</rdfs:label><rdfs:label xml:lang="fr">négociation immobilière</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#Succession">
+        <rdfs:subClassOf rdf:resource="#ProcessusJuridique"/>
+        <rdfs:label xml:lang="fr">Succession</rdfs:label><rdfs:label xml:lang="fr">règlement de succession</rdfs:label><rdfs:label xml:lang="fr">héritage</rdfs:label><rdfs:label xml:lang="fr">partage</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#ProcedureDisciplinaire">
+        <rdfs:subClassOf rdf:resource="#ProcessusJuridique"/>
+        <rdfs:label xml:lang="fr">Procédure Disciplinaire</rdfs:label><rdfs:label xml:lang="fr">action disciplinaire</rdfs:label><rdfs:label xml:lang="fr">sanction disciplinaire</rdfs:label><rdfs:label xml:lang="fr">poursuite disciplinaire</rdfs:label><rdfs:label xml:lang="fr">réclamation</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#Inspection">
+        <rdfs:subClassOf rdf:resource="#ProcessusJuridique"/>
+        <rdfs:label xml:lang="fr">Inspection</rdfs:label><rdfs:label xml:lang="fr">inspection périodique</rdfs:label><rdfs:label xml:lang="fr">inspection occasionnelle</rdfs:label><rdfs:label xml:lang="fr">contrôle</rdfs:label>
+    </owl:Class>
+
+    <!-- ============================= -->
+    <!--          CONCEPTS ABSTRAITS    -->
+    <!-- ============================= -->
+    <owl:Class rdf:about="#Concept"/>
+    <owl:Class rdf:about="#RegleJuridique">
+        <rdfs:subClassOf rdf:resource="#Concept"/>
+        <rdfs:label xml:lang="fr">Règle Juridique</rdfs:label><rdfs:label xml:lang="fr">règle</rdfs:label><rdfs:label xml:lang="fr">principe</rdfs:label><rdfs:label xml:lang="fr">disposition</rdfs:label><rdfs:label xml:lang="fr">loi</rdfs:label><rdfs:label xml:lang="fr">code</rdfs:label><rdfs:label xml:lang="fr">décret</rdfs:label><rdfs:label xml:lang="fr">ordonnance</rdfs:label><rdfs:label xml:lang="fr">règlement</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#Deontologie">
+        <rdfs:subClassOf rdf:resource="#RegleJuridique"/>
+        <rdfs:label xml:lang="fr">Déontologie</rdfs:label><rdfs:label xml:lang="fr">secret professionnel</rdfs:label><rdfs:label xml:lang="fr">confidentialité</rdfs:label><rdfs:label xml:lang="fr">discipline</rdfs:label><rdfs:label xml:lang="fr">publicité</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#DroitSocialNotariat">
+        <rdfs:subClassOf rdf:resource="#RegleJuridique"/>
+        <rdfs:label xml:lang="fr">Droit Social du Notariat</rdfs:label><rdfs:label xml:lang="fr">convention collective</rdfs:label><rdfs:label xml:lang="fr">salaire</rdfs:label><rdfs:label xml:lang="fr">congé</rdfs:label><rdfs:label xml:lang="fr">licenciement</rdfs:label><rdfs:label xml:lang="fr">retraite</rdfs:label><rdfs:label xml:lang="fr">13ème mois</rdfs:label><rdfs:label xml:lang="fr">préavis</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#Fiscalite">
+        <rdfs:subClassOf rdf:resource="#Concept"/>
+        <rdfs:label xml:lang="fr">Fiscalité</rdfs:label><rdfs:label xml:lang="fr">impôt</rdfs:label><rdfs:label xml:lang="fr">taxe</rdfs:label><rdfs:label xml:lang="fr">TVA</rdfs:label><rdfs:label xml:lang="fr">plus-value</rdfs:label><rdfs:label xml:lang="fr">émoluments</rdfs:label><rdfs:label xml:lang="fr">honoraires</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#Cybersecurite">
+        <rdfs:subClassOf rdf:resource="#Concept"/>
+        <rdfs:label xml:lang="fr">Cybersécurité</rdfs:label><rdfs:label xml:lang="fr">cyber</rdfs:label><rdfs:label xml:lang="fr">fraude informatique</rdfs:label><rdfs:label xml:lang="fr">ransomware</rdfs:label><rdfs:label xml:lang="fr">mot de passe</rdfs:label><rdfs:label xml:lang="fr">DDoS</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#Assurance">
+        <rdfs:subClassOf rdf:resource="#Concept"/>
+        <rdfs:label xml:lang="fr">Assurance</rdfs:label><rdfs:label xml:lang="fr">contrat d'assurance</rdfs:label><rdfs:label xml:lang="fr">garantie</rdfs:label><rdfs:label xml:lang="fr">franchise</rdfs:label><rdfs:label xml:lang="fr">sinistre</rdfs:label><rdfs:label xml:lang="fr">co-assureur</rdfs:label><rdfs:label xml:lang="fr">co-assureurs</rdfs:label><rdfs:label xml:lang="fr">coassureur</rdfs:label><rdfs:label xml:lang="fr">parts respectives</rdfs:label><rdfs:label xml:lang="fr">quote-part</rdfs:label><rdfs:label xml:lang="fr">répartition</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#LCBFT">
+        <rdfs:subClassOf rdf:resource="#Concept"/>
+        <rdfs:label xml:lang="fr">Lutte Contre le Blanchiment et le Financement du Terrorisme</rdfs:label><rdfs:label xml:lang="fr">LCB-FT</rdfs:label><rdfs:label xml:lang="fr">blanchiment de capitaux</rdfs:label><rdfs:label xml:lang="fr">analyse nationale des risques</rdfs:label><rdfs:label xml:lang="fr">ANR</rdfs:label>
+    </owl:Class>
+    <owl:Class rdf:about="#Role">
+        <rdfs:subClassOf rdf:resource="#Concept"/>
+        <rdfs:label xml:lang="fr">Rôle</rdfs:label><rdfs:label xml:lang="fr">vendeur</rdfs:label><rdfs:label xml:lang="fr">acquéreur</rdfs:label><rdfs:label xml:lang="fr">donateur</rdfs:label><rdfs:label xml:lang="fr">donataire</rdfs:label><rdfs:label xml:lang="fr">bailleur</rdfs:label><rdfs:label xml:lang="fr">locataire</rdfs:label><rdfs:label xml:lang="fr">héritier</rdfs:label><rdfs:label xml:lang="fr">emprunteur</rdfs:label><rdfs:label xml:lang="fr">créancier</rdfs:label>
+    </owl:Class>
+    
+    <!-- NOUVELLES CLASSES POUR CORTEX SÉMANTIQUE -->
+    <owl:Class rdf:about="#ConceptJuridique">
+        <rdfs:subClassOf rdf:resource="#Concept"/>
+        <rdfs:label>ConceptJuridique</rdfs:label>
+        <rdfs:label>concept juridique</rdfs:label>
+        <rdfs:label>CONCEPT_JURIDIQUE</rdfs:label>
+        <rdfs:label>franchise aggravée</rdfs:label>
+        <rdfs:label>société multi-offices</rdfs:label>
+        <rdfs:label>SMO</rdfs:label>
+        <rdfs:label>comparution à distance</rdfs:label>
+        <rdfs:label>partage amiable</rdfs:label>
+        <rdfs:label>apostille</rdfs:label>
+        <rdfs:label>droit de présentation</rdfs:label>
+        <rdfs:label>mandat non-exclusif</rdfs:label>
+        <rdfs:label>VEFA</rdfs:label>
+        <rdfs:label>inspection périodique</rdfs:label>
+        <rdfs:label>affectation hypothécaire</rdfs:label>
+    </owl:Class>
+    
+    <owl:Class rdf:about="#Document">
+        <rdfs:subClassOf rdf:resource="#Entite"/>
+        <rdfs:label>Document</rdfs:label>
+        <rdfs:label>DOCUMENT</rdfs:label>
+        <rdfs:label>contrat</rdfs:label>
+        <rdfs:label>avenant</rdfs:label>
+        <rdfs:label>décret</rdfs:label>
+        <rdfs:label>arrêté</rdfs:label>
+        <rdfs:label>acte</rdfs:label>
+        <rdfs:label>convention</rdfs:label>
+    </owl:Class>
+    
+    <owl:Class rdf:about="#Date">
+        <rdfs:subClassOf rdf:resource="#Entite"/>
+        <rdfs:label>Date</rdfs:label>
+        <rdfs:label>DATE</rdfs:label>
+        <rdfs:label>date</rdfs:label>
+        <rdfs:label>échéance</rdfs:label>
+        <rdfs:label>terme</rdfs:label>
+    </owl:Class>
+    
+    <owl:Class rdf:about="#Lieu">
+        <rdfs:subClassOf rdf:resource="#Entite"/>
+        <rdfs:label>Lieu</rdfs:label>
+        <rdfs:label>LIEU</rdfs:label>
+        <rdfs:label>lieu</rdfs:label>
+        <rdfs:label>ville</rdfs:label>
+        <rdfs:label>région</rdfs:label>
+        <rdfs:label>département</rdfs:label>
+        <rdfs:label>adresse</rdfs:label>
+        <rdfs:label>localisation</rdfs:label>
+    </owl:Class>
+
+    <!-- ============================= -->
+    <!--          PROPRIETES           -->
+    <!-- ============================= -->
+    <owl:ObjectProperty rdf:about="#implique"/>
+    <owl:ObjectProperty rdf:about="#concerne"/>
+    <owl:ObjectProperty rdf:about="#estRegiPar"/>
+    <owl:ObjectProperty rdf:about="#aPourRole"/>
+</rdf:RDF>
